@@ -1,7 +1,7 @@
 ---
 title: OpenAI Unveils New Enterprise-Focused ChatGPT Solution – Latest Innovation in AI Assistance
-date: 2024-09-17 19:10:25
-updated: 2024-09-20 11:52:36
+date: 2024-09-18T16:39:33.692Z
+updated: 2024-09-19T20:27:12.781Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -158,8 +172,6 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

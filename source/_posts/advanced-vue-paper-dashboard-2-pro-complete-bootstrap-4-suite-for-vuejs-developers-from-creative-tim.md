@@ -1,7 +1,7 @@
 ---
 title: "Advanced Vue Paper Dashboard 2 PRO: Complete Bootstrap 4 Suite for Vue.js Developers From Creative Tim"
-date: 2024-09-19 22:32:15
-updated: 2024-09-20 10:49:25
+date: 2024-09-16T21:30:37.865Z
+updated: 2024-09-20T00:03:30.414Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

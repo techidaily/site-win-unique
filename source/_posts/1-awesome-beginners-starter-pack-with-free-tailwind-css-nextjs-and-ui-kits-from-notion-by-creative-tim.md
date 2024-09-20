@@ -1,7 +1,7 @@
 ---
 title: 1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim
-date: 2024-09-19 17:22:38
-updated: 2024-09-20 11:56:58
+date: 2024-09-19T05:07:32.496Z
+updated: 2024-09-19T16:47:10.280Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
