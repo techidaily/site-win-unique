@@ -1,7 +1,7 @@
 ---
 title: The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained
-date: 2024-09-16T23:24:40.911Z
-updated: 2024-09-19T18:24:21.735Z
+date: 2024-09-23T00:11:06.895Z
+updated: 2024-09-25T18:50:32.106Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,17 +61,38 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -84,25 +105,11 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -146,3 +153,20 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[New] Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-video-on-google-hangouts/"><u>[New] In 2024, How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-screen-grabbers/"><u>[Updated] 2024 Approved Ultimate Guide to Screen Grabbers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discover-the-best-6-apps-to-supercharge-your-instagram-reels-for-2024/"><u>Discover the Best 6 Apps to Supercharge Your Instagram Reels for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essentials-in-filming-journeys/"><u>Essentials in Filming Journeys</u></a></li>
+<li><a href="https://win-unique.techidaily.com/exclusive-offer-authentic-microsoft-pro-licenses-for-a-steal-just-20-spotted-on-zdnet/"><u>Exclusive Offer: Authentic Microsoft Pro Licenses for a Steal - Just $20, Spotted on ZDNet!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/from-low-to-none-the-transformative-role-of-generative-ai-in-evolving-code-free-solutions-zdnet-insights/"><u>From Low to None: The Transformative Role of Generative AI in Evolving Code-Free Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-ready-microsoft-introduces-pay-to-play-model-for-windows-11-updates-starting-next-year-cost-breakdown/"><u>Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-latest-breakthroughs-at-the-surface-and-ai-event-unwrapped-comprehensive-coverage-by-zdnet/"><u>Microsoft's Latest Breakthroughs at the Surface & AI Event Unwrapped | Comprehensive Coverage by ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/wirecast-techniques-for-captivating-facebook-viewers-for-2024/"><u>Wirecast Techniques for Captivating Facebook Viewers for 2024</u></a></li>
+</ul></div>
+

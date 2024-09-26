@@ -1,7 +1,7 @@
 ---
 title: Microsoft Considers Curtailing Third-Party Tweaks in Windows 11 Build 24H2 – Insights by Tech Journalist [ZDNET]
-date: 2024-09-17T02:14:39.268Z
-updated: 2024-09-19T17:58:14.319Z
+date: 2024-09-19T23:03:33.615Z
+updated: 2024-09-26T00:53:31.975Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -164,3 +178,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/hannel-dominance-plan-studio-protocol-vs-beta-update/"><u>[New] Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>[New] In 2024, GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-free-download-comprehensive-collection-of-eye-disorder-diagnosis-videos-including-detailed-roots-and-slide-lamp-studies/"><u>1. Free Download: Comprehensive Collection of Eye Disorder Diagnosis Videos - Including Detailed Roots and Slide Lamp Studies</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ard-content-extractor-convert-your-favorite-shows-into-high-quality-formats/"><u>ARD Content Extractor - Convert Your Favorite Shows Into High-Quality Formats</u></a></li>
+<li><a href="https://win-unique.techidaily.com/best-free-online-film-platforms-and-guiding-you-through-downloading-films-without-worrying-about-internet/"><u>Best Free Online Film Platforms & Guiding You Through Downloading Films Without Worrying About Internet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
+<li><a href="https://win-unique.techidaily.com/catch-up-on-your-favorite-plays-seamless-streaming-of-scripted-shows-via-dramanice-downloads/"><u>Catch Up on Your Favorite Plays: Seamless Streaming of Scripted Shows via Dramanice Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-for-turning-on-your-pcs-bluetooth-feature-in-windows-1110/"><u>Comprehensive Tutorial for Turning On Your PC’s Bluetooth Feature in Windows 11/10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/creating-captivating-hdr-portraits-in-10-steps/"><u>Creating Captivating HDR Portraits in 10 Steps</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-legally-stream-and-convert-hotstar-seriesmovies-into-downloadable-formats-mp4avi/"><u>How To Legally Stream & Convert Hotstar Series/Movies Into Downloadable Formats (MP4/AVI)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-a05s-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel A05s Lock Screen Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-60-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme Narzo 60 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-stream-showdown-who-wins-obs-or-shadowgl/"><u>Screen Stream Showdown Who Wins, OBS or ShadowGL?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-painless-iphone-screen-sharing/"><u>Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-taylor-swifts-reputation-music-videos-as-mp4-or-mp3-files/"><u>Step-by-Step Guide: Downloading Taylor Swift's 'Reputation' Music Videos as MP4 or MP3 Files</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-reno-10-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Reno 10 Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-rated-alavsoft-udemy-app-compatible-with-mac-and-windows-11-8-7-vista-learn-anytime/"><u>Top Rated Alavsoft Udemy App Compatible with MAC & WINDOWS 11, 8, 7, Vista: Learn Anytime!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/transform-your-image-collection-into-professional-ebooks-featuring-page-turning-animation-step-by-step-guide-on-flipbuildercom/"><u>Transform Your Image Collection Into Professional eBooks Featuring Page-Turning Animation [Step-by-Step Guide on FlipBuilder.com]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/turn-your-pdf-documents-into-engaging-flipbooks-and-add-custom-watermarks-with-ease-learn-how/"><u>Turn Your PDF Documents Into Engaging Flipbooks and Add Custom Watermarks with Ease - Learn How!</u></a></li>
+</ul></div>
+

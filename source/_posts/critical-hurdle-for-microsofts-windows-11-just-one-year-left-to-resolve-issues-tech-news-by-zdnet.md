@@ -1,7 +1,7 @@
 ---
 title: "Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet"
-date: 2024-09-14T00:34:43.596Z
-updated: 2024-09-19T18:09:46.147Z
+date: 2024-09-21T01:31:35.052Z
+updated: 2024-09-25T16:08:54.928Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-harnessing-googles-capability-for-exact-speech-recognition/"><u>[New] Harnessing Google’s Capability for Exact Speech Recognition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[Updated] From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-apples-affordable-marvel-ranking-of-cost-free-image-arrangement-apps/"><u>2024 Approved Apple's Affordable Marvel Ranking of Cost-Free Image Arrangement Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-prose-leveraging-gpt-3-in-creative-narratives/"><u>Enhancing Prose: Leveraging GPT-3 in Creative Narratives</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-minimize-book-spine-glare-when-scanning-with-flipbuilder-pro/"><u>How To Minimize Book Spine Glare When Scanning With FlipBuilder Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12t-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12T Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-s17t-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo S17t? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/is-it-possible-to-include-corporate-information-within-a-continuous-scrolling-ebook-using-flipbuilders-features/"><u>Is It Possible to Include Corporate Information Within a Continuous Scrolling eBook Using FlipBuilder's Features?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/maximize-user-engagement-learn-how-to-set-up-seamless-flipbook-download-on-your-website-flipbuilder/"><u>Maximize User Engagement - Learn How to Set Up Seamless Flipbook Download on Your Website [FlipBuilder]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revamping-your-flipbook-design-change-background-with-flipbuilder/"><u>Revamping Your Flipbook Design - Change Background with FlipBuilder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionizing-editing-an-overview-of-plus-2024-from-movavi/"><u>Revolutionizing Editing An Overview of Plus 2024 From Movavi</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-android-movie-upturning/"><u>Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-converting-images-to-pdf-on-flipbuilder/"><u>Step-by-Step Guide: Converting Images to PDF on FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-incorporating-email-hyperlinks-into-your-digital-magazines-with-flipbook/"><u>Step-by-Step Guide: Incorporating Email Hyperlinks Into Your Digital Magazines with FlipBook</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-converting-powerpoint-links-for-use-in-flipbook-documentation-flipbuilder-experts/"><u>Step-by-Step Tutorial on Converting PowerPoint Links for Use in FlipBook Documentation [FlipBuilder Experts]</u></a></li>
+</ul></div>
+

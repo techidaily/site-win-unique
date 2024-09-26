@@ -1,7 +1,7 @@
 ---
 title: Boost Your Admin Efficiency - Master Windows PowerShell Scripting for Only $16 on ZDNet
-date: 2024-09-13T05:09:53.903Z
-updated: 2024-09-20T03:10:00.444Z
+date: 2024-09-23T16:57:20.571Z
+updated: 2024-09-25T20:29:42.979Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,18 +142,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -179,3 +199,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimize-content-collaboration-in-youtube-for-increased-engagement/"><u>[Updated] Optimize Content Collaboration in YouTube for Increased Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-virtual-frontier-flicks-the-most-inspiring-sci-fi-metaverse-movies/"><u>2024 Approved Virtual Frontier Flicks The Most Inspiring Sci-Fi Metaverse Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-advice-on-acquiring-royalty-free-high-quality-graphics-for-2024/"><u>Expert Advice on Acquiring Royalty-Free, High-Quality Graphics for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-ready-microsoft-introduces-pay-to-play-model-for-windows-11-updates-starting-next-year-cost-breakdown/"><u>Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-latest-dell-wireless-networking-software-on-windows-7/"><u>Get Your Latest Dell Wireless Networking Software on Windows 7</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-latest-breakthroughs-at-the-surface-and-ai-event-unwrapped-comprehensive-coverage-by-zdnet/"><u>Microsoft's Latest Breakthroughs at the Surface & AI Event Unwrapped | Comprehensive Coverage by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-new-entry-level-surface-laptop-go-2-hits-shelves-for-pre-order-at-just-599-insights-from-zdnet/"><u>Microsoft's New Entry-Level Surface Laptop Go 2 Hits Shelves for Pre-Order at Just $599 | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-facebook-stories-like-a-pro-for-2024/"><u>Navigating Facebook Stories Like a Pro for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/navigating-microsofts-copilot-balancing-utility-and-salesmanship-in-an-intelligent-assistant/"><u>Navigating Microsoft's Copilot: Balancing Utility and Salesmanship in an Intelligent Assistant</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-mac-image-transformer/"><u>Premium Mac Image Transformer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-get-the-latest-amd-vega-graphics-card-drivers-for-seamless-gaming/"><u>Step-by-Step Guide to Get the Latest AMD Vega Graphics Card Drivers – For Seamless Gaming!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-successfully-reverting-from-windows-11-back-to-windows-10-with-essential-precautions/"><u>Step-by-Step Guide: Successfully Reverting From Windows 11 Back to Windows 10 with Essential Precautions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-ai-in-battling-lonesomeness-insights-from-chatgpt-usage/"><u>The Role of AI in Battling Lonesomeness: Insights From ChatGPT Usage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-zte-blade-a73-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On ZTE Blade A73 5G</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-pen-case-guide-for-surface-duo-2-secure-your-device-with-style-and-embrace-wireless-charging-capability/"><u>Ultimate Pen Case Guide for Surface Duo 2 - Secure Your Device with Style and Embrace Wireless Charging Capability</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-the-new-frontier-in-video-conferencing-an-innovative-contender-to-outdo-microsoft-teams-and-zoom-with-lip-reading-features-zdnet/"><u>Unveiling the New Frontier in Video Conferencing – An Innovative Contender to Outdo Microsoft Teams and Zoom with Lip Reading Features | ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/upgrading-windows-unlocking-potential-by-switching-to-the-professional-version-insights-and-how-tos-zdnet/"><u>Upgrading Windows: Unlocking Potential by Switching to the Professional Version - Insights & How-Tos | ZDNet</u></a></li>
+</ul></div>
+

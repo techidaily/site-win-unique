@@ -1,7 +1,7 @@
 ---
 title: "Latest in Learning Tech: How PC Producers Are Showcasing Windows 11 SE for Classrooms | ZDNET Exclusive"
-date: 2024-09-16T01:15:04.154Z
-updated: 2024-09-19T18:00:02.066Z
+date: 2024-09-23T21:55:27.329Z
+updated: 2024-09-26T01:12:41.138Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-scaling-up-likes-in-tiktok-unboxing-videos-for-2024/"><u>[New] Scaling up 'Likes' In TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-subtracting-text-srt-to-sub-transformation-tips/"><u>[New] Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-canva-creations-with-these-10-secrets-for-2024/"><u>[Updated] Elevate Canva Creations with These 10 Secrets for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtlety-in-chords-pc-and-mac-music-settings/"><u>[Updated] Subtlety in Chords PC & Mac Music Settings</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-6-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 6 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortlessly-offer-downloads-mastering-the-integration-of-flipbook-functionality-using-flipbuilder-on-your-website/"><u>Effortlessly Offer Downloads: Mastering the Integration of Flipbook Functionality Using FlipBuilder on Your Website</u></a></li>
+<li><a href="https://win-unique.techidaily.com/gradient-background-design-tutorial-mastering-techniques-with-flipbuilder/"><u>Gradient Background Design Tutorial - Mastering Techniques with FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-enhance-image-contrast-using-flipimage-pro-a-complete-guide/"><u>How to Enhance Image Contrast Using FlipImage Pro: A Complete Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-extract-and-print-specific-pages-in-your-flip-book-using-flipbuilder-techniques/"><u>How to Extract and Print Specific Pages in Your Flip Book Using FlipBuilder Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-the-camera-zoomed-in-problem-on-whatsapp/"><u>How to Fix the Camera Zoomed-In Problem on WhatsApp</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-insert-jpg-png-and-bmp-images-into-your-website-with-ease-mastering-the-art-of-web-design-using-flipbuilder/"><u>How to Insert JPG, PNG & BMP Images Into Your Website with Ease - Mastering the Art of Web Design Using FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-minimize-book-spine-glare-when-scanning-with-flipbuilder-pro/"><u>How To Minimize Book Spine Glare When Scanning With FlipBuilder Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hps-simplified-guide-to-capturing-and-storing-pc-screen-content-for-2024/"><u>HP's Simplified Guide to Capturing and Storing PC Screen Content for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-8t-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 8T 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/is-it-possible-to-include-corporate-information-within-a-continuous-scrolling-ebook-using-flipbuilders-features/"><u>Is It Possible to Include Corporate Information Within a Continuous Scrolling eBook Using FlipBuilder's Features?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-insiders-guide-to-creating-backwards-video-effects-in-snapchat/"><u>The Insider's Guide to Creating Backwards Video Effects in Snapchat</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for File Backup Using Windows 11'S Built-In Feature – Expert Tips & Guides
-date: 2024-09-13T00:43:27.126Z
-updated: 2024-09-20T03:52:31.391Z
+date: 2024-09-20T01:28:54.399Z
+updated: 2024-09-25T23:52:30.747Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -133,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/1-understanding-movavis-comprehensive-refund-guidelines/"><u>1. Understanding Movavi's Comprehensive Refund Guidelines</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-excellent-alternatives-top-5-to-replace-twitter/"><u>2024 Approved Excellent Alternatives Top 5 to Replace Twitter</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-list-premium-voice-modifiers-for-virtual-creators/"><u>2024 Approved Ultimate List Premium Voice Modifiers for Virtual Creators</u></a></li>
+<li><a href="https://win-unique.techidaily.com/dislike-microsofts-latest-os-transform-windows-11-into-your-familiar-window-10-environment-tips-and-tricks/"><u>Dislike Microsoft's Latest OS? Transform Windows 11 Into Your Familiar Window 10 Environment - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stability-issues-with-no-rest-for-the-wicked-a-guide-for-pc-gamers/"><u>Fixing Stability Issues with 'No Rest for the Wicked': A Guide for PC Gamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pixelperfect-toolkit-guidebook/"><u>PixelPerfect Toolkit Guidebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-hidden-iphone-applications-a-step-by-step-guide/"><u>Revealing Hidden iPhone Applications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
+</ul></div>
+
