@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for File Backup Using Windows 11'S Built-In Feature – Expert Tips & Guides
-date: 2024-09-20T01:28:54.399Z
-updated: 2024-09-25T23:52:30.747Z
+date: 2024-09-25T19:00:31.961Z
+updated: 2024-09-30T08:10:17.656Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-understanding-movavis-comprehensive-refund-guidelines/"><u>1. Understanding Movavi's Comprehensive Refund Guidelines</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-excellent-alternatives-top-5-to-replace-twitter/"><u>2024 Approved Excellent Alternatives Top 5 to Replace Twitter</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-list-premium-voice-modifiers-for-virtual-creators/"><u>2024 Approved Ultimate List Premium Voice Modifiers for Virtual Creators</u></a></li>
-<li><a href="https://win-unique.techidaily.com/dislike-microsofts-latest-os-transform-windows-11-into-your-familiar-window-10-environment-tips-and-tricks/"><u>Dislike Microsoft's Latest OS? Transform Windows 11 Into Your Familiar Window 10 Environment - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-stability-issues-with-no-rest-for-the-wicked-a-guide-for-pc-gamers/"><u>Fixing Stability Issues with 'No Rest for the Wicked': A Guide for PC Gamers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pixelperfect-toolkit-guidebook/"><u>PixelPerfect Toolkit Guidebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revealing-hidden-iphone-applications-a-step-by-step-guide/"><u>Revealing Hidden iPhone Applications: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unleash-the-power-of-words-crafting-impactful-documentary-narratives/"><u>[Updated] In 2024, Unleash the Power of Words Crafting Impactful Documentary Narratives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-3-essential-voice-logging-tactics-for-ipad/"><u>[Updated] The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-exploring-past-social-media-engagement-via-twitter-archive/"><u>2024 Approved Exploring Past Social Media Engagement via Twitter Archive</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/dvdcreator/download/"><u>DVD Creator - Easy and powerful DVD Toolbox. Meet all your DVD needs.</u></a></li>
+<li><a href="https://win-unique.techidaily.com/from-low-to-none-the-transformative-role-of-generative-ai-in-evolving-code-free-solutions-zdnet-insights/"><u>From Low to None: The Transformative Role of Generative AI in Evolving Code-Free Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m54-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M54 5G FRP Locks</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-ready-microsoft-introduces-pay-to-play-model-for-windows-11-updates-starting-next-year-cost-breakdown/"><u>Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-free-dvd-converter-app-for-windows-10-and-11-at-zero-charge/"><u>Get Your Free DVD Converter App for Windows 10 & 11 at Zero Charge!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-overcoming-c1900101-obstacle-in-installation/"><u>Guide to Overcoming C1900101 Obstacle in Installation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-latest-breakthroughs-at-the-surface-and-ai-event-unwrapped-comprehensive-coverage-by-zdnet/"><u>Microsoft's Latest Breakthroughs at the Surface & AI Event Unwrapped | Comprehensive Coverage by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-new-entry-level-surface-laptop-go-2-hits-shelves-for-pre-order-at-just-599-insights-from-zdnet/"><u>Microsoft's New Entry-Level Surface Laptop Go 2 Hits Shelves for Pre-Order at Just $599 | Insights From ZDNET</u></a></li>
+<li><a href="https://win-unique.techidaily.com/navigating-microsofts-copilot-balancing-utility-and-salesmanship-in-an-intelligent-assistant/"><u>Navigating Microsoft's Copilot: Balancing Utility and Salesmanship in an Intelligent Assistant</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-successfully-reverting-from-windows-11-back-to-windows-10-with-essential-precautions/"><u>Step-by-Step Guide: Successfully Reverting From Windows 11 Back to Windows 10 with Essential Precautions</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-level-up-or-not-a-personal-dilemma-on-steam/"><u>To Level Up or Not: A Personal Dilemma on Steam</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-pen-case-guide-for-surface-duo-2-secure-your-device-with-style-and-embrace-wireless-charging-capability/"><u>Ultimate Pen Case Guide for Surface Duo 2 - Secure Your Device with Style and Embrace Wireless Charging Capability</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-the-new-frontier-in-video-conferencing-an-innovative-contender-to-outdo-microsoft-teams-and-zoom-with-lip-reading-features-zdnet/"><u>Unveiling the New Frontier in Video Conferencing – An Innovative Contender to Outdo Microsoft Teams and Zoom with Lip Reading Features | ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/upgrading-windows-unlocking-potential-by-switching-to-the-professional-version-insights-and-how-tos-zdnet/"><u>Upgrading Windows: Unlocking Potential by Switching to the Professional Version - Insights & How-Tos | ZDNet</u></a></li>
 </ul></div>
 

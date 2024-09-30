@@ -1,7 +1,7 @@
 ---
 title: "From Low to None: The Transformative Role of Generative AI in Evolving Code-Free Solutions | ZDNET Insights"
-date: 2024-09-19T17:12:08.078Z
-updated: 2024-09-25T20:02:13.175Z
+date: 2024-09-23T14:27:48.802Z
+updated: 2024-09-30T07:49:18.335Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] 2024 Approved 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-amplifying-video-reach-the-ultimate-guide-for-youtube-enthusiasts/"><u>[New] In 2024, Amplifying Video Reach The Ultimate Guide for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unraveling-the-imovie-video-edge-policy/"><u>[Updated] 2024 Approved Unraveling the iMovie Video Edge Policy</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-awesome-beginners-starter-pack-with-free-tailwind-css-nextjs-and-ui-kits-from-notion-by-creative-tim/"><u>1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-pro-admin-panel-with-nextjs-and-material-ui-by-creative-tim/"><u>Advanced Pro Admin Panel with NextJS & Material UI by Creative Tim</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/downloading-vevo-content-rechtliche-wege-and-empfehlungen-kostelos-guide/"><u>Downloading Vevo-Content: Rechtliche Wege & Empfehlungen - Kostelos Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-site-with-automated-visitor-tracking-the-secrets-in-the-bots/"><u>Enhance Your Site with Automated Visitor Tracking - The Secret's in the Bots!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/expert-laracasts-ultimate-administrator-panel-and-control-center-layouts-from-creativetim/"><u>Expert Laracasts: Ultimate Administrator Panel & Control Center Layouts From CreativeTim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-material-design-kit-for-react-harnessing-the-power-of-material-ui-from-creative-tim/"><u>Free Material Design Kit for React: Harnessing the Power of Material-UI From Creative Tim</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-insignia-usbvga-driver-installed-step-by-step-guide/"><u>Get Your Insignia USB/VGA Driver Installed - Step by Step Guide!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/integrating-tracks-into-video-production-in-premiere-pro-for-2024/"><u>Integrating Tracks Into Video Production in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/react-native-development-revolutionized-download-your-complimentary-template-from-creative-tim-now/"><u>React Native Development Revolutionized: Download Your Complimentary Template From Creative Tim Now!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-creating-amazing-web-wizards-with-bootstrap-get-started-for-free-today/"><u>The Ultimate Guide to Creating Amazing Web Wizards with Bootstrap - Get Started for Free Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-search-issues-with-our-top-fixing-tips/"><u>Troubleshoot Windows 11 Search Issues with Our Top Fixing Tips</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultimate-vuejs-admin-and-dashboard-kit-for-professionals-aged-55plus-designed-by-creative-tim/"><u>Ultimate VueJS Admin & Dashboard Kit for Professionals Aged 55+ | Designed by Creative Tim</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a78-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A78</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[New] In 2024, Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>Action Cameras Showdown GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-admin-efficiency-master-windows-powershell-scripting-for-only-16-on-zdnet/"><u>Boost Your Admin Efficiency - Master Windows PowerShell Scripting for Only $16 on ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cross-device-media-sharing-made-simple-with-iphones-for-2024/"><u>Cross-Device Media Sharing Made Simple with iPhones for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-track-your-game-6-startup-techniques-for-ps5/"><u>Fast-Track Your Game: 6 Startup Techniques for PS5</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-streamlining-quality-youtubes-best-video-improvement-strategies/"><u>In 2024, Streamlining Quality YouTube's Best Video Improvement Strategies</u></a></li>
+<li><a href="https://win-unique.techidaily.com/investing-in-affordability-why-choosing-the-budget-friendly-surface-pro-is-a-smart-move-insights-from-zdnet/"><u>Investing in Affordability: Why Choosing the Budget-Friendly Surface Pro Is a Smart Move – Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/openai-unveils-new-enterprise-focused-chatgpt-solution-latest-innovation-in-ai-assistance/"><u>OpenAI Unveils New Enterprise-Focused ChatGPT Solution – Latest Innovation in AI Assistance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-for-acers-speakers-update-drivers-with-ease/"><u>Quick Fix for Acer's Speakers: Update Drivers with Ease</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamless-document-handling-on-the-go-a-guide-to-microsoft-365-mobile-app/"><u>Seamless Document Handling On-the-Go: A Guide to Microsoft 365 Mobile App</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-microsoft-office-suite-get-project-and-visio-pros-for-a-steal-at-20-each-from-zdnet-now/"><u>Secure Your Microsoft Office Suite: Get Project and Visio Pros for a Steal at $20 Each From ZDNet Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vegaspro-2019-update-changes-and-impacts-for-2024/"><u>VegasPro 2019 Update Changes & Impacts for 2024</u></a></li>
 </ul></div>
 

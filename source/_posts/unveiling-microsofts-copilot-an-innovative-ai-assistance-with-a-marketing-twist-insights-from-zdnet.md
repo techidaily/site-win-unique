@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Copilot: An Innovative AI Assistance with a Marketing Twist - Insights From ZDNet"
-date: 2024-09-24T18:04:40.816Z
-updated: 2024-09-25T17:44:43.528Z
+date: 2024-09-24T20:34:10.387Z
+updated: 2024-09-30T00:15:17.231Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,19 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -102,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-tap-into-endless-visual-archives-from-top-4-video-platforms/"><u>[New] 2024 Approved Tap Into Endless Visual Archives From Top 4 Video Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-video-editing-on-a-budget-with-free-fcp/"><u>[New] Mastering Video Editing on a Budget with Free FCP</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>[Updated] Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-updated-features-in-sony-blu-ray-player-s6700/"><u>2024 Approved Updated Features in Sony Blu-Ray Player S6700</u></a></li>
-<li><a href="https://win-unique.techidaily.com/add-a-game-changing-windows-feature-to-your-mac-for-just-2-now-available-on-zdnet/"><u>Add a Game-Changing Windows Feature to Your Mac for Just $2 - Now Available on ZDNet!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/boost-your-pcs-speed-how-a-hidden-windows-11-feature-quickly-stops-sluggish-programs-zdnet/"><u>Boost Your PC's Speed: How a Hidden Windows 11 Feature Quickly Stops Sluggish Programs | ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/debunking-common-misconceptions-how-windows-enthusiasts-often-misunderstand-macos/"><u>Debunking Common Misconceptions: How Windows Enthusiasts Often Misunderstand macOS</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effortless-cross-platform-file-sharing-seamlessly-transfer-data-from-your-pc-to-android-devices-using-google-quick-share/"><u>Effortless Cross-Platform File Sharing: Seamlessly Transfer Data From Your PC to Android Devices Using Google Quick Share</u></a></li>
-<li><a href="https://win-unique.techidaily.com/essential-50-ergonomic-desk-addition-enhance-your-sitting-or-standing-work-experience-with-our-top-picks-zdnet-review/"><u>Essential $50 Ergonomic Desk Addition: Enhance Your Sitting or Standing Work Experience with Our Top Picks (ZDNet Review)</u></a></li>
-<li><a href="https://win-unique.techidaily.com/expand-your-macbooks-display-with-this-compact-and-versatile-portable-monitor/"><u>Expand Your MacBook's Display with This Compact & Versatile Portable Monitor!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-6sipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6s/iPad Without Computer</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-premium-capture-suite-chromebook-focus/"><u>In 2024, Premium Capture Suite Chromebook Focus</u></a></li>
-<li><a href="https://win-unique.techidaily.com/intel-vs-qualcomm-showdown-can-intel-deliver-a-dominating-chip-to-secure-the-fate-of-x86-pcs/"><u>Intel Vs. Qualcomm Showdown: Can Intel Deliver a Dominating Chip to Secure the Fate of X86 PCs?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-upgraded-features-of-the-apple-watch-series-4/"><u>The Ultimate Guide to the Upgraded Features of the Apple Watch Series 4</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-best-10-volume-magnifiers-for-windowsmacos/"><u>[New] In 2024, Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-video-storage-of-snapchat-stories/"><u>[New] In 2024, Mastering Video Storage of Snapchat Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cinemas-craftsmanship-the-best-camera-tricks-and-techniques-24-edition-for-2024/"><u>[Updated] Cinema's Craftsmanship The Best Camera Tricks & Techniques - '24 Edition for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-redmi-k70e-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Redmi K70E</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-ui-now-visible-in-10s-display/"><u>Enhanced Windows UI: Now Visible in 10'S Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Samsung Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/learn-how-to-transform-and-save-cmivfx-tutorials-in-mp4-format-with-easy-downloader-tool/"><u>Learn How to Transform and Save cmiVFX Tutorials in MP4 Format with Easy Downloader Tool</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-video-downloads-from-cudoo-tips-for-saving-in-mp4-mp3-avi-and-mov/"><u>Mastering Video Downloads From Cudoo: Tips for Saving in MP4, MP3, AVI & MOV</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-video-export-transfer-your-esignal-tutorials-into-high-quality-mp4-format/"><u>Mastering Video Export: Transfer Your eSignal Tutorials Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-jaksta-malfunctions-effective-strategies-for-both-macos-and-windows-users/"><u>Solving Jaksta Malfunctions: Effective Strategies for Both macOS and Windows Users</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-the-youtube-malfunction-issue-on-your-samsung-smart-tv/"><u>Solving the YouTube Malfunction Issue on Your Samsung Smart TV</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-horseback-riding-instructional-videos-for-pcs-and-macbooks/"><u>Step-by-Step Guide: Downloading Horseback Riding Instructional Videos for PCs and MacBooks</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-watching-youtube-videos-on-your-dvd-player/"><u>Step-by-Step Guide: Watching YouTube Videos on Your DVD Player</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-for-accessing-allocine-content-film-downloads-and-trailers-for-windows-macos-users/"><u>Step-by-Step Tutorial for Accessing Allociné Content - Film Downloads and Trailers for Windows, macOS Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-screen-readers-digest-recorder-evaluation-for-2024/"><u>The Screen Reader's Digest Recorder Evaluation for 2024</u></a></li>
 </ul></div>
 

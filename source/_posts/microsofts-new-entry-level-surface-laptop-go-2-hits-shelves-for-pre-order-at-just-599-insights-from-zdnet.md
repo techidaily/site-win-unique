@@ -1,7 +1,7 @@
 ---
 title: Microsoft's New Entry-Level Surface Laptop Go 2 Hits Shelves for Pre-Order at Just $599 | Insights From ZDNET
-date: 2024-09-24T19:53:04.869Z
-updated: 2024-09-25T17:17:41.819Z
+date: 2024-09-25T02:46:17.933Z
+updated: 2024-09-30T03:06:41.377Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-harness-10-tools-for-free-thumbnail-acquisition/"><u>[Updated] Harness 10 Tools for FREE Thumbnail Acquisition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-showcasing-iconic-ae-templates-for-social-media/"><u>[Updated] Showcasing Iconic AE Templates for Social Media</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-unveiling-microsofts-new-ai-tool-transform-your-copy-pasting-game-learn-the-easy-steps-on-zdnet/"><u>1. Unveiling Microsoft's New AI Tool: Transform Your Copy-Pasting Game! Learn the Easy Steps on ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-ignite-your-networking-join-the-1k-club-on-instagram-regularly/"><u>2024 Approved Ignite Your Networking Join the 1K Club on Instagram Regularly</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comhar-flexispot-standing-desk-sale-secure-your-savings-of-up-to-80-now/"><u>Comhar FlexiSpot Standing Desk Sale - Secure Your Savings of Up To $80 Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-printer-driver-for-canon-ip110-easy-download-and-setup-for-windows-11-10-8-and-7-users/"><u>Compatible Printer Driver for Canon iP110: Easy Download and Setup for Windows 11, 10, 8 & 7 Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-find-x7-easily-by-drfone-android/"><u>How To Unlock a Oppo Find X7 Easily?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-insightful-comparisons-top-android-applications-for-youtube-download/"><u>In 2024, Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-essential-guide-for-beginners-in-final-cut-pro/"><u>In 2024, The Ultimate Essential Guide for Beginners in Final Cut Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/leveraging-chatgpt-for-efficient-spreadsheet-formula-writing-in-excel/"><u>Leveraging ChatGPT for Efficient Spreadsheet Formula Writing in Excel</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-the-art-of-finding-lost-documents-with-windows-intuitive-file-search-pc-requirements-unveiled-zdnet/"><u>Mastering the Art of Finding Lost Documents with Windows' Intuitive File Search - PC Requirements Unveiled | ZDNET</u></a></li>
-<li><a href="https://win-unique.techidaily.com/pre-order-microsofts-latest-affordable-powerhouse-the-new-599-surface-laptop-go-2-techspot/"><u>Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/seal-the-deal-stellar-photo-pro-v8-your-trusted-companion-in-windows-photo-recovery/"><u>Seal the Deal: Stellar Photo Pro v8 - Your Trusted Companion in Windows Photo Recovery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-filmmakers-guide-producing-engaging-youtube-splits/"><u>[Updated] 2024 Approved The Filmmaker's Guide Producing Engaging YouTube Splits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exquisite-desktop-pcs-the-best-of-the-best-for-2024/"><u>Exquisite Desktop PCs The Best of the Best for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-effortlessly-save-video-content-on-your-device-with-isharerediff-downloader-tools/"><u>How to Effortlessly Save Video Content on Your Device with iShare.Rediff Downloader Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-preserve-skype-webinar-footage-as-mp4-files-on-both-windows-and-macos-systems/"><u>How to Preserve Skype Webinar Footage as MP4 Files on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-transfer-bbc-audio-and-video-content-for-offline-viewing-mp4-and-mp3/"><u>How to Transfer BBC Audio and Video Content for Offline Viewing (MP4 & MP3)</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-transfer-your-favorite-songs-from-purevolume-as-mp3-files/"><u>How To Transfer Your Favorite Songs From PureVolume as MP3 Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-cutting-edge-techniques-for-fb-streaming-records/"><u>In 2024, Cutting-Edge Techniques for FB Streaming Records</u></a></li>
+<li><a href="https://win-unique.techidaily.com/learn-how-to-extract-and-save-your-favorite-episodes-from-videobash/"><u>Learn How To Extract and Save Your Favorite Episodes From VideoBash</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/reversing-time-retracing-your-steps-for-lost-snaps-for-2024/"><u>Reversing Time Retracing Your Steps for Lost Snaps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/samsung-gear-s3-frontier-review-a-hefty-smartwatch-full-of-features/"><u>Samsung Gear S3 Frontier Review: A Hefty Smartwatch Full of Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
 </ul></div>
 

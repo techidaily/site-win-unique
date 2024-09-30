@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown"
-date: 2024-09-23T21:32:56.755Z
-updated: 2024-09-25T20:18:39.408Z
+date: 2024-09-27T01:04:06.031Z
+updated: 2024-09-29T19:49:55.599Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-utilize-facebooks-auto-video-functionality/"><u>[Updated] 2024 Approved How to Utilize Facebook's Auto-Video Functionality</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-outshine-others-expert-tips-on-making-youtube-shorts-pop/"><u>2024 Approved Outshine Others Expert Tips on Making YouTube Shorts Pop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movvob-movavi/"><u>無料のオンラインでMOV/VOBファイル変換 – Movaviサービスガイド</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-blk-ui-kit-react-version-ultimate-premium-creation-framework-for-reactstrap-and-bootstrap-4-featuring-technium-innovations/"><u>Advanced BLK· UI Kit React Version: Ultimate Premium Creation Framework for Reactstrap and Bootstrap 4 – Featuring Technium Innovations</u></a></li>
-<li><a href="https://win-unique.techidaily.com/answer-the-new-length-will-be-6-inches-12-72-inches-maintaining-proportionality-in-scale-increase/"><u>Answer: The New Length Will Be 6 Inches 1.2 = 7.2 Inches, Maintaining Proportionality in Scale Increase.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/filtragem-de-videos-em-linha-gratuita-convertendo-flv-e-mov-com-movavi/"><u>Filtragem De Vídeos Em Linha Gratuita - Convertendo FLV E MOV Com MOVAVI</u></a></li>
-<li><a href="https://win-able.techidaily.com/fps-drop-fixes-enhance-your-experience-in-cyberpunk-2077/"><u>FPS Drop Fixes Enhance Your Experience in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-full-stack-creation-with-vue-and-laravel-integrating-json-api-in-a-complete-material-dashboard-by-creative-tim/"><u>Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-django-dashboard-experience-using-bootstrap-4-by-creative-tim-upgrade-to-pro-version-now/"><u>Premium Django Dashboard Experience Using Bootstrap 4 by Creative Tim – Upgrade to PRO Version Now!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-nord-3-5g-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-comparing-cloud-providers-who-offers-what-price/"><u>[New] In 2024, Comparing Cloud Providers Who Offers What Price</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-group-of-high-speed-video-snapshot-apps/"><u>[Updated] In 2024, Elite Group of High-Speed Video Snapshot Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-photograph-total-browser-scope/"><u>[Updated] In 2024, Photograph Total Browser Scope</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-konnen-sie-lernen-verschiedene-mp4-videoformate-effizient-kombinieren/"><u>1. Können Sie Lernen, Verschiedene MP4-Videoformate Effizient Kombinieren</u></a></li>
+<li><a href="https://win-unique.techidaily.com/a-deep-dive-into-microsofts-new-releases-unveiled-at-the-recent-surface-event-covered-by-zdnet/"><u>A Deep Dive Into Microsoft's New Releases Unveiled at the Recent Surface Event Covered by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/celebrating-freedom-the-tech-industrys-tribute-to-juneteenth/"><u>Celebrating Freedom: The Tech Industry's Tribute to Juneteenth</u></a></li>
+<li><a href="https://win-unique.techidaily.com/critical-hurdle-for-microsofts-windows-11-just-one-year-left-to-resolve-issues-tech-news-by-zdnet/"><u>Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/embracing-innovation-in-excel-as-suggested-by-microsoft-a-personal-journey-shared-with-zdnet/"><u>Embracing Innovation in Excel as Suggested by Microsoft – A Personal Journey Shared with ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picturepuns-comic-creation-tool/"><u>In 2024, PicturePuns Comic Creation Tool</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-your-digital-sidekick-build-and-use-a-custom-copilot-gpt-step-by-step/"><u>Mastering Your Digital Sidekick: Build and Use a Custom Copilot GPT Step-by-Step</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-enhancing-windows-home-with-a-professional-upgrade-discover-the-benefits-now/"><u>Step-by-Step Guide: Enhancing Windows Home with a Professional Upgrade - Discover the Benefits Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/taming-the-beast-mastering-fps-stability-and-eliminating-lags-in-cod-black-ops-4/"><u>Taming the Beast: Mastering FPS Stability and Eliminating Lags in COD Black Ops 4</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-a05s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel A05s FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Considers Curtailing Third-Party Tweaks in Windows 11 Build 24H2 – Insights by Tech Journalist [ZDNET]
-date: 2024-09-19T23:03:33.615Z
-updated: 2024-09-26T00:53:31.975Z
+date: 2024-09-27T15:23:20.224Z
+updated: 2024-09-30T08:49:58.868Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/hannel-dominance-plan-studio-protocol-vs-beta-update/"><u>[New] Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>[New] In 2024, GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-free-download-comprehensive-collection-of-eye-disorder-diagnosis-videos-including-detailed-roots-and-slide-lamp-studies/"><u>1. Free Download: Comprehensive Collection of Eye Disorder Diagnosis Videos - Including Detailed Roots and Slide Lamp Studies</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ard-content-extractor-convert-your-favorite-shows-into-high-quality-formats/"><u>ARD Content Extractor - Convert Your Favorite Shows Into High-Quality Formats</u></a></li>
-<li><a href="https://win-unique.techidaily.com/best-free-online-film-platforms-and-guiding-you-through-downloading-films-without-worrying-about-internet/"><u>Best Free Online Film Platforms & Guiding You Through Downloading Films Without Worrying About Internet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
-<li><a href="https://win-unique.techidaily.com/catch-up-on-your-favorite-plays-seamless-streaming-of-scripted-shows-via-dramanice-downloads/"><u>Catch Up on Your Favorite Plays: Seamless Streaming of Scripted Shows via Dramanice Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-for-turning-on-your-pcs-bluetooth-feature-in-windows-1110/"><u>Comprehensive Tutorial for Turning On Your PC’s Bluetooth Feature in Windows 11/10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/creating-captivating-hdr-portraits-in-10-steps/"><u>Creating Captivating HDR Portraits in 10 Steps</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-legally-stream-and-convert-hotstar-seriesmovies-into-downloadable-formats-mp4avi/"><u>How To Legally Stream & Convert Hotstar Series/Movies Into Downloadable Formats (MP4/AVI)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-a05s-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel A05s Lock Screen Password</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-60-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme Narzo 60 Pro 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-stream-showdown-who-wins-obs-or-shadowgl/"><u>Screen Stream Showdown Who Wins, OBS or ShadowGL?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-painless-iphone-screen-sharing/"><u>Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-taylor-swifts-reputation-music-videos-as-mp4-or-mp3-files/"><u>Step-by-Step Guide: Downloading Taylor Swift's 'Reputation' Music Videos as MP4 or MP3 Files</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-reno-10-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Reno 10 Pro 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-rated-alavsoft-udemy-app-compatible-with-mac-and-windows-11-8-7-vista-learn-anytime/"><u>Top Rated Alavsoft Udemy App Compatible with MAC & WINDOWS 11, 8, 7, Vista: Learn Anytime!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/transform-your-image-collection-into-professional-ebooks-featuring-page-turning-animation-step-by-step-guide-on-flipbuildercom/"><u>Transform Your Image Collection Into Professional eBooks Featuring Page-Turning Animation [Step-by-Step Guide on FlipBuilder.com]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/turn-your-pdf-documents-into-engaging-flipbooks-and-add-custom-watermarks-with-ease-learn-how/"><u>Turn Your PDF Documents Into Engaging Flipbooks and Add Custom Watermarks with Ease - Learn How!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-recovering-the-solitary-sound-device/"><u>[New] In 2024, Recovering the Solitary Sound Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-olympic-ice-rush-speed-skaters-best-from-games/"><u>[Updated] Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-vue-argon-pro-edition-comprehensive-vuejs-and-bootstrap-5-admin-panel-by-creative-tim/"><u>Advanced Vue Argon Pro Edition: Comprehensive Vue.js & Bootstrap 5 Admin Panel by Creative Tim</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-vue-paper-dashboard-2-pro-complete-bootstrap-4-suite-for-vuejs-developers-from-creative-tim/"><u>Advanced Vue Paper Dashboard 2 PRO: Complete Bootstrap 4 Suite for Vue.js Developers From Creative Tim</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comprehensive-full-year-planner-downloadable-no-cost-bootstrap-template-by-creative-tim/"><u>Comprehensive Full-Year Planner: Downloadable, No Cost Bootstrap Template by Creative Tim</u></a></li>
+<li><a href="https://win-unique.techidaily.com/creativetims-black-dashboard-professional-elite-bootstrap-press-django-admin-suite/"><u>CreativeTim's Black Dashboard Professional: Elite Bootstrap Press Django Admin Suite</u></a></li>
+<li><a href="https://win-unique.techidaily.com/dislike-microsofts-latest-os-transform-windows-11-into-your-familiar-window-10-environment-tips-and-tricks/"><u>Dislike Microsoft's Latest OS? Transform Windows 11 Into Your Familiar Window 10 Environment - Tips & Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-blaze-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://win-unique.techidaily.com/exclusive-premium-access-creative-tims-enhanced-ant-design-vue-dashboard-for-experienced-developers/"><u>Exclusive Premium Access: Creative Tim's Enhanced Ant Design Vue Dashboard for Experienced Developers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-swift-solutions-to-windows-install-failures/"><u>Expert Tips for Swift Solutions to Windows Install Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-the-latest-surface-driver-software-with-hassle-free-installation/"><u>Getting the Latest Surface Driver Software with Hassle-Free Installation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y100-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y100 Fingerprint Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proficient-approaches-for-tiktok-bios-with-linked-content/"><u>Proficient Approaches for TikTok Bios with Linked Content</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/skyrocketing-to-the-top-macx-dvd-ripper-pro-v55-slices-through-any-disc-with-lightning-speed/"><u>Skyrocketing to the Top - MacX DVD Ripper Pro V5.5 Slices Through Any Disc with Lightning Speed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/things-that-you-should-know-about-youtube-keyword-research-for-2024/"><u>Things That You Should Know About YouTube Keyword Research for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
 </ul></div>
 

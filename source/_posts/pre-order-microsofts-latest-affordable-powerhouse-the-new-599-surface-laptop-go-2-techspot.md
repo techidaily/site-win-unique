@@ -1,7 +1,7 @@
 ---
 title: "Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot"
-date: 2024-09-18T23:27:34.254Z
-updated: 2024-09-25T19:44:16.940Z
+date: 2024-09-28T07:58:06.866Z
+updated: 2024-09-30T06:44:42.166Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-perfect-youtube-thumbnails-on-macos-for-2024/"><u>[New] Crafting Perfect YouTube Thumbnails on macOS for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-nocturnal-tales-on-the-silver-screen/"><u>[New] In 2024, Nocturnal Tales on the Silver Screen</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastery-elevate-your-content-with-smart-tag-techniques/"><u>2024 Approved YouTube Mastery Elevate Your Content with Smart Tag Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-hp-p3015-laserjet-printing-drivers-compatible-with-windows-os/"><u>Get the Newest HP P3015 Laserjet Printing Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-90-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor 90</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix GT 10 Pro Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-for-black-ops-cold-war-ui-glitch-27711-fix-and-troubleshoot/"><u>Solution for 'Black Ops Cold War' UI Glitch #27711 - Fix & Troubleshoot</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-building-a-flawless-windows-11-virtual-environment/"><u>Step-by-Step Tutorial: Building a Flawless Windows 11 Virtual Environment</u></a></li>
-<li><a href="https://win-unique.techidaily.com/stuck-with-an-older-os-and-considering-windows-11-try-this-wise-move-tips-from-zdnet/"><u>Stuck with an Older OS and Considering Windows 11? Try This Wise Move | Tips From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/techniques-for-removing-cluttered-photo-backgrounds-for-2024/"><u>Techniques for Removing Cluttered Photo Backgrounds for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audio-liberation-from-youtube-three-safe-methods/"><u>[New] 2024 Approved Audio Liberation From YouTube Three Safe Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-drama-videoviral-sagas-unfold-online/"><u>[New] 2024 Approved Digital Drama #VideoViral Sagas Unfold Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-understanding-magixs-acid-pro-and-its-market-rivals-for-2024/"><u>[New] Understanding Magix's ACID Pro and Its Market Rivals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-quickest-method-to-construct-google-image-mosaics/"><u>[New] Unveiling the Quickest Method to Construct Google Image Mosaics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-8-choices-of-tripods-for-4k-cinematography/"><u>[Updated] In 2024, Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-to-overcome-the-critical-error-108-in-your-favorite-game/"><u>Effective Strategies to Overcome the 'Critical Error 108' In Your Favorite Game</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-keeping-memories-afloat-unlimited-free-photo-stash-plus-charged-backups/"><u>In 2024, Keeping Memories Afloat Unlimited Free Photo Stash + Charged Backups</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-troubleshooting-tips-for-fixing-action-bug-navigating-critical-error-108/"><u>Mastering Troubleshooting Tips for Fixing 'Action!' Bug: Navigating Critical Error 108</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/record-stunning-hd-screenshots-using-the-latest-splash-video-player-software/"><u>Record Stunning HD Screenshots Using the Latest Splash Video Player Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-heavyweights-understanding-the-impact-of-facebook-twitter-instagram-and-youtube/"><u>Social Networking Heavyweights: Understanding the Impact of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-the-youtube-malfunction-issue-on-your-samsung-smart-tv/"><u>Solving the YouTube Malfunction Issue on Your Samsung Smart TV</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-horseback-riding-instructional-videos-for-pcs-and-macbooks/"><u>Step-by-Step Guide: Downloading Horseback Riding Instructional Videos for PCs and MacBooks</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-watching-youtube-videos-on-your-dvd-player/"><u>Step-by-Step Guide: Watching YouTube Videos on Your DVD Player</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-for-accessing-allocine-content-film-downloads-and-trailers-for-windows-macos-users/"><u>Step-by-Step Tutorial for Accessing Allociné Content - Film Downloads and Trailers for Windows, macOS Users</u></a></li>
 </ul></div>
 

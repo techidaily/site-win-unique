@@ -1,7 +1,7 @@
 ---
 title: "Effortless Cross-Platform File Sharing: Seamlessly Transfer Data From Your PC to Android Devices Using Google Quick Share"
-date: 2024-09-18T19:35:20.856Z
-updated: 2024-09-25T17:17:41.015Z
+date: 2024-09-27T20:31:21.732Z
+updated: 2024-09-29T17:44:44.740Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -62,10 +62,16 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -92,10 +98,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -105,10 +111,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -156,22 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[New] 2024 Approved A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-journey-to-storytelling-gear-selection-guide/"><u>[Updated] 2024 Approved Journey to Storytelling Gear Selection Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-how-to-install-and-use-flipbuilder-from-your-usb-stick-on-windows/"><u>1: How to Install and Use FlipBuilder From Your USB Stick on Windows</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-unlocking-constant-access-keep-your-flipbook-index-visible-with-ease-flipbuildercom/"><u>1) Unlocking Constant Access: Keep Your FlipBook Index Visible with Ease [FlipBuilder.com]</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tailor-your-narrative-crafting-engaging-youtube-descriptions-using-pre-set-templates/"><u>2024 Approved Tailor Your Narrative Crafting Engaging YouTube Descriptions Using Pre-Set Templates</u></a></li>
-<li><a href="https://win-unique.techidaily.com/boost-online-engagement-spread-the-word-with-your-book-via-flipbuilders-shareable-ebook-format/"><u>Boost Online Engagement: Spread the Word with Your Book via FlipBuilder’s Shareable eBook Format</u></a></li>
-<li><a href="https://win-unique.techidaily.com/building-engaging-and-believable-online-sales-catalogs-with-flipbuilder/"><u>Building Engaging and Believable Online Sales Catalogs with FlipBuilder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy F54 5G?</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-palworld/"><u>Demystifying PalWorld</u></a></li>
-<li><a href="https://win-unique.techidaily.com/enabling-page-printing-features-in-your-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Enabling Page Printing Features in Your FlipBook: A Comprehensive Guide with FlipBuilder</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/improve-your-reading-experience-enhance-clarity-in-our-flipbooks-at-flipbuildercom/"><u>Improve Your Reading Experience - Enhance Clarity in Our Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nubia-z50s-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nubia Z50S Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-directx-update-issues-on-windows/"><u>Overcoming DirectX Update Issues on Windows</u></a></li>
-<li><a href="https://win-unique.techidaily.com/self-publish-with-flipwriter-pro-create-your-own-interactive-ebooks-using-the-innovative-flippage-technology/"><u>Self-Publish with FlipWriter Pro: Create Your Own Interactive Ebooks Using the Innovative FlipPage Technology!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-image-integration-in-flipbuilder-key-steps-and-considerations/"><u>Understanding Image Integration in FlipBuilder: Key Steps and Considerations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-deciphering-filmora-a-quest-for-visual-storytelling-clarity/"><u>[New] 2024 Approved Deciphering Filmora A Quest for Visual Storytelling Clarity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effortless-access-top-5-chrome-addons-for-quickly-download-facebook-vids/"><u>[New] Effortless Access Top 5 Chrome Addons for Quickly Download Facebook Vids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-cultivate-creativity-20plus-inspiring-youtube-concepts-for-2024/"><u>[Updated] Cultivate Creativity 20+ Inspiring YouTube Concepts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[Updated] Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-quit-auto-capture-on-apples-recorder/"><u>2024 Approved How To Quit Auto-Capture on Apple's Recorder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-admin-efficiency-master-windows-powershell-scripting-for-only-16-on-zdnet/"><u>Boost Your Admin Efficiency - Master Windows PowerShell Scripting for Only $16 on ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/celebrating-freedom-the-tech-industrys-tribute-to-juneteenth/"><u>Celebrating Freedom: The Tech Industry's Tribute to Juneteenth</u></a></li>
+<li><a href="https://win-unique.techidaily.com/critical-hurdle-for-microsofts-windows-11-just-one-year-left-to-resolve-issues-tech-news-by-zdnet/"><u>Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discounted-microsoft-copilot-for-local-smbs-in-singapore-unveiled-by-zdnet/"><u>Discounted Microsoft Copilot for Local SMBs in Singapore Unveiled by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oppo-find-x7-ultra-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Oppo Find X7 Ultra using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-tips-sharing-your-apple-devices-screen-with-youtube/"><u>In 2024, Essential Tips Sharing Your Apple Devices Screen with YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-muting-problem-solutions-for-obs-sound-capture/"><u>In 2024, Muting Problem Solutions for OBS Sound Capture</u></a></li>
+<li><a href="https://win-unique.techidaily.com/investing-in-affordability-why-choosing-the-budget-friendly-surface-pro-is-a-smart-move-insights-from-zdnet/"><u>Investing in Affordability: Why Choosing the Budget-Friendly Surface Pro Is a Smart Move – Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-powertoys-color-picker-feature-a-step-by-step-guide/"><u>Mastering PowerToys' Color Picker Feature – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/openai-unveils-new-enterprise-focused-chatgpt-solution-latest-innovation-in-ai-assistance/"><u>OpenAI Unveils New Enterprise-Focused ChatGPT Solution – Latest Innovation in AI Assistance</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamless-document-handling-on-the-go-a-guide-to-microsoft-365-mobile-app/"><u>Seamless Document Handling On-the-Go: A Guide to Microsoft 365 Mobile App</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-microsoft-office-suite-get-project-and-visio-pros-for-a-steal-at-20-each-from-zdnet-now/"><u>Secure Your Microsoft Office Suite: Get Project and Visio Pros for a Steal at $20 Each From ZDNet Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-adding-a-second-screen-to-your-mac-setup/"><u>The Ultimate Tutorial for Adding a Second Screen to Your Mac Setup</u></a></li>
 </ul></div>
 

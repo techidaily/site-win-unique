@@ -1,7 +1,7 @@
 ---
 title: "Investing in Affordability: Why Choosing the Budget-Friendly Surface Pro Is a Smart Move – Insights From ZDNet"
-date: 2024-09-24T20:31:13.080Z
-updated: 2024-09-25T16:03:49.141Z
+date: 2024-09-24T02:26:02.447Z
+updated: 2024-09-30T15:18:28.001Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-make-your-own-youtube-closures-without-spending/"><u>[Updated] 2024 Approved How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effective-strategies-for-encouraging-clicks-on-your-flipbuilder-brochure-urls/"><u>Effective Strategies for Encouraging Clicks on Your FlipBuilder Brochure URLs</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-strategies-for-file-backup-using-windows-11s-built-in-feature-expert-tips-and-guides/"><u>Effective Strategies for File Backup Using Windows 11'S Built-In Feature – Expert Tips & Guides</u></a></li>
-<li><a href="https://win-unique.techidaily.com/exclusive-offer-authentic-microsoft-pro-licenses-for-a-steal-just-20-spotted-on-zdnet/"><u>Exclusive Offer: Authentic Microsoft Pro Licenses for a Steal - Just $20, Spotted on ZDNet!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/from-low-to-none-the-transformative-role-of-generative-ai-in-evolving-code-free-solutions-zdnet-insights/"><u>From Low to None: The Transformative Role of Generative AI in Evolving Code-Free Solutions | ZDNET Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/latest-in-learning-tech-how-pc-producers-are-showcasing-windows-11-se-for-classrooms-zdnet-exclusive/"><u>Latest in Learning Tech: How PC Producers Are Showcasing Windows 11 SE for Classrooms | ZDNET Exclusive</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four: Understanding Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pros-and-cons-of-prompt-engineering-as-a-job-understanding-its-legitimacy-with-key-indicators/"><u>The Pros and Cons of Prompt Engineering as a Job: Understanding Its Legitimacy with Key Indicators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-resin-3d-printing-machines-of-2024/"><u>Top-Rated Resin 3D Printing Machines of 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rapid-rise-to-instagram-riches-15-innovative-techniques-for-quick-popularity-boost/"><u>[New] 2024 Approved Rapid Rise to Instagram Riches 15 Innovative Techniques for Quick Popularity Boost</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unleashing-vibrance-grading-secrets-in-ps/"><u>[Updated] Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-extract-and-print-specific-pages-in-your-flip-book-using-flipbuilder-techniques/"><u>How to Extract and Print Specific Pages in Your Flip Book Using FlipBuilder Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-insert-jpg-png-and-bmp-images-into-your-website-with-ease-mastering-the-art-of-web-design-using-flipbuilder/"><u>How to Insert JPG, PNG & BMP Images Into Your Website with Ease - Mastering the Art of Web Design Using FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-minimize-book-spine-glare-when-scanning-with-flipbuilder-pro/"><u>How To Minimize Book Spine Glare When Scanning With FlipBuilder Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-look-at-whatsapps-voice-communication-design/"><u>In 2024, Inside Look at WhatsApp's Voice Communication Design</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A54 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-unique.techidaily.com/is-it-possible-to-include-corporate-information-within-a-continuous-scrolling-ebook-using-flipbuilders-features/"><u>Is It Possible to Include Corporate Information Within a Continuous Scrolling eBook Using FlipBuilder's Features?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-portable-power-solutions-for-your-laptop-the-definitive-list-of-2024/"><u>Leading Portable Power Solutions for Your Laptop: The Definitive List of 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/maximize-user-engagement-learn-how-to-set-up-seamless-flipbook-download-on-your-website-flipbuilder/"><u>Maximize User Engagement - Learn How to Set Up Seamless Flipbook Download on Your Website [FlipBuilder]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Camon 20</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-application/"><u>Resolving 'No Available Camera Input' Error in Snap Application</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revamping-your-flipbook-design-change-background-with-flipbuilder/"><u>Revamping Your Flipbook Design - Change Background with FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-converting-images-to-pdf-on-flipbuilder/"><u>Step-by-Step Guide: Converting Images to PDF on FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-incorporating-email-hyperlinks-into-your-digital-magazines-with-flipbook/"><u>Step-by-Step Guide: Incorporating Email Hyperlinks Into Your Digital Magazines with FlipBook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs/"><u>Stop the Void in Live Gaming Recordings 5 Ways to Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/teamwork-in-video-production-boosting-channel-size-for-2024/"><u>Teamwork in Video Production, Boosting Channel Size for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Pen Case Guide for Surface Duo 2 - Secure Your Device with Style and Embrace Wireless Charging Capability
-date: 2024-09-19T21:03:42.090Z
-updated: 2024-09-25T23:22:23.545Z
+date: 2024-09-26T14:20:36.990Z
+updated: 2024-09-30T02:55:53.432Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-fixing-full-screen-in-obs-journey/"><u>[New] In 2024, Fixing Full Screen in Obs Journey</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>[New] Streamlining Online Meetings Zoom & Gmail Sync Strategies</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-bring-life-to-graphics-adobe-blur-masterclass/"><u>[Updated] 2024 Approved Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-toggle-off-instagram-tv-feature-for-2024/"><u>[Updated] Toggle Off Instagram TV Feature for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/advanced-techniques-for-inputting-grouped-coordinates-in-google-maps-efficiently/"><u>Advanced Techniques for Inputting Grouped Coordinates in Google Maps Efficiently</u></a></li>
-<li><a href="https://win-unique.techidaily.com/building-engaging-and-believable-online-sales-catalogs-with-flipbuilder/"><u>Building Engaging and Believable Online Sales Catalogs with FlipBuilder</u></a></li>
-<li><a href="https://win-unique.techidaily.com/choosing-the-best-file-format-html-zip-exe-or-disc-creation-with-flipbuilder/"><u>Choosing the Best File Format: HTML, ZIP, EXE, or Disc Creation with FlipBuilder</u></a></li>
-<li><a href="https://win-unique.techidaily.com/complimentary-superb-templates-featuring-slide-in-navigation-on-flipbuildercom/"><u>Complimentary Superb Templates Featuring Slide-In Navigation on FlipBuilder.com</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comprehensive-tutorials-for-expert-flipping-images-using-flipimagepro-software/"><u>Comprehensive Tutorials for Expert Flipping Images Using FlipImagePro Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/convert-your-pdfs-to-jpeg-images-at-no-cost-with-our-free-online-tool-flipbuilder/"><u>Convert Your PDFs to JPEG Images at No Cost with Our Free Online Tool - FlipBuilder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-the-latest-in-technology-via-toms-hardware/"><u>Inside Look: The Latest in Technology via Tom's Hardware</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/schnittstelle-zum-auswahlen-der-spitzenmodelle-die-besten-5-player-fur-4k-video-streaming/"><u>Schnittstelle Zum Auswählen Der Spitzenmodelle: Die Besten 5 Player Für 4K Video Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-earnings-standards-new-rules-and-tips/"><u>YouTube Earnings Standards New Rules & Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-audio-adventurers-guide-navigating-between-podcasts-and-youtube-for-2024/"><u>[New] Audio Adventurer’s Guide Navigating Between Podcasts & YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/apturing-attention-striking-shots-for-youtube-success-for-2024/"><u>[New] Capturing Attention Striking Shots for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-restore-lost-fb-watch-video-button/"><u>[Updated] Restore Lost FB Watch Video Button</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sparkle-in-the-spotlight-personalized-logos-made-easy-and-free/"><u>[Updated] Sparkle in the Spotlight Personalized Logos Made Easy & Free</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-vue-argon-pro-edition-comprehensive-vuejs-and-bootstrap-5-admin-panel-by-creative-tim/"><u>Advanced Vue Argon Pro Edition: Comprehensive Vue.js & Bootstrap 5 Admin Panel by Creative Tim</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-vue-paper-dashboard-2-pro-complete-bootstrap-4-suite-for-vuejs-developers-from-creative-tim/"><u>Advanced Vue Paper Dashboard 2 PRO: Complete Bootstrap 4 Suite for Vue.js Developers From Creative Tim</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/crafting-quieter-sounds-a-garageband-expertise-for-2024/"><u>Crafting Quieter Sounds A Garageband Expertise for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/dislike-microsofts-latest-os-transform-windows-11-into-your-familiar-window-10-environment-tips-and-tricks/"><u>Dislike Microsoft's Latest OS? Transform Windows 11 Into Your Familiar Window 10 Environment - Tips & Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-13c-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi 13C 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-graphical-limitation-detected-on-window/"><u>Hardware Graphical Limitation Detected on Window</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-blanking-on-window-11-display/"><u>Resolve Blanking on Window 11 Display</u></a></li>
+<li><a href="https://win-unique.techidaily.com/stuck-with-an-older-os-and-considering-windows-11-try-this-wise-move-tips-from-zdnet/"><u>Stuck with an Older OS and Considering Windows 11? Try This Wise Move | Tips From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/turn-off-unwanted-rings-staying-silent-on-your-ipad-when-your-iphone-is-active/"><u>Turn Off Unwanted Rings: Staying Silent on Your iPad When Your iPhone Is Active</u></a></li>
+<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
 </ul></div>
 
