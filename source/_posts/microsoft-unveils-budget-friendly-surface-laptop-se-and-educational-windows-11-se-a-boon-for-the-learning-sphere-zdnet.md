@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils Budget-Friendly Surface Laptop SE & Educational Windows 11 SE: A Boon for the Learning Sphere | ZDNet"
-date: 2024-09-23T01:36:53.149Z
-updated: 2024-09-30T06:10:06.461Z
+date: 2024-10-03T22:25:21.362Z
+updated: 2024-10-05T18:45:15.162Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ntegrating-royalty-free-songs-into-video-projects-for-2024/"><u>[New] Integrating Royalty-Free Songs Into Video Projects for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-university-sound-snatchers/"><u>[New] Ultimate University Sound Snatchers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos-for-2024/"><u>[Updated] Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-deep-dive-into-the-top-9-youtube-downloader-apps-for-android/"><u>[Updated] In 2024, A Deep Dive Into the Top 9 YouTube Downloader Apps for Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-restoring-spotify-functionality-while-driving-with-android-auto/"><u>Essential Tips: Restoring Spotify Functionality While Driving With Android Auto</u></a></li>
-<li><a href="https://win-unique.techidaily.com/expand-your-macbooks-display-with-this-compact-and-versatile-portable-monitor/"><u>Expand Your MacBook's Display with This Compact & Versatile Portable Monitor!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-htc-u23-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass HTC U23’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-k11x-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo K11x to Another | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/intel-vs-qualcomm-showdown-can-intel-deliver-a-dominating-chip-to-secure-the-fate-of-x86-pcs/"><u>Intel Vs. Qualcomm Showdown: Can Intel Deliver a Dominating Chip to Secure the Fate of X86 PCs?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/macos-vs-windows-debunking-the-5-common-myths-for-pc-users-digital-expertise/"><u>MacOS Vs. Windows: Debunking the 5 Common Myths for PC Users | Digital Expertise</u></a></li>
-<li><a href="https://win-unique.techidaily.com/microsoft-claims-engineers-arent-fanatical-about-their-new-os-a-look-at-windows-1nvite/"><u>Microsoft Claims Engineers Aren't Fanatical About Their New OS: A Look at Windows 1Nvite</u></a></li>
-<li><a href="https://win-unique.techidaily.com/microsoft-considers-curtailing-third-party-tweaks-in-windows-11-build-24h2-insights-by-tech-journalist-zdnet/"><u>Microsoft Considers Curtailing Third-Party Tweaks in Windows 11 Build 24H2 – Insights by Tech Journalist [ZDNET]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/no-more-freebies-for-windows-10-users-understand-the-changes-now/"><u>No More Freebies for Windows 10 Users – Understand the Changes Now</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quick-shift-protocol-mastering-the-one-click-move-between-office-pcs-and-personal-laptops-tips-shared-by-zdnet/"><u>Quick Shift Protocol: Mastering the One-Click Move Between Office PCs & Personal Laptops - Tips Shared by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/stay-on-the-safe-side-why-skip-windows-11-and-what-to-use-in-its-place-tech-advice-hub/"><u>Stay on the Safe Side: Why Skip Windows 11 and What to Use in Its Place | Tech Advice Hub</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-building-a-flawless-windows-11-virtual-environment/"><u>Step-by-Step Tutorial: Building a Flawless Windows 11 Virtual Environment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transformative-techniques-applying-luts-for-dynamic-effects-in-after-effects/"><u>Transformative Techniques Applying LUTs for Dynamic Effects in After Effects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-masterful-method-smart-watch-to-access-mac-for-2024/"><u>[Updated] Masterful Method Smart Watch to Access Mac for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ard-content-extractor-convert-your-favorite-shows-into-high-quality-formats/"><u>ARD Content Extractor - Convert Your Favorite Shows Into High-Quality Formats</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-nvidia-geforce-rtx-3070-ti-windows-drivers-supports-win-11-10-and-8/"><u>Free NVIDIA GeForce RTX 3070 Ti Windows Drivers (Supports Win 11, 10 & 8)</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-legally-stream-and-convert-hotstar-seriesmovies-into-downloadable-formats-mp4avi/"><u>How To Legally Stream & Convert Hotstar Series/Movies Into Downloadable Formats (MP4/AVI)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-stream-movies-from-your-ipad-pro-or-mini-to-a-windows-or-mac-computer-using-airplay/"><u>How to Stream Movies From Your iPad Pro or Mini to a Windows or Mac Computer Using AirPlay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-crafting-facebook-videos-a-step-by-step-guide/"><u>In 2024, Crafting Facebook Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100a-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100A</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-path-to-captivating-photographic-alliances/"><u>In 2024, Unveiling the Path to Captivating Photographic Alliances</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-av1-video-codec-compatible-with-discord-a-comprehensive-guide/"><u>Is Av1 Video Codec Compatible with Discord: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-engagement-with-integrated-youtube-playlist-features/"><u>Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/precision-and-power-in-nikons-d7500-for-2024/"><u>Precision and Power in Nikon's D7500 for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revamping-your-flipbook-design-change-background-with-flipbuilder/"><u>Revamping Your Flipbook Design - Change Background with FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-converting-images-to-pdf-on-flipbuilder/"><u>Step-by-Step Guide: Converting Images to PDF on FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-incorporating-email-hyperlinks-into-your-digital-magazines-with-flipbook/"><u>Step-by-Step Guide: Incorporating Email Hyperlinks Into Your Digital Magazines with FlipBook</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-converting-powerpoint-links-for-use-in-flipbook-documentation-flipbuilder-experts/"><u>Step-by-Step Tutorial on Converting PowerPoint Links for Use in FlipBook Documentation [FlipBuilder Experts]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/transform-your-image-collection-into-professional-ebooks-featuring-page-turning-animation-step-by-step-guide-on-flipbuildercom/"><u>Transform Your Image Collection Into Professional eBooks Featuring Page-Turning Animation [Step-by-Step Guide on FlipBuilder.com]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/turn-your-pdf-documents-into-engaging-flipbooks-and-add-custom-watermarks-with-ease-learn-how/"><u>Turn Your PDF Documents Into Engaging Flipbooks and Add Custom Watermarks with Ease - Learn How!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-bose-quiet-control-30-features/"><u>Unveiling Bose Quiet Control 30 Features</u></a></li>
 </ul></div>
 

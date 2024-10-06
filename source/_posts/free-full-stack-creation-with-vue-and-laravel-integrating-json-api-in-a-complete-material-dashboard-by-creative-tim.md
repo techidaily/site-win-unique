@@ -1,7 +1,7 @@
 ---
 title: "Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim"
-date: 2024-09-29T07:36:09.327Z
-updated: 2024-09-29T20:34:09.947Z
+date: 2024-09-29T00:41:56.544Z
+updated: 2024-10-05T23:45:23.128Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,18 +60,18 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[New] Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-full-screen-mastery-for-premier-pro-users/"><u>[Updated] In 2024, Full Screen Mastery for Premier Pro Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-content-premier-youtube-rank-tracker-apps/"><u>2024 Approved Elevate Your Content Premier YouTube Rank Tracker Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-revitalizing-a-frozen-obs-video-source-feed/"><u>2024 Approved Revitalizing a Frozen OBS Video Source Feed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-simplifying-vfx-with-magix-video-pro-x/"><u>2024 Approved Simplifying VFX with Magix Video Pro X</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/convenient-chromebook-shot-techniques-method-4-for-2024/"><u>Convenient Chromebook Shot Techniques (Method #4) for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-instagram-everything-you-need-to-know-about-the-popular-app/"><u>Exploring Instagram: Everything You Need to Know About the Popular App</u></a></li>
-<li><a href="https://win-unique.techidaily.com/get-ready-microsoft-introduces-pay-to-play-model-for-windows-11-updates-starting-next-year-cost-breakdown/"><u>Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown</u></a></li>
-<li><a href="https://win-unique.techidaily.com/microsofts-latest-breakthroughs-at-the-surface-and-ai-event-unwrapped-comprehensive-coverage-by-zdnet/"><u>Microsoft's Latest Breakthroughs at the Surface & AI Event Unwrapped | Comprehensive Coverage by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/navigating-microsofts-copilot-balancing-utility-and-salesmanship-in-an-intelligent-assistant/"><u>Navigating Microsoft's Copilot: Balancing Utility and Salesmanship in an Intelligent Assistant</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-successfully-reverting-from-windows-11-back-to-windows-10-with-essential-precautions/"><u>Step-by-Step Guide: Successfully Reverting From Windows 11 Back to Windows 10 with Essential Precautions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722213965688-to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-revolutionary-methods-for-ipad-audio-logging/"><u>[New] 2024 Approved Revolutionary Methods for iPad Audio Logging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[Updated] 2024 Approved Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-superior-online-multimedia-collaboration-tools/"><u>[Updated] In 2024, Superior Online Multimedia Collaboration Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-lightning-leap-into-facebook-id-sleuthing/"><u>In 2024, Lightning Leap Into Facebook ID Sleuthing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/learn-how-to-transform-and-save-cmivfx-tutorials-in-mp4-format-with-easy-downloader-tool/"><u>Learn How to Transform and Save cmiVFX Tutorials in MP4 Format with Easy Downloader Tool</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-video-downloads-from-cudoo-tips-for-saving-in-mp4-mp3-avi-and-mov/"><u>Mastering Video Downloads From Cudoo: Tips for Saving in MP4, MP3, AVI & MOV</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-video-export-transfer-your-esignal-tutorials-into-high-quality-mp4-format/"><u>Mastering Video Export: Transfer Your eSignal Tutorials Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimize-clarity-mastering-close-up-techniques-in-videoleap-for-2024/"><u>Optimize Clarity Mastering Close-Up Techniques in Videoleap for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-jaksta-malfunctions-effective-strategies-for-both-macos-and-windows-users/"><u>Solving Jaksta Malfunctions: Effective Strategies for Both macOS and Windows Users</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-the-youtube-malfunction-issue-on-your-samsung-smart-tv/"><u>Solving the YouTube Malfunction Issue on Your Samsung Smart TV</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-horseback-riding-instructional-videos-for-pcs-and-macbooks/"><u>Step-by-Step Guide: Downloading Horseback Riding Instructional Videos for PCs and MacBooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-why-isnt-your-ipad-connecting-with-the-printer/"><u>Step-by-Step Solution: Why Isn't Your iPad Connecting with the Printer?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/trim-transform-and-triumph-advanced-techniques-in-youtube-edits/"><u>Trim, Transform, and Triumph Advanced Techniques in Youtube Edits</u></a></li>
 </ul></div>
 

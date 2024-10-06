@@ -1,7 +1,7 @@
 ---
 title: Ultimate Pen Case Guide for Surface Duo 2 - Secure Your Device with Style and Embrace Wireless Charging Capability
-date: 2024-09-26T14:20:36.990Z
-updated: 2024-09-30T02:55:53.432Z
+date: 2024-09-28T17:57:45.743Z
+updated: 2024-10-05T20:04:13.589Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,24 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-audio-adventurers-guide-navigating-between-podcasts-and-youtube-for-2024/"><u>[New] Audio Adventurer’s Guide Navigating Between Podcasts & YouTube for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/apturing-attention-striking-shots-for-youtube-success-for-2024/"><u>[New] Capturing Attention Striking Shots for YouTube Success for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-restore-lost-fb-watch-video-button/"><u>[Updated] Restore Lost FB Watch Video Button</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sparkle-in-the-spotlight-personalized-logos-made-easy-and-free/"><u>[Updated] Sparkle in the Spotlight Personalized Logos Made Easy & Free</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-vue-argon-pro-edition-comprehensive-vuejs-and-bootstrap-5-admin-panel-by-creative-tim/"><u>Advanced Vue Argon Pro Edition: Comprehensive Vue.js & Bootstrap 5 Admin Panel by Creative Tim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-vue-paper-dashboard-2-pro-complete-bootstrap-4-suite-for-vuejs-developers-from-creative-tim/"><u>Advanced Vue Paper Dashboard 2 PRO: Complete Bootstrap 4 Suite for Vue.js Developers From Creative Tim</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/crafting-quieter-sounds-a-garageband-expertise-for-2024/"><u>Crafting Quieter Sounds A Garageband Expertise for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/dislike-microsofts-latest-os-transform-windows-11-into-your-familiar-window-10-environment-tips-and-tricks/"><u>Dislike Microsoft's Latest OS? Transform Windows 11 Into Your Familiar Window 10 Environment - Tips & Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-13c-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi 13C 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-graphical-limitation-detected-on-window/"><u>Hardware Graphical Limitation Detected on Window</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-blanking-on-window-11-display/"><u>Resolve Blanking on Window 11 Display</u></a></li>
-<li><a href="https://win-unique.techidaily.com/stuck-with-an-older-os-and-considering-windows-11-try-this-wise-move-tips-from-zdnet/"><u>Stuck with an Older OS and Considering Windows 11? Try This Wise Move | Tips From ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/turn-off-unwanted-rings-staying-silent-on-your-ipad-when-your-iphone-is-active/"><u>Turn Off Unwanted Rings: Staying Silent on Your iPad When Your iPhone Is Active</u></a></li>
-<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chronology-conundrum-best-podcast-times/"><u>[New] Chronology Conundrum Best Podcast Times</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effective-techniques-to-archive-vimeo-content-for-2024/"><u>[New] Effective Techniques to Archive Vimeo Content for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/diy-custom-book-layout-and-background-creation-with-flipbuilder/"><u>DIY Custom Book Layout & Background Creation with FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/download-free-pdf-to-flash-converter-software-convert-your-magazinesto-swf-format/"><u>Download Free PDF-to-Flash Converter Software - Convert Your Magazinesto SWF Format</u></a></li>
+<li><a href="https://win-unique.techidaily.com/download-free-professional-templates-and-essential-utilities-for-successful-flips-start-at-flipbuildercom/"><u>Download Free Professional Templates & Essential Utilities for Successful Flips - Start at FlipBuilder.com</u></a></li>
+<li><a href="https://win-unique.techidaily.com/easy-slides-to-books-converter-masterful-presentation-flipbook-creation-from-powerpoint-flipbuildercom/"><u>Easy Slides-to-Books Converter! Masterful Presentation Flipbook Creation From PowerPoint - [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/easy-techniques-to-integrate-tables-into-flash-books-on-flipbuilder-platform/"><u>Easy Techniques to Integrate Tables Into Flash Books on FlipBuilder Platform</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/effortlessly-navigate-your-workspace-the-perfect-blend-of-precise-cables-in-the-portable-sabrent-mini-travel-mouse/"><u>Effortlessly Navigate Your Workspace: The Perfect Blend of Precise Cables in the Portable Sabrent Mini Travel Mouse</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortlessly-offer-downloads-mastering-the-integration-of-flipbook-functionality-using-flipbuilder-on-your-website/"><u>Effortlessly Offer Downloads: Mastering the Integration of Flipbook Functionality Using FlipBuilder on Your Website</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/splice-video-editor-on-mac-download-guide-and-best-alternative/"><u>Splice Video Editor on Mac Download Guide and Best Alternative</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-content-creation-with-hixs-artificial-intelligence-and-gpt-4-integration/"><u>Transform Your Content Creation With HIX’s Artificial Intelligence and GPT-4 Integration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-youtubes-complex-view-count-system-for-2024/"><u>Unveiling YouTube's Complex View Count System for 2024</u></a></li>
 </ul></div>
 

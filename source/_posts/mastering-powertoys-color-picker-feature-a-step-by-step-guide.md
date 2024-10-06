@@ -1,7 +1,7 @@
 ---
 title: Mastering PowerToys' Color Picker Feature – A Step-by-Step Guide
-date: 2024-09-26T21:59:50.138Z
-updated: 2024-09-30T08:04:26.136Z
+date: 2024-10-03T20:52:42.211Z
+updated: 2024-10-05T17:41:55.402Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-critical-look-at-the-leading-economically-friendly-lut-sources/"><u>[New] A Critical Look at the Leading, Economically Friendly LUT Sources</u></a></li>
-<li><a href="https://win-unique.techidaily.com/convert-and-save-premium-xbef-content-as-high-quality-videos-movavi/"><u>Convert and Save Premium XBef Content as High-Quality Videos (MOV/AVI)</u></a></li>
-<li><a href="https://win-unique.techidaily.com/convert-your-digital-tutors-online-learning-into-high-quality-mp4-videos-for-offline-study/"><u>Convert Your Digital Tutors Online Learning Into High-Quality MP4 Videos for Offline Study</u></a></li>
-<li><a href="https://win-unique.techidaily.com/convert-download-and-enjoy-youtube-videos-as-mp3s-on-your-windows-or-mac-system/"><u>Convert, Download, and Enjoy YouTube Videos as MP3s on Your Windows or Mac System</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discover-the-ultimate-video-grabber-software-that-outperforms-ant-across-both-mac-and-windows-systems/"><u>Discover the Ultimate Video Grabber Software That Outperforms Ant Across Both Mac and Windows Systems!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-and-convert-fake-taxi-game-in-various-formats-a-step-by-step-guide/"><u>Download and Convert Fake Taxi Game in Various Formats: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-fox-news-videos-in-hd-get-high-quality-mp4-wmv-or-avi-files/"><u>Download Fox News Videos in HD: Get High-Quality MP4, WMV or AVI Files</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-guide-to-converting-youtube-content-into-premium-wma-files/"><u>Easy Guide to Converting YouTube Content Into Premium WMA Files</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-solutions-to-get-your-amd-rx-560-graphics-card-running-flawlessly-on-various-windows-editions/"><u>Effective Solutions to Get Your AMD RX 560 Graphics Card Running Flawlessly on Various Windows Editions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-x5-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco X5 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audience-engagement-trends-to-master-on-instagram/"><u>In 2024, Audience Engagement Trends to Master on Instagram</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-v27mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo V27Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-issue-in-windows-11-expert-fixes/"><u>Solving the MsMpEng.exe High CPU Usage Issue in Windows 11 - Expert Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor-for-2024/"><u>The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-of-eufy-t8200-video-doorbell-no-subscription-required/"><u>Unboxing & Testing of Eufy T8200 Video Doorbell – No Subscription Required!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-vimeo-video-speed/"><u>[New] 2024 Approved Elevating Vimeo Video Speed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-find-tiktok-background-video-some-templates/"><u>[New] In 2024, How to Find TikTok Background Video Some Templates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[Updated] 2024 Approved Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-samsungs-photo-enhancing-tools-for-2024/"><u>[Updated] Exploring Samsung’s Photo Enhancing Tools for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-unveiling-microsofts-new-ai-tool-transform-your-copy-pasting-game-learn-the-easy-steps-on-zdnet/"><u>1. Unveiling Microsoft's New AI Tool: Transform Your Copy-Pasting Game! Learn the Easy Steps on ZDNet</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/accelerate-book-browsing-efficient-strategies-using-flipbuilder-tools/"><u>Accelerate Book Browsing: Efficient Strategies Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/add-a-game-changing-windows-feature-to-your-mac-for-just-2-now-available-on-zdnet/"><u>Add a Game-Changing Windows Feature to Your Mac for Just $2 - Now Available on ZDNet!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-pcs-speed-how-a-hidden-windows-11-feature-quickly-stops-sluggish-programs-zdnet/"><u>Boost Your PC's Speed: How a Hidden Windows 11 Feature Quickly Stops Sluggish Programs | ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comhar-flexispot-standing-desk-sale-secure-your-savings-of-up-to-80-now/"><u>Comhar FlexiSpot Standing Desk Sale - Secure Your Savings of Up To $80 Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/como-transformar-audio-de-alaw-a-formato-wav-sin-coste-con-movavi/"><u>Cómo Transformar Audio De Alaw a Formato Wav Sin Coste Con Movavi</u></a></li>
+<li><a href="https://win-unique.techidaily.com/debunking-common-misconceptions-how-windows-enthusiasts-often-misunderstand-macos/"><u>Debunking Common Misconceptions: How Windows Enthusiasts Often Misunderstand macOS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/essential-50-ergonomic-desk-addition-enhance-your-sitting-or-standing-work-experience-with-our-top-picks-zdnet-review/"><u>Essential $50 Ergonomic Desk Addition: Enhance Your Sitting or Standing Work Experience with Our Top Picks (ZDNet Review)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-spark-go-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Spark Go (2023) Phone Screen?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-the-art-of-finding-lost-documents-with-windows-intuitive-file-search-pc-requirements-unveiled-zdnet/"><u>Mastering the Art of Finding Lost Documents with Windows' Intuitive File Search - PC Requirements Unveiled | ZDNET</u></a></li>
+<li><a href="https://win-unique.techidaily.com/pre-order-microsofts-latest-affordable-powerhouse-the-new-599-surface-laptop-go-2-techspot/"><u>Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
 </ul></div>
 

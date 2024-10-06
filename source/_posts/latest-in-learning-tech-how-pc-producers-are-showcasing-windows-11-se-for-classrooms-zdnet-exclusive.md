@@ -1,7 +1,7 @@
 ---
 title: "Latest in Learning Tech: How PC Producers Are Showcasing Windows 11 SE for Classrooms | ZDNET Exclusive"
-date: 2024-09-23T17:14:56.464Z
-updated: 2024-09-30T11:11:07.500Z
+date: 2024-10-04T19:24:33.059Z
+updated: 2024-10-05T23:00:41.054Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-fashion-your-snaps-top-trendy-augmentations-revealed/"><u>[New] In 2024, Fashion Your Snaps Top Trendy Augmentations Revealed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-sony-game-systems-redefine-your-gaming-soundscape/"><u>[Updated] 2024 Approved Sony Game Systems Redefine Your Gaming Soundscape</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-a-comprehensive-overview-of-cost-free-cloud-communication-software/"><u>[Updated] In 2024, A Comprehensive Overview of Cost-Free Cloud Communication Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-awesome-beginners-starter-pack-with-free-tailwind-css-nextjs-and-ui-kits-from-notion-by-creative-tim/"><u>1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-beyond-betting-in-depth-vegas-pro-21-analysis/"><u>2024 Approved Beyond Betting In-Depth Vegas Pro '21 Analysis</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-blk-ui-kit-react-version-ultimate-premium-creation-framework-for-reactstrap-and-bootstrap-4-featuring-technium-innovations/"><u>Advanced BLK· UI Kit React Version: Ultimate Premium Creation Framework for Reactstrap and Bootstrap 4 – Featuring Technium Innovations</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-pro-admin-panel-with-nextjs-and-material-ui-by-creative-tim/"><u>Advanced Pro Admin Panel with NextJS & Material UI by Creative Tim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/answer-the-new-length-will-be-6-inches-12-72-inches-maintaining-proportionality-in-scale-increase/"><u>Answer: The New Length Will Be 6 Inches 1.2 = 7.2 Inches, Maintaining Proportionality in Scale Increase.</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-update-four-techniques/"><u>Bypassing Windows Update: Four Techniques</u></a></li>
-<li><a href="https://win-unique.techidaily.com/creative-tim-and-updivisions-vuejs-dashboard-pro-with-laravel-integration/"><u>Creative Tim & Updivision's Vue.js Dashboard Pro with Laravel Integration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-visuals-iphone-magnification-hacks/"><u>Enhancing Visuals IPhone Magnification Hacks</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-and-premium-aspnet-designs-by-creative-tim-top-5-choices/"><u>Free & Premium ASP.NET Designs by Creative Tim - Top 5 Choices</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-full-stack-creation-with-vue-and-laravel-integrating-json-api-in-a-complete-material-dashboard-by-creative-tim/"><u>Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-django-dashboard-experience-using-bootstrap-4-by-creative-tim-upgrade-to-pro-version-now/"><u>Premium Django Dashboard Experience Using Bootstrap 4 by Creative Tim – Upgrade to PRO Version Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-no-sound-issue-in-lenovo-lattices-a-step-by-step-tutorial/"><u>Troubleshoot and Resolve No Sound Issue in Lenovo Lattices: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/webm-mp4-online/"><u>Webm 대 MP4를 위한 Online 가져오기 - 무료 전환 서비스</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>[Updated] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-three-budget-friendly-strategies-for-audio-amplification-in-ios-films/"><u>[Updated] Three Budget-Friendly Strategies for Audio Amplification in iOS Films</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/color-enhancement-made-easy-the-role-of-luts-in-photos-for-2024/"><u>Color Enhancement Made Easy The Role of LUTs in Photos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-check-your-real-ram-speed-on-windows-11-11/"><u>How to Check Your Real RAM Speed on Windows 11, 11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-minimize-book-spine-glare-when-scanning-with-flipbuilder-pro/"><u>How To Minimize Book Spine Glare When Scanning With FlipBuilder Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-pick-and-personalize-gospel-ringtones-effectively/"><u>In 2024, How to Pick and Personalize Gospel Ringtones Effectively</u></a></li>
+<li><a href="https://win-unique.techidaily.com/is-it-possible-to-include-corporate-information-within-a-continuous-scrolling-ebook-using-flipbuilders-features/"><u>Is It Possible to Include Corporate Information Within a Continuous Scrolling eBook Using FlipBuilder's Features?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/maximize-user-engagement-learn-how-to-set-up-seamless-flipbook-download-on-your-website-flipbuilder/"><u>Maximize User Engagement - Learn How to Set Up Seamless Flipbook Download on Your Website [FlipBuilder]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revamping-your-flipbook-design-change-background-with-flipbuilder/"><u>Revamping Your Flipbook Design - Change Background with FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-converting-images-to-pdf-on-flipbuilder/"><u>Step-by-Step Guide: Converting Images to PDF on FlipBuilder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/x-studio-voice-processor-windows-for-2024/"><u>X-Studio Voice Processor, Windows for 2024</u></a></li>
 </ul></div>
 

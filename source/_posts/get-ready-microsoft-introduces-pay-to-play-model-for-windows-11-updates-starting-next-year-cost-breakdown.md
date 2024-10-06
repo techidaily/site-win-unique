@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown"
-date: 2024-09-27T01:04:06.031Z
-updated: 2024-09-29T19:49:55.599Z
+date: 2024-10-05T00:26:50.468Z
+updated: 2024-10-05T19:29:43.615Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,19 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-comparing-cloud-providers-who-offers-what-price/"><u>[New] In 2024, Comparing Cloud Providers Who Offers What Price</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-group-of-high-speed-video-snapshot-apps/"><u>[Updated] In 2024, Elite Group of High-Speed Video Snapshot Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-photograph-total-browser-scope/"><u>[Updated] In 2024, Photograph Total Browser Scope</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-konnen-sie-lernen-verschiedene-mp4-videoformate-effizient-kombinieren/"><u>1. Können Sie Lernen, Verschiedene MP4-Videoformate Effizient Kombinieren</u></a></li>
-<li><a href="https://win-unique.techidaily.com/a-deep-dive-into-microsofts-new-releases-unveiled-at-the-recent-surface-event-covered-by-zdnet/"><u>A Deep Dive Into Microsoft's New Releases Unveiled at the Recent Surface Event Covered by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/celebrating-freedom-the-tech-industrys-tribute-to-juneteenth/"><u>Celebrating Freedom: The Tech Industry's Tribute to Juneteenth</u></a></li>
-<li><a href="https://win-unique.techidaily.com/critical-hurdle-for-microsofts-windows-11-just-one-year-left-to-resolve-issues-tech-news-by-zdnet/"><u>Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/embracing-innovation-in-excel-as-suggested-by-microsoft-a-personal-journey-shared-with-zdnet/"><u>Embracing Innovation in Excel as Suggested by Microsoft – A Personal Journey Shared with ZDNet</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-picturepuns-comic-creation-tool/"><u>In 2024, PicturePuns Comic Creation Tool</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-your-digital-sidekick-build-and-use-a-custom-copilot-gpt-step-by-step/"><u>Mastering Your Digital Sidekick: Build and Use a Custom Copilot GPT Step-by-Step</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-enhancing-windows-home-with-a-professional-upgrade-discover-the-benefits-now/"><u>Step-by-Step Guide: Enhancing Windows Home with a Professional Upgrade - Discover the Benefits Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/taming-the-beast-mastering-fps-stability-and-eliminating-lags-in-cod-black-ops-4/"><u>Taming the Beast: Mastering FPS Stability and Eliminating Lags in COD Black Ops 4</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-a05s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel A05s FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2-easy-ways-to-record-google-meet/"><u>[Updated] 2 Easy Ways to Record Google Meet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads-for-2024/"><u>[Updated] Essential Tips for Configuring and Measuring Facebook's In-Stream Ads for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-awesome-beginners-starter-pack-with-free-tailwind-css-nextjs-and-ui-kits-from-notion-by-creative-tim/"><u>1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>2024 Approved Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-blk-ui-kit-react-version-ultimate-premium-creation-framework-for-reactstrap-and-bootstrap-4-featuring-technium-innovations/"><u>Advanced BLK· UI Kit React Version: Ultimate Premium Creation Framework for Reactstrap and Bootstrap 4 – Featuring Technium Innovations</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-pro-admin-panel-with-nextjs-and-material-ui-by-creative-tim/"><u>Advanced Pro Admin Panel with NextJS & Material UI by Creative Tim</u></a></li>
+<li><a href="https://win-unique.techidaily.com/answer-the-new-length-will-be-6-inches-12-72-inches-maintaining-proportionality-in-scale-increase/"><u>Answer: The New Length Will Be 6 Inches 1.2 = 7.2 Inches, Maintaining Proportionality in Scale Increase.</u></a></li>
+<li><a href="https://win-unique.techidaily.com/free-full-stack-creation-with-vue-and-laravel-integrating-json-api-in-a-complete-material-dashboard-by-creative-tim/"><u>Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-open-source-fb-songs-downloader/"><u>In 2024, Open Source FB Songs Downloader</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-drones-for-superior-gopro-camera-integration-for-2024/"><u>Leading Drones for Superior GoPro Camera Integration for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-django-dashboard-experience-using-bootstrap-4-by-creative-tim-upgrade-to-pro-version-now/"><u>Premium Django Dashboard Experience Using Bootstrap 4 by Creative Tim – Upgrade to PRO Version Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-codegpt-in-your-vs-code-environment/"><u>Step-by-Step Guide to CodeGPT in Your VS Code Environment</u></a></li>
+<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-creating-amazing-web-wizards-with-bootstrap-get-started-for-free-today/"><u>The Ultimate Guide to Creating Amazing Web Wizards with Bootstrap - Get Started for Free Today!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-vuejs-admin-and-dashboard-kit-for-professionals-aged-55plus-designed-by-creative-tim/"><u>Ultimate VueJS Admin & Dashboard Kit for Professionals Aged 55+ | Designed by Creative Tim</u></a></li>
 </ul></div>
 

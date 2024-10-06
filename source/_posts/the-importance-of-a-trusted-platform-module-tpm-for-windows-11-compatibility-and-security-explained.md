@@ -1,7 +1,7 @@
 ---
 title: The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained
-date: 2024-09-25T05:31:49.331Z
-updated: 2024-09-30T04:45:27.241Z
+date: 2024-10-03T00:13:58.032Z
+updated: 2024-10-05T22:28:23.450Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -46,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -55,18 +55,24 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -75,10 +81,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -111,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,18 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-chronology-conundrum-best-podcast-times/"><u>[New] Chronology Conundrum Best Podcast Times</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-integrating-timestamps-youtube-video-link-enhancement-techniques/"><u>[New] Integrating Timestamps YouTube Video Link Enhancement Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-pushingpastthestatusquo-post-mycam-cams-for-2024/"><u>[New] PushingPastTheStatusQuo Post-MyCam Cams for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-render-dynamic-depth-on-digital-imagery/"><u>[Updated] Render Dynamic Depth on Digital Imagery</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shining-through-hd-is-it-a-wise-pick-for-hdr/"><u>2024 Approved Shining Through HD Is It a Wise Pick for HDR?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-free-pdf-to-flash-converter-software-convert-your-magazinesto-swf-format/"><u>Download Free PDF-to-Flash Converter Software - Convert Your Magazinesto SWF Format</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-free-professional-templates-and-essential-utilities-for-successful-flips-start-at-flipbuildercom/"><u>Download Free Professional Templates & Essential Utilities for Successful Flips - Start at FlipBuilder.com</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-slides-to-books-converter-masterful-presentation-flipbook-creation-from-powerpoint-flipbuildercom/"><u>Easy Slides-to-Books Converter! Masterful Presentation Flipbook Creation From PowerPoint - [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-techniques-to-integrate-tables-into-flash-books-on-flipbuilder-platform/"><u>Easy Techniques to Integrate Tables Into Flash Books on FlipBuilder Platform</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 14 Pro without Passcode or Face ID</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-neo-5-se-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT Neo 5 SE to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy S23 Phone?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-securing-your-online-sessions-pcmobile-recording/"><u>[New] 2024 Approved Securing Your Online Sessions PC/Mobile Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-gameplay-using-fbx-game-recorder/"><u>[Updated] 2024 Approved How To Record Gameplay Using FBX Game Recorder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-top-rated-free-android-background-gallery-applications/"><u>1. Top Rated Free Android Background Gallery Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-into-better-imaging-with-these-gopro-extras/"><u>2024 Approved Step Into Better Imaging with These GoPro Extras</u></a></li>
+<li><a href="https://win-unique.techidaily.com/5-best-apps-for-embedding-watermarks-in-your-youtube-content/"><u>5 Best Apps for Embedding Watermarks in Your YouTube Content</u></a></li>
+<li><a href="https://win-unique.techidaily.com/diy-instagram-sticker-creation-tutorial-make-your-posts-stand-out/"><u>DIY Instagram Sticker Creation Tutorial - Make Your Posts Stand Out!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-apple-maps-latest-update-promises-greater-accuracy/"><u>Get Ready: Apple Maps' Latest Update Promises Greater Accuracy</u></a></li>
+<li><a href="https://win-unique.techidaily.com/happy-melodies-bundle-top-free-christmas-song-files/"><u>Happy Melodies Bundle: Top Free Christmas Song Files</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-12-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 12 Pro From Your Apple ID</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ipad-movie-downloads-a-guide-to-adding-films-without-using-itunes/"><u>IPad Movie Downloads: A Guide to Adding Films Without Using iTunes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-your-creativity-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New 2024 Approved Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
+<li><a href="https://win-unique.techidaily.com/quick-and-efficient-techniques-for-changing-mkv-videos-into-avi-with-embedded-subtitles/"><u>Quick and Efficient Techniques for Changing MKV Videos Into AVI With Embedded Subtitles</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-project-your-iphone-screen-on-skyworth-smart-tv-expert-tips-and-tricks/"><u>Seamlessly Project Your iPhone Screen on Skyworth Smart TV: Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-10-gif-apps-for-iphone-x876-for-2024/"><u>Top 10 GIF Apps for iPhone X/8/7/6 for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-rated-photo-slideshow-applications-compatible-with-windows-11/"><u>Top-Rated Photo Slideshow Applications Compatible with Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

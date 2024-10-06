@@ -1,7 +1,7 @@
 ---
 title: Boost Your Admin Efficiency - Master Windows PowerShell Scripting for Only $16 on ZDNet
-date: 2024-09-23T20:00:21.733Z
-updated: 2024-09-29T22:56:16.893Z
+date: 2024-09-29T19:08:51.129Z
+updated: 2024-10-06T00:01:14.630Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[New] Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-from-free-to-profitable-a-video-marketing-masterclass-for-vimeo/"><u>[New] In 2024, From Free to Profitable A Video Marketing Masterclass for Vimeo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-tips-and-tricks-to-better-use-pixlr-editor/"><u>10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-exclusive-guide-to-the-best-chrome-extensions-for-fb-videos/"><u>2024 Approved Exclusive Guide to the Best Chrome Extensions for FB Videos</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ard-content-extractor-convert-your-favorite-shows-into-high-quality-formats/"><u>ARD Content Extractor - Convert Your Favorite Shows Into High-Quality Formats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-8-parent-safety-tools-and-services/"><u>Best 8 Parent Safety Tools & Services</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-legally-stream-and-convert-hotstar-seriesmovies-into-downloadable-formats-mp4avi/"><u>How To Legally Stream & Convert Hotstar Series/Movies Into Downloadable Formats (MP4/AVI)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wealthiest-web-workshops-hosts/"><u>In 2024, Wealthiest Web Workshops Hosts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-converting-powerpoint-links-for-use-in-flipbook-documentation-flipbuilder-experts/"><u>Step-by-Step Tutorial on Converting PowerPoint Links for Use in FlipBook Documentation [FlipBuilder Experts]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/transform-your-image-collection-into-professional-ebooks-featuring-page-turning-animation-step-by-step-guide-on-flipbuildercom/"><u>Transform Your Image Collection Into Professional eBooks Featuring Page-Turning Animation [Step-by-Step Guide on FlipBuilder.com]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/turn-your-pdf-documents-into-engaging-flipbooks-and-add-custom-watermarks-with-ease-learn-how/"><u>Turn Your PDF Documents Into Engaging Flipbooks and Add Custom Watermarks with Ease - Learn How!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-easy-way-to-modify-iphone-photo-dimensions/"><u>[New] The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-frames-the-10-best-websites-for-wallpapers-on-your-pc/"><u>[Updated] Flawless Frames The 10 Best Websites for Wallpapers on Your PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[Updated] In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
+<li><a href="https://win-unique.techidaily.com/celebrating-freedom-the-tech-industrys-tribute-to-juneteenth/"><u>Celebrating Freedom: The Tech Industry's Tribute to Juneteenth</u></a></li>
+<li><a href="https://win-unique.techidaily.com/critical-hurdle-for-microsofts-windows-11-just-one-year-left-to-resolve-issues-tech-news-by-zdnet/"><u>Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dannys-colombian-efforts-for-disadvantaged-communities/"><u>Danny's Colombian Efforts for Disadvantaged Communities</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-8-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel 8 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-solutions-to-beat-the-overheating-issue-on-steam-devices/"><u>Innovative Solutions to Beat the Overheating Issue on Steam Devices</u></a></li>
+<li><a href="https://win-unique.techidaily.com/investing-in-affordability-why-choosing-the-budget-friendly-surface-pro-is-a-smart-move-insights-from-zdnet/"><u>Investing in Affordability: Why Choosing the Budget-Friendly Surface Pro Is a Smart Move – Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-your-digital-sidekick-build-and-use-a-custom-copilot-gpt-step-by-step/"><u>Mastering Your Digital Sidekick: Build and Use a Custom Copilot GPT Step-by-Step</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-microsoft-office-suite-get-project-and-visio-pros-for-a-steal-at-20-each-from-zdnet-now/"><u>Secure Your Microsoft Office Suite: Get Project and Visio Pros for a Steal at $20 Each From ZDNet Now!</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-your-facebook-fan-count-privacy/"><u>Securing Your Facebook Fan Count Privacy</u></a></li>
 </ul></div>
 
