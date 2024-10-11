@@ -1,7 +1,7 @@
 ---
 title: OpenAI Unveils New Enterprise-Focused ChatGPT Solution – Latest Innovation in AI Assistance
-date: 2024-10-04T20:49:30.649Z
-updated: 2024-10-06T00:05:56.791Z
+date: 2024-10-05T03:18:13.739Z
+updated: 2024-10-11T00:18:14.981Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-guides-to-unearthing-elite-cinematography/"><u>[New] Guides to Unearthing Elite Cinematography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-pro-android-pixel-perfect-techniques/"><u>[New] In 2024, Pro Android Pixel Perfect Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-cloud-storage-deals-prices-to-watch/"><u>[Updated] 2024 Approved Best Cloud Storage Deals – Prices to Watch</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-practices-for-efficient-slide-capture-for-2024/"><u>[Updated] Best Practices for Efficient Slide Capture for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-bass-management-techniques-for-enhanced-audio-experience/"><u>Demystifying Bass Management Techniques for Enhanced Audio Experience</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-strategies-for-file-backup-using-windows-11s-built-in-feature-expert-tips-and-guides/"><u>Effective Strategies for File Backup Using Windows 11'S Built-In Feature – Expert Tips & Guides</u></a></li>
-<li><a href="https://win-unique.techidaily.com/exclusive-offer-authentic-microsoft-pro-licenses-for-a-steal-just-20-spotted-on-zdnet/"><u>Exclusive Offer: Authentic Microsoft Pro Licenses for a Steal - Just $20, Spotted on ZDNet!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/from-low-to-none-the-transformative-role-of-generative-ai-in-evolving-code-free-solutions-zdnet-insights/"><u>From Low to None: The Transformative Role of Generative AI in Evolving Code-Free Solutions | ZDNET Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/get-ready-microsoft-introduces-pay-to-play-model-for-windows-11-updates-starting-next-year-cost-breakdown/"><u>Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-m34-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy M34 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-tech-best-drone-gimbals-reviewed/"><u>In 2024, Top Tech Best Drone Gimbals Reviewed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oneplus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock OnePlus Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-unique.techidaily.com/microsofts-latest-breakthroughs-at-the-surface-and-ai-event-unwrapped-comprehensive-coverage-by-zdnet/"><u>Microsoft's Latest Breakthroughs at the Surface & AI Event Unwrapped | Comprehensive Coverage by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/navigating-microsofts-copilot-balancing-utility-and-salesmanship-in-an-intelligent-assistant/"><u>Navigating Microsoft's Copilot: Balancing Utility and Salesmanship in an Intelligent Assistant</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-successfully-reverting-from-windows-11-back-to-windows-10-with-essential-precautions/"><u>Step-by-Step Guide: Successfully Reverting From Windows 11 Back to Windows 10 with Essential Precautions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels-for-2024/"><u>The Ultimate List 8 Key Steps for Irresistible Unboxing Reels for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultimate-pen-case-guide-for-surface-duo-2-secure-your-device-with-style-and-embrace-wireless-charging-capability/"><u>Ultimate Pen Case Guide for Surface Duo 2 - Secure Your Device with Style and Embrace Wireless Charging Capability</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streaming-success-top-methods-for-online-show-recordings/"><u>[New] 2024 Approved Streaming Success Top Methods for Online Show Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-timelapse-recording-software/"><u>[New] 2024 Approved Top 5 Timelapse Recording Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elite-7-drone-gimbal-selections/"><u>[New] Elite 7 Drone Gimbal Selections</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-streamlining-tiktok-production-zooms-role/"><u>[Updated] 2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-guide-to-brighter-youtube-video-editing/"><u>2024 Approved Step-by-Step Guide to Brighter YouTube Video Editing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exclusive-places-for-next-gen-vr-content-for-2024/"><u>Exclusive Places for Next-Gen VR Content for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-of-warframe-constantly-pausing-or-hanging-a-step-by-step-guide/"><u>Fixing the Issue of Warframe Constantly Pausing or Hanging - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-extract-and-print-specific-pages-in-your-flip-book-using-flipbuilder-techniques/"><u>How to Extract and Print Specific Pages in Your Flip Book Using FlipBuilder Techniques</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-insert-jpg-png-and-bmp-images-into-your-website-with-ease-mastering-the-art-of-web-design-using-flipbuilder/"><u>How to Insert JPG, PNG & BMP Images Into Your Website with Ease - Mastering the Art of Web Design Using FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-minimize-book-spine-glare-when-scanning-with-flipbuilder-pro/"><u>How To Minimize Book Spine Glare When Scanning With FlipBuilder Pro</u></a></li>
+<li><a href="https://win-unique.techidaily.com/is-it-possible-to-include-corporate-information-within-a-continuous-scrolling-ebook-using-flipbuilders-features/"><u>Is It Possible to Include Corporate Information Within a Continuous Scrolling eBook Using FlipBuilder's Features?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-graphic-disturbances-a-guide-to-fixing-warzone-displays/"><u>Overcoming Graphic Disturbances: A Guide to Fixing Warzone Displays</u></a></li>
 </ul></div>
 

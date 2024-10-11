@@ -1,7 +1,7 @@
 ---
 title: "Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot"
-date: 2024-10-04T21:29:33.852Z
-updated: 2024-10-06T00:40:52.056Z
+date: 2024-10-10T05:39:43.472Z
+updated: 2024-10-11T15:04:27.737Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +148,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-chucklechain-master-the-art-of-memes-at-home-for-2024/"><u>[New] ChuckleChain Master the Art of Memes at Home for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-manual-the-art-of-digital-sound-note-taking/"><u>[New] Ultimate Manual The Art of Digital Sound Note-Taking</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-digital-painting-choosing-between-srgb-and-rgb/"><u>2024 Approved Digital Painting Choosing Between Srgb & Rgb</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/7-best-monitors-for-photo-editing-worth-trying/"><u>7 Best Monitors for Photo Editing Worth Trying</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-guide-to-creating-custom-gifs-for-your-instagram-stories/"><u>Easy Guide to Creating Custom GIFs for Your Instagram Stories</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-remedies-for-correcting-visual-and-auditory-glitches-with-apowerrec/"><u>Effective Remedies for Correcting Visual and Auditory Glitches with ApowerREC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975744151-get-the-newest-nvidia-drivers-easy-update-guide/"><u>Get the Newest NVIDIA Drivers - Easy Update Guide!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/pasos-sencillos-para-activar-movavi-en-tu-computadora-mac-instrucciones-detalladas/"><u>Pasos Sencillos Para Activar Movavi en Tu Computadora Mac: Instrucciones Detalladas</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quick-and-efficient-techniques-for-changing-mkv-videos-into-avi-with-embedded-subtitles/"><u>Quick and Efficient Techniques for Changing MKV Videos Into AVI With Embedded Subtitles</u></a></li>
-<li><a href="https://win-unique.techidaily.com/seamlessly-project-your-iphone-screen-on-skyworth-smart-tv-expert-tips-and-tricks/"><u>Seamlessly Project Your iPhone Screen on Skyworth Smart TV: Expert Tips and Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-gpus-for-ultra-hd-video-production/"><u>[New] Best GPUs for Ultra HD Video Production</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-viewers-at-the-end-of-a-yt-video/"><u>[New] In 2024, Engaging Viewers at the End of a YT Video</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-unveiling-microsofts-new-ai-tool-transform-your-copy-pasting-game-learn-the-easy-steps-on-zdnet/"><u>1. Unveiling Microsoft's New AI Tool: Transform Your Copy-Pasting Game! Learn the Easy Steps on ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-pcs-speed-how-a-hidden-windows-11-feature-quickly-stops-sluggish-programs-zdnet/"><u>Boost Your PC's Speed: How a Hidden Windows 11 Feature Quickly Stops Sluggish Programs | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-compelling-freefire-vids-with-strategy-guide-for-2024/"><u>Crafting Compelling FreeFire Vids with Strategy Guide for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/debunking-common-misconceptions-how-windows-enthusiasts-often-misunderstand-macos/"><u>Debunking Common Misconceptions: How Windows Enthusiasts Often Misunderstand macOS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortless-cross-platform-file-sharing-seamlessly-transfer-data-from-your-pc-to-android-devices-using-google-quick-share/"><u>Effortless Cross-Platform File Sharing: Seamlessly Transfer Data From Your PC to Android Devices Using Google Quick Share</u></a></li>
+<li><a href="https://win-unique.techidaily.com/expand-your-macbooks-display-with-this-compact-and-versatile-portable-monitor/"><u>Expand Your MacBook's Display with This Compact & Versatile Portable Monitor!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722843528859-finding-vanished-contact-information-in-your-androids-address-book/"><u>Finding Vanished Contact Information in Your Android's Address Book</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-grassroots-video-marketing-strategies/"><u>In 2024, Grassroots Video Marketing Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-earnings-guide-policy-overhaul-explained/"><u>In 2024, YouTube Earnings Guide Policy Overhaul Explained</u></a></li>
+<li><a href="https://win-unique.techidaily.com/intel-vs-qualcomm-showdown-can-intel-deliver-a-dominating-chip-to-secure-the-fate-of-x86-pcs/"><u>Intel Vs. Qualcomm Showdown: Can Intel Deliver a Dominating Chip to Secure the Fate of X86 PCs?</u></a></li>
 </ul></div>
 

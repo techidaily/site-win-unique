@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: Microsoft Introduces Pay-to-Play Model for Windows 11 Updates Starting Next Year - Cost Breakdown"
-date: 2024-10-05T00:26:50.468Z
-updated: 2024-10-05T19:29:43.615Z
+date: 2024-10-07T05:10:56.236Z
+updated: 2024-10-11T11:48:27.551Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -77,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2-easy-ways-to-record-google-meet/"><u>[Updated] 2 Easy Ways to Record Google Meet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads-for-2024/"><u>[Updated] Essential Tips for Configuring and Measuring Facebook's In-Stream Ads for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-awesome-beginners-starter-pack-with-free-tailwind-css-nextjs-and-ui-kits-from-notion-by-creative-tim/"><u>1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>2024 Approved Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-blk-ui-kit-react-version-ultimate-premium-creation-framework-for-reactstrap-and-bootstrap-4-featuring-technium-innovations/"><u>Advanced BLK· UI Kit React Version: Ultimate Premium Creation Framework for Reactstrap and Bootstrap 4 – Featuring Technium Innovations</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-pro-admin-panel-with-nextjs-and-material-ui-by-creative-tim/"><u>Advanced Pro Admin Panel with NextJS & Material UI by Creative Tim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/answer-the-new-length-will-be-6-inches-12-72-inches-maintaining-proportionality-in-scale-increase/"><u>Answer: The New Length Will Be 6 Inches 1.2 = 7.2 Inches, Maintaining Proportionality in Scale Increase.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-full-stack-creation-with-vue-and-laravel-integrating-json-api-in-a-complete-material-dashboard-by-creative-tim/"><u>Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-open-source-fb-songs-downloader/"><u>In 2024, Open Source FB Songs Downloader</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-drones-for-superior-gopro-camera-integration-for-2024/"><u>Leading Drones for Superior GoPro Camera Integration for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-django-dashboard-experience-using-bootstrap-4-by-creative-tim-upgrade-to-pro-version-now/"><u>Premium Django Dashboard Experience Using Bootstrap 4 by Creative Tim – Upgrade to PRO Version Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-codegpt-in-your-vs-code-environment/"><u>Step-by-Step Guide to CodeGPT in Your VS Code Environment</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-creating-amazing-web-wizards-with-bootstrap-get-started-for-free-today/"><u>The Ultimate Guide to Creating Amazing Web Wizards with Bootstrap - Get Started for Free Today!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultimate-vuejs-admin-and-dashboard-kit-for-professionals-aged-55plus-designed-by-creative-tim/"><u>Ultimate VueJS Admin & Dashboard Kit for Professionals Aged 55+ | Designed by Creative Tim</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>[New] In 2024, Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-new-download-tool-facebook-videos-for-all-oses/"><u>[New] In 2024, New Download Tool Facebook Videos for All OSes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-techniques-for-adjusting-tempo-of-tracks-in-spotify-for-2024/"><u>[New] Superior Techniques for Adjusting Tempo of Tracks in Spotify for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-android-screen-recorders-essential-app-selection/"><u>[Updated] In 2024, Top 5 Android Screen Recorders Essential App Selection</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-unveiling-microsofts-new-ai-tool-transform-your-copy-pasting-game-learn-the-easy-steps-on-zdnet/"><u>1. Unveiling Microsoft's New AI Tool: Transform Your Copy-Pasting Game! Learn the Easy Steps on ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/add-a-game-changing-windows-feature-to-your-mac-for-just-2-now-available-on-zdnet/"><u>Add a Game-Changing Windows Feature to Your Mac for Just $2 - Now Available on ZDNet!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/an-insight-into-total-immersion-with-htc-vive-review-for-2024/"><u>An Insight Into Total Immersion with HTC Vive Review for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-pcs-speed-how-a-hidden-windows-11-feature-quickly-stops-sluggish-programs-zdnet/"><u>Boost Your PC's Speed: How a Hidden Windows 11 Feature Quickly Stops Sluggish Programs | ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comhar-flexispot-standing-desk-sale-secure-your-savings-of-up-to-80-now/"><u>Comhar FlexiSpot Standing Desk Sale - Secure Your Savings of Up To $80 Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/essential-50-ergonomic-desk-addition-enhance-your-sitting-or-standing-work-experience-with-our-top-picks-zdnet-review/"><u>Essential $50 Ergonomic Desk Addition: Enhance Your Sitting or Standing Work Experience with Our Top Picks (ZDNet Review)</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-20-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark 20 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-reel-your-best-footage-from-instagram-with-these-aids/"><u>In 2024, Reel Your Best Footage From Instagram With These Aids</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/leveraging-chatgpt-for-efficient-spreadsheet-formula-writing-in-excel/"><u>Leveraging ChatGPT for Efficient Spreadsheet Formula Writing in Excel</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-the-art-of-finding-lost-documents-with-windows-intuitive-file-search-pc-requirements-unveiled-zdnet/"><u>Mastering the Art of Finding Lost Documents with Windows' Intuitive File Search - PC Requirements Unveiled | ZDNET</u></a></li>
+<li><a href="https://win-unique.techidaily.com/pre-order-microsofts-latest-affordable-powerhouse-the-new-599-surface-laptop-go-2-techspot/"><u>Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot</u></a></li>
 </ul></div>
 

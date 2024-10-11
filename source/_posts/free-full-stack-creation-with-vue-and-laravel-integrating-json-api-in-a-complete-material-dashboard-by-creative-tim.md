@@ -1,7 +1,7 @@
 ---
 title: "Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim"
-date: 2024-09-29T00:41:56.544Z
-updated: 2024-10-05T23:45:23.128Z
+date: 2024-10-07T19:59:50.968Z
+updated: 2024-10-11T11:17:37.419Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,18 +54,22 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-revolutionary-methods-for-ipad-audio-logging/"><u>[New] 2024 Approved Revolutionary Methods for iPad Audio Logging</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[Updated] 2024 Approved Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-superior-online-multimedia-collaboration-tools/"><u>[Updated] In 2024, Superior Online Multimedia Collaboration Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-lightning-leap-into-facebook-id-sleuthing/"><u>In 2024, Lightning Leap Into Facebook ID Sleuthing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/learn-how-to-transform-and-save-cmivfx-tutorials-in-mp4-format-with-easy-downloader-tool/"><u>Learn How to Transform and Save cmiVFX Tutorials in MP4 Format with Easy Downloader Tool</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-video-downloads-from-cudoo-tips-for-saving-in-mp4-mp3-avi-and-mov/"><u>Mastering Video Downloads From Cudoo: Tips for Saving in MP4, MP3, AVI & MOV</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-video-export-transfer-your-esignal-tutorials-into-high-quality-mp4-format/"><u>Mastering Video Export: Transfer Your eSignal Tutorials Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/optimize-clarity-mastering-close-up-techniques-in-videoleap-for-2024/"><u>Optimize Clarity Mastering Close-Up Techniques in Videoleap for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/solving-jaksta-malfunctions-effective-strategies-for-both-macos-and-windows-users/"><u>Solving Jaksta Malfunctions: Effective Strategies for Both macOS and Windows Users</u></a></li>
-<li><a href="https://win-unique.techidaily.com/solving-the-youtube-malfunction-issue-on-your-samsung-smart-tv/"><u>Solving the YouTube Malfunction Issue on Your Samsung Smart TV</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-horseback-riding-instructional-videos-for-pcs-and-macbooks/"><u>Step-by-Step Guide: Downloading Horseback Riding Instructional Videos for PCs and MacBooks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-why-isnt-your-ipad-connecting-with-the-printer/"><u>Step-by-Step Solution: Why Isn't Your iPad Connecting with the Printer?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/trim-transform-and-triumph-advanced-techniques-in-youtube-edits/"><u>Trim, Transform, and Triumph Advanced Techniques in Youtube Edits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[New] YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-twitter-video-snippets-to-lively-animated-gifs/"><u>[Updated] In 2024, From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-how-to-install-and-use-flipbuilder-from-your-usb-stick-on-windows/"><u>1: How to Install and Use FlipBuilder From Your USB Stick on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-video-stock-investment-guides/"><u>2024 Approved Essential Video Stock Investment Guides</u></a></li>
+<li><a href="https://win-unique.techidaily.com/batch-pdf-to-ebook-conversion-free-and-fast-get-your-epub-books-from-flipbuilder/"><u>Batch PDF to eBook Conversion - Free & Fast! Get Your ePub Books From FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enabling-page-printing-features-in-your-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Enabling Page Printing Features in Your FlipBook: A Comprehensive Guide with FlipBuilder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exhaustive-overview-insights-into-googles-podcast-application/"><u>Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-apples-virtual-worlds-with-meta-vr-headsets-mastering-the-process-zdnet/"><u>Explore Apple's Virtual Worlds with Meta VR Headsets - Mastering the Process | ZDNET</u></a></li>
+<li><a href="https://win-unique.techidaily.com/improve-your-reading-experience-enhance-clarity-in-our-flipbooks-at-flipbuildercom/"><u>Improve Your Reading Experience - Enhance Clarity in Our Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-webinar-archiving/"><u>In 2024, The Ultimate Guide to Webinar Archiving</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>In 2024, Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/leveraging-social-media-trends-for-fan-growth-on-igtv-for-2024/"><u>Leveraging Social Media Trends for Fan Growth on IGTV for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-argon-pro-studio-elite-bootstrap-4-graphic-interface-suite-from-creative-tim/"><u>Premium Argon PRO Studio: Elite Bootstrap 4 Graphic Interface Suite From Creative Tim</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-flutter-project-with-argon-pro-and-creative-tims-design-flutter-template/"><u>Premium Flutter Project with Argon Pro & Creative Tim's Design | Flutter Template</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-speaker-functionality-for-hp-laptops-in-the-latest-windows-os/"><u>Restoring Speaker Functionality for HP Laptops in the Latest Windows OS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/self-publish-with-flipwriter-pro-create-your-own-interactive-ebooks-using-the-innovative-flippage-technology/"><u>Self-Publish with FlipWriter Pro: Create Your Own Interactive Ebooks Using the Innovative FlipPage Technology!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-image-integration-in-flipbuilder-key-steps-and-considerations/"><u>Understanding Image Integration in FlipBuilder: Key Steps and Considerations</u></a></li>
 </ul></div>
 

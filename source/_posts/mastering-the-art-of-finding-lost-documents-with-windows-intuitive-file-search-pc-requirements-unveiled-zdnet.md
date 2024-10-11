@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Finding Lost Documents with Windows' Intuitive File Search - PC Requirements Unveiled | ZDNET
-date: 2024-09-29T00:18:27.420Z
-updated: 2024-10-05T23:31:55.625Z
+date: 2024-10-05T01:27:42.351Z
+updated: 2024-10-11T13:13:50.159Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-simplified-sound-conversion-top-6-apps-for-youtube-to-mp3-on-iphone/"><u>[New] 2024 Approved Simplified Sound Conversion Top 6 Apps for YouTube to MP3 on iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-complete-walkthrough-deactivating-microsofts-new-ai-tool-from-windows-11/"><u>A Complete Walkthrough: Deactivating Microsoft's New AI Tool From Windows 11</u></a></li>
-<li><a href="https://win-unique.techidaily.com/batch-pdf-to-ebook-conversion-free-and-fast-get-your-epub-books-from-flipbuilder/"><u>Batch PDF to eBook Conversion - Free & Fast! Get Your ePub Books From FlipBuilder</u></a></li>
-<li><a href="https://win-unique.techidaily.com/enabling-page-printing-features-in-your-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Enabling Page Printing Features in Your FlipBook: A Comprehensive Guide with FlipBuilder</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://win-unique.techidaily.com/improve-your-reading-experience-enhance-clarity-in-our-flipbooks-at-flipbuildercom/"><u>Improve Your Reading Experience - Enhance Clarity in Our Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-midnight-guardian-vs-sunlit-sentinel/"><u>In 2024, Midnight Guardian Vs Sunlit Sentinel</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-argon-pro-studio-elite-bootstrap-4-graphic-interface-suite-from-creative-tim/"><u>Premium Argon PRO Studio: Elite Bootstrap 4 Graphic Interface Suite From Creative Tim</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-flutter-project-with-argon-pro-and-creative-tims-design-flutter-template/"><u>Premium Flutter Project with Argon Pro & Creative Tim's Design | Flutter Template</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-hot-30i-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Hot 30i Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>[New] 2024 Approved The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[New] In 2024, Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-integration-a-beginners-guide-to-google-meet/"><u>[Updated] YouTube Integration A Beginner's Guide to Google Meet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-snapchat-profits-strategies-for-success/"><u>In 2024, Mastering Snapchat Profits Strategies for Success</u></a></li>
+<li><a href="https://win-unique.techidaily.com/stay-on-the-safe-side-why-skip-windows-11-and-what-to-use-in-its-place-tech-advice-hub/"><u>Stay on the Safe Side: Why Skip Windows 11 and What to Use in Its Place | Tech Advice Hub</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-building-a-flawless-windows-11-virtual-environment/"><u>Step-by-Step Tutorial: Building a Flawless Windows 11 Virtual Environment</u></a></li>
+<li><a href="https://win-unique.techidaily.com/stuck-with-an-older-os-and-considering-windows-11-try-this-wise-move-tips-from-zdnet/"><u>Stuck with an Older OS and Considering Windows 11? Try This Wise Move | Tips From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-science-and-art-behind-powerful-youtube-thumbnails-for-2024/"><u>The Science and Art Behind Powerful YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Cross-Platform File Sharing: Seamlessly Transfer Data From Your PC to Android Devices Using Google Quick Share"
-date: 2024-10-01T16:01:16.479Z
-updated: 2024-10-06T00:22:31.345Z
+date: 2024-10-03T18:39:02.957Z
+updated: 2024-10-11T05:58:40.667Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -54,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -73,19 +80,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -97,6 +91,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -104,10 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -115,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,14 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-streamers-toolkit-for-captivating-sessions/"><u>[New] OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-redmi-k70-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock Redmi K70 Pro</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-capture-clear-and-crisp-screenshots-on-opera-browser-with-ease/"><u>How to Capture Clear and Crisp Screenshots on Opera Browser with Ease</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-v30t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme V30T to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/leading-video-cv-builders-plus-pro-tactics-for-successful-applications/"><u>Leading Video CV Builders + Pro Tactics for Successful Applications</u></a></li>
-<li><a href="https://win-unique.techidaily.com/professional-guide-how-to-take-stunning-screenshots-on-your-ipod-device/"><u>Professional Guide: How to Take Stunning Screenshots on Your iPod Device</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-capturing-your-android-screen-with-a-pc/"><u>Step-by-Step Guide: Capturing Your Android Screen with a PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wie-man-die-winxvideo-kunstliche-intelligenz-auf-android-and-ios-geraten-aktiviert/"><u>Wie Man Die Winxvideo Künstliche Intelligenz Auf Android & iOS Geräten Aktiviert</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-supports-asus-usb-camera-better-now/"><u>Windows 10 Supports ASUS USB Camera Better Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-awesome-beginners-starter-pack-with-free-tailwind-css-nextjs-and-ui-kits-from-notion-by-creative-tim/"><u>1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-x-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone X without App | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p40-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/advanced-pro-admin-panel-with-nextjs-and-material-ui-by-creative-tim/"><u>Advanced Pro Admin Panel with NextJS & Material UI by Creative Tim</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/free-full-stack-creation-with-vue-and-laravel-integrating-json-api-in-a-complete-material-dashboard-by-creative-tim/"><u>Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guide-to-scrolling-through-youtube-comment-threads/"><u>Guide to Scrolling Through YouTube Comment Threads</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-find-n3withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Find N3with/without a PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-and-reviews-by-toms-hardware-experts/"><u>In-Depth Analysis & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-unique.techidaily.com/react-native-development-revolutionized-download-your-complimentary-template-from-creative-tim-now/"><u>React Native Development Revolutionized: Download Your Complimentary Template From Creative Tim Now!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-creating-amazing-web-wizards-with-bootstrap-get-started-for-free-today/"><u>The Ultimate Guide to Creating Amazing Web Wizards with Bootstrap - Get Started for Free Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-functional-usb-to-hdmi-connector/"><u>Troubleshooting Guide: Fixing Your Non-Functional USB to HDMI Connector</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-vuejs-admin-and-dashboard-kit-for-professionals-aged-55plus-designed-by-creative-tim/"><u>Ultimate VueJS Admin & Dashboard Kit for Professionals Aged 55+ | Designed by Creative Tim</u></a></li>
 </ul></div>
 

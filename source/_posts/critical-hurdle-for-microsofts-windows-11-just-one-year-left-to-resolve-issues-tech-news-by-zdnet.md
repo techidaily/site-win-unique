@@ -1,7 +1,7 @@
 ---
 title: "Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet"
-date: 2024-09-30T19:00:04.377Z
-updated: 2024-10-05T19:18:57.982Z
+date: 2024-10-08T09:01:30.668Z
+updated: 2024-10-10T19:26:49.695Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-comprehensive-guide-to-great-ig-videos/"><u>[New] 2024 Approved The Comprehensive Guide to Great IG Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frosty-feats-at-the-olympics-of-2022/"><u>[New] Frosty Feats at the Olympics of 2022</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-overhaul-the-2023-updates-explained/"><u>[New] In 2024, Facebook Overhaul The 2023 Updates Explained</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-demystifying-vimeos-triplet-plans-for-content-creators/"><u>[Updated] Demystifying Vimeo's Triplet Plans for Content Creators</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-choice-video-capture-apps-iphone-for-2024/"><u>[Updated] Top Choice Video Capture Apps iPhone for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>2024 Approved Boost Your FB Campaigns The Critical 3-Part Writing Strategy</u></a></li>
-<li><a href="https://win-unique.techidaily.com/convert-your-digital-tutors-online-learning-into-high-quality-mp4-videos-for-offline-study/"><u>Convert Your Digital Tutors Online Learning Into High-Quality MP4 Videos for Offline Study</u></a></li>
-<li><a href="https://win-unique.techidaily.com/convert-download-and-enjoy-youtube-videos-as-mp3s-on-your-windows-or-mac-system/"><u>Convert, Download, and Enjoy YouTube Videos as MP3s on Your Windows or Mac System</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-apple-homepod-mini-exceptional-sound-intelligent-siri-functionality-and-more/"><u>Deciphering the Apple HomePod Mini – Exceptional Sound, Intelligent Siri Functionality, and More!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discover-the-ultimate-video-grabber-software-that-outperforms-ant-across-both-mac-and-windows-systems/"><u>Discover the Ultimate Video Grabber Software That Outperforms Ant Across Both Mac and Windows Systems!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-and-convert-fake-taxi-game-in-various-formats-a-step-by-step-guide/"><u>Download and Convert Fake Taxi Game in Various Formats: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-fox-news-videos-in-hd-get-high-quality-mp4-wmv-or-avi-files/"><u>Download Fox News Videos in HD: Get High-Quality MP4, WMV or AVI Files</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-guide-to-converting-youtube-content-into-premium-wma-files/"><u>Easy Guide to Converting YouTube Content Into Premium WMA Files</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effortless-downloader-replacement-cross-platform-free-version-available/"><u>Effortless Downloader Replacement: Cross-Platform, Free Version Available</u></a></li>
-<li><a href="https://win-unique.techidaily.com/extract-and-save-your-favorite-gracie-kids-videos-as-mp4-files-easily/"><u>Extract and Save Your Favorite Gracie Kids Videos as MP4 Files Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/flexible-connection-setup-on-macos-with-multiple-network-locations-tips-from-zdnet/"><u>Flexible Connection Setup on macOS with Multiple Network Locations - Tips From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-tower-of-fantasy-from-frequently-freezing-and-crashing-on-your-computer/"><u>How to Stop Tower of Fantasy From Frequently Freezing and Crashing on Your Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-downloading-audio-made-simple-with-these-19-top-quality-free-rippers-from-youtube/"><u>[New] 2024 Approved Downloading Audio Made Simple with These 19 Top-Quality Free Rippers From YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-recovering-lost-linkages-restore-facebook-video-suggestions/"><u>[New] In 2024, Recovering Lost Linkages Restore Facebook Video Suggestions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-channel-transformation-unleash-potential-with-tubebuddy/"><u>[Updated] Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-chart-success-the-top-online-stock-portals/"><u>[Updated] In 2024, Chart Success The Top Online Stock Portals</u></a></li>
+<li><a href="https://win-unique.techidaily.com/creative-tim-and-updivisions-vuejs-dashboard-pro-with-laravel-integration/"><u>Creative Tim & Updivision's Vue.js Dashboard Pro with Laravel Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-equipment-with-toms-technology-hub-in-depth-guides-on-modern-hardware/"><u>Exploring Advanced Equipment with Tom’s Technology Hub: In-Depth Guides on Modern Hardware</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10-for-2024/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10 for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/free-and-premium-aspnet-designs-by-creative-tim-top-5-choices/"><u>Free & Premium ASP.NET Designs by Creative Tim - Top 5 Choices</u></a></li>
+<li><a href="https://win-unique.techidaily.com/free-complete-vuejs-admin-panel-boost-your-web-app-with-bootstrap/"><u>Free Complete Vue.js Admin Panel: Boost Your Web App with Bootstrap</u></a></li>
+<li><a href="https://win-unique.techidaily.com/free-dark-mode-admin-suite-with-bootstrap-angular-v12-created-by-creative-tim/"><u>Free Dark Mode Admin Suite with Bootstrap, Angular v12 - Created by Creative Tim</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/most-valuable-verizon-contract-upgrade-options-current-month-highlights/"><u>Most Valuable Verizon Contract Upgrade Options - Current Month Highlights</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-argon-pro-studio-elite-bootstrap-4-graphic-interface-suite-from-creative-tim/"><u>Premium Argon PRO Studio: Elite Bootstrap 4 Graphic Interface Suite From Creative Tim</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-voice-modification-and-removal-techniques-the-best-software-solutions-for-karaoke-and-music-production/"><u>Updated In 2024, Voice Modification & Removal Techniques The Best Software Solutions for Karaoke & Music Production</u></a></li>
 </ul></div>
 

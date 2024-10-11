@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for File Backup Using Windows 11'S Built-In Feature – Expert Tips & Guides
-date: 2024-09-30T16:07:03.098Z
-updated: 2024-10-06T00:35:08.337Z
+date: 2024-10-07T01:11:17.401Z
+updated: 2024-10-11T08:33:35.612Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-avoiding-unwanted-shaking-in-dynamic-gopro-footage-for-2024/"><u>[New] Avoiding Unwanted Shaking in Dynamic GoPro Footage for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ransforming-viewers-to-advocates-the-essential-top-5-youtube-strategies/"><u>[New] Transforming Viewers to Advocates The Essential #Top 5 YouTube Strategies</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-snapchats-call-feature-in-three-steps/"><u>[Updated] 2024 Approved Navigating Snapchat's Call Feature in Three Steps</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-top-rated-free-android-background-gallery-applications/"><u>1. Top Rated Free Android Background Gallery Applications</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfect-the-art-of-posting-on-snapchat-15-tips/"><u>2024 Approved Perfect the Art of Posting on Snapchat (15 Tips)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-and-msi-unite-to-fortify-cpu-security-with-released-bios-update-targeting-zen-bleeding-problem-in-ryzen-series/"><u>AMD and MSI Unite to Fortify CPU Security with Released BIOS Update, Targeting Zen Bleeding Problem in Ryzen Series</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-volume-interplay-using-sony-vegas-pro-tips/"><u>Dynamic Volume Interplay Using Sony Vegas Pro Tips</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-guide-to-creating-custom-gifs-for-your-instagram-stories/"><u>Easy Guide to Creating Custom GIFs for Your Instagram Stories</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-remedies-for-correcting-visual-and-auditory-glitches-with-apowerrec/"><u>Effective Remedies for Correcting Visual and Auditory Glitches with ApowerREC</u></a></li>
-<li><a href="https://win-unique.techidaily.com/happy-melodies-bundle-top-free-christmas-song-files/"><u>Happy Melodies Bundle: Top Free Christmas Song Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpts-current-data-accessibility-impacts-us-all/"><u>How ChatGPT's Current Data Accessibility Impacts Us All</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-mobile-video-smoothing-system-pro/"><u>In 2024, Mobile Video Smoothing System Pro</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ipad-movie-downloads-a-guide-to-adding-films-without-using-itunes/"><u>IPad Movie Downloads: A Guide to Adding Films Without Using iTunes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximize-home-security-on-a-budget-with-the-best-video-doorbells-under-50-iseebell-featured-review/"><u>Maximize Home Security on a Budget with the Best Video Doorbells Under $50 - ISeeBell Featured Review</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quick-and-efficient-techniques-for-changing-mkv-videos-into-avi-with-embedded-subtitles/"><u>Quick and Efficient Techniques for Changing MKV Videos Into AVI With Embedded Subtitles</u></a></li>
-<li><a href="https://win-unique.techidaily.com/seamlessly-project-your-iphone-screen-on-skyworth-smart-tv-expert-tips-and-tricks/"><u>Seamlessly Project Your iPhone Screen on Skyworth Smart TV: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-unique.techidaily.com/simple-steps-for-effortless-4k-downloads-how-to-get-high-quality-videos-fast/"><u>Simple Steps for Effortless 4K Downloads: How to Get High-Quality Videos Fast</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-rated-photo-slideshow-applications-compatible-with-windows-11/"><u>Top-Rated Photo Slideshow Applications Compatible with Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlock-nonstop-powerful-bass-performance-with-the-ion-tailgater-plus-in-depth-review/"><u>Unlock Nonstop Powerful Bass Performance with the ION Tailgater Plus - In Depth Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-uploading-to-instagram-tv/"><u>[Updated] 2024 Approved The Ultimate Tutorial for Uploading to Instagram TV</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-demystifying-the-advanced-features-in-vlc-for-2024/"><u>[Updated] Demystifying the Advanced Features in VLC for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/affordable-access-singapores-small-businesses-gain-substantial-savings-on-microsoft-copilot/"><u>Affordable Access: Singapore's Small Businesses Gain Substantial Savings on Microsoft Copilot</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-admin-efficiency-master-windows-powershell-scripting-for-only-16-on-zdnet/"><u>Boost Your Admin Efficiency - Master Windows PowerShell Scripting for Only $16 on ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discounted-microsoft-copilot-for-local-smbs-in-singapore-unveiled-by-zdnet/"><u>Discounted Microsoft Copilot for Local SMBs in Singapore Unveiled by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-new-wi-fi-drivers-on-windows-7/"><u>Effortless Installation of New Wi-Fi Drivers on Windows 7</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/how-to-become-a-youtube-partner-you-need-10000-views-now-in-2024/"><u>How to Become a YouTube Partner - You Need 10,000 Views Now, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-yi-in-focus-the-future-of-4k-filmmaking/"><u>In 2024, Yi in Focus The Future of 4K Filmmaking</u></a></li>
+<li><a href="https://win-unique.techidaily.com/investing-in-affordability-why-choosing-the-budget-friendly-surface-pro-is-a-smart-move-insights-from-zdnet/"><u>Investing in Affordability: Why Choosing the Budget-Friendly Surface Pro Is a Smart Move – Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/long-term-benefits-of-using-oled-in-gaming/"><u>Long-Term Benefits of Using OLED in Gaming</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-powertoys-color-picker-feature-a-step-by-step-guide/"><u>Mastering PowerToys' Color Picker Feature – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/openai-unveils-new-enterprise-focused-chatgpt-solution-latest-innovation-in-ai-assistance/"><u>OpenAI Unveils New Enterprise-Focused ChatGPT Solution – Latest Innovation in AI Assistance</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamless-document-handling-on-the-go-a-guide-to-microsoft-365-mobile-app/"><u>Seamless Document Handling On-the-Go: A Guide to Microsoft 365 Mobile App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-secure-the-epson-xp-830-driver-for-optimal-performance/"><u>Step-by-Step Instructions to Secure the Epson XP-830 Driver for Optimal Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-microsofts-copilot-an-innovative-ai-assistance-with-a-marketing-twist-insights-from-zdnet/"><u>Unveiling Microsoft's Copilot: An Innovative AI Assistance with a Marketing Twist - Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-the-new-frontier-in-video-conferencing-an-innovative-contender-to-outdo-microsoft-teams-and-zoom-with-lip-reading-features-zdnet/"><u>Unveiling the New Frontier in Video Conferencing – An Innovative Contender to Outdo Microsoft Teams and Zoom with Lip Reading Features | ZDNet</u></a></li>
 </ul></div>
 

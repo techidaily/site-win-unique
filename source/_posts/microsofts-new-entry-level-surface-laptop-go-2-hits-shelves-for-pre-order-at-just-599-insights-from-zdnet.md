@@ -1,7 +1,7 @@
 ---
 title: Microsoft's New Entry-Level Surface Laptop Go 2 Hits Shelves for Pre-Order at Just $599 | Insights From ZDNET
-date: 2024-10-01T23:47:52.949Z
-updated: 2024-10-05T22:27:55.100Z
+date: 2024-10-03T20:29:12.310Z
+updated: 2024-10-11T09:04:52.975Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
+<span id="1977020">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,10 +149,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,19 +208,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-auditory-anchors-keeping-streamed-music-intact/"><u>[Updated] In 2024, Auditory Anchors Keeping Streamed Music Intact</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quick-tips-for-uploading-content-on-twitter-for-2024/"><u>[Updated] Quick Tips for Uploading Content on Twitter for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-tutorial-on-3d-lut-tools/"><u>2024 Approved Ultimate Tutorial on 3D LUT Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/confronting-and-overcoming-mmc-snaps-not-found-errors/"><u>Confronting and Overcoming MMC Snaps Not Found Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-safely-dispose-of-windows-10-ram-dump-files/"><u>How to Safely Dispose of Windows 10 RAM Dump Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/iconic-visual-alteration-suite-imagefusion-xtreme-for-2024/"><u>Iconic Visual Alteration Suite ImageFusion Xtreme for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-tech-choices-with-detailed-analysis-from-toms-hardware/"><u>Master Your Tech Choices with Detailed Analysis From Tom's Hardware</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quick-shift-protocol-mastering-the-one-click-move-between-office-pcs-and-personal-laptops-tips-shared-by-zdnet/"><u>Quick Shift Protocol: Mastering the One-Click Move Between Office PCs & Personal Laptops - Tips Shared by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/stay-on-the-safe-side-why-skip-windows-11-and-what-to-use-in-its-place-tech-advice-hub/"><u>Stay on the Safe Side: Why Skip Windows 11 and What to Use in Its Place | Tech Advice Hub</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-building-a-flawless-windows-11-virtual-environment/"><u>Step-by-Step Tutorial: Building a Flawless Windows 11 Virtual Environment</u></a></li>
-<li><a href="https://win-unique.techidaily.com/stuck-with-an-older-os-and-considering-windows-11-try-this-wise-move-tips-from-zdnet/"><u>Stuck with an Older OS and Considering Windows 11? Try This Wise Move | Tips From ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-importance-of-a-trusted-platform-module-tpm-for-windows-11-compatibility-and-security-explained/"><u>The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-tv-potential-with-social-medias-facebook-live-streams/"><u>[New] 2024 Approved Unlocking TV Potential with Social Media's Facebook Live Streams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/arc-electrify-powerful-media-player-replacement/"><u>Arc Electrify Powerful Media Player Replacement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-crafting-a-successful-online-business-with-youtube-studio/"><u>In 2024, Crafting a Successful Online Business with Youtube Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-virtual-vanguard-of-humor-your-blueprint-for-metaspace-meme-creation/"><u>In 2024, The Virtual Vanguard of Humor – Your Blueprint for Metaspace Meme Creation</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1726225557529-mp3-movavi/"><u>Mp3ファイルビットレート変更手順 - Movaviで簡単に実行!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/record-stunning-hd-screenshots-using-the-latest-splash-video-player-software/"><u>Record Stunning HD Screenshots Using the Latest Splash Video Player Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-downloading-horseback-riding-instructional-videos-for-pcs-and-macbooks/"><u>Step-by-Step Guide: Downloading Horseback Riding Instructional Videos for PCs and MacBooks</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-watching-youtube-videos-on-your-dvd-player/"><u>Step-by-Step Guide: Watching YouTube Videos on Your DVD Player</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-for-accessing-allocine-content-film-downloads-and-trailers-for-windows-macos-users/"><u>Step-by-Step Tutorial for Accessing Allociné Content - Film Downloads and Trailers for Windows, macOS Users</u></a></li>
 </ul></div>
 

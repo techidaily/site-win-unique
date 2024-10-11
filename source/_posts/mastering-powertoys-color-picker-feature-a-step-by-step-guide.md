@@ -1,7 +1,7 @@
 ---
 title: Mastering PowerToys' Color Picker Feature – A Step-by-Step Guide
-date: 2024-10-03T20:52:42.211Z
-updated: 2024-10-05T17:41:55.402Z
+date: 2024-10-07T17:38:54.294Z
+updated: 2024-10-10T23:58:11.055Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +97,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +142,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +155,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,22 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-vimeo-video-speed/"><u>[New] 2024 Approved Elevating Vimeo Video Speed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-find-tiktok-background-video-some-templates/"><u>[New] In 2024, How to Find TikTok Background Video Some Templates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[Updated] 2024 Approved Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-exploring-samsungs-photo-enhancing-tools-for-2024/"><u>[Updated] Exploring Samsung’s Photo Enhancing Tools for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-unveiling-microsofts-new-ai-tool-transform-your-copy-pasting-game-learn-the-easy-steps-on-zdnet/"><u>1. Unveiling Microsoft's New AI Tool: Transform Your Copy-Pasting Game! Learn the Easy Steps on ZDNet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/accelerate-book-browsing-efficient-strategies-using-flipbuilder-tools/"><u>Accelerate Book Browsing: Efficient Strategies Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-unique.techidaily.com/add-a-game-changing-windows-feature-to-your-mac-for-just-2-now-available-on-zdnet/"><u>Add a Game-Changing Windows Feature to Your Mac for Just $2 - Now Available on ZDNet!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/boost-your-pcs-speed-how-a-hidden-windows-11-feature-quickly-stops-sluggish-programs-zdnet/"><u>Boost Your PC's Speed: How a Hidden Windows 11 Feature Quickly Stops Sluggish Programs | ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comhar-flexispot-standing-desk-sale-secure-your-savings-of-up-to-80-now/"><u>Comhar FlexiSpot Standing Desk Sale - Secure Your Savings of Up To $80 Now</u></a></li>
-<li><a href="https://win-blog.techidaily.com/como-transformar-audio-de-alaw-a-formato-wav-sin-coste-con-movavi/"><u>Cómo Transformar Audio De Alaw a Formato Wav Sin Coste Con Movavi</u></a></li>
-<li><a href="https://win-unique.techidaily.com/debunking-common-misconceptions-how-windows-enthusiasts-often-misunderstand-macos/"><u>Debunking Common Misconceptions: How Windows Enthusiasts Often Misunderstand macOS</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/essential-50-ergonomic-desk-addition-enhance-your-sitting-or-standing-work-experience-with-our-top-picks-zdnet-review/"><u>Essential $50 Ergonomic Desk Addition: Enhance Your Sitting or Standing Work Experience with Our Top Picks (ZDNet Review)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-spark-go-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Spark Go (2023) Phone Screen?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-the-art-of-finding-lost-documents-with-windows-intuitive-file-search-pc-requirements-unveiled-zdnet/"><u>Mastering the Art of Finding Lost Documents with Windows' Intuitive File Search - PC Requirements Unveiled | ZDNET</u></a></li>
-<li><a href="https://win-unique.techidaily.com/pre-order-microsofts-latest-affordable-powerhouse-the-new-599-surface-laptop-go-2-techspot/"><u>Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-clip-courage-embracing-twitters-viral-vanguard/"><u>[New] Clip Courage Embracing Twitter's Viral Vanguard</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-designing-an-editorial-epilogue/"><u>[Updated] 2024 Approved Designing an Editorial Epilogue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevating-your-instagram-presence-with-watermarks-for-2024/"><u>[Updated] Elevating Your Instagram Presence with Watermarks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-good-bokeh-effects-in-instagram-stories-for-2024/"><u>[Updated] How to Add Good Bokeh Effects in Instagram Stories for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-synching-iphone-vids-with-ease-and-precision/"><u>[Updated] Synching iPhone Vids with Ease and Precision</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/deciphering-the-mysteries-an-in-depth-look-at-stardew-valleys-unique-island-ginger-isle-for-2024/"><u>Deciphering the Mysteries An In-Depth Look at Stardew Valley's Unique Island - Ginger Isle for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortless-downloader-replacement-cross-platform-free-version-available/"><u>Effortless Downloader Replacement: Cross-Platform, Free Version Available</u></a></li>
+<li><a href="https://win-unique.techidaily.com/extract-and-save-your-favorite-gracie-kids-videos-as-mp4-files-easily/"><u>Extract and Save Your Favorite Gracie Kids Videos as MP4 Files Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-calm-to-captivating-techniques-for-motion-blur-mastery-for-2024/"><u>From Calm to Captivating Techniques for Motion Blur Mastery for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-access-to-top-rated-ted-speeches-and-tv-show-episodes-for-pcs-and-macs/"><u>Get Access to Top-Rated TED Speeches and TV Show Episodes for PCs and Macs</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-full-access-to-edx-course-content-comprehensive-video-library-available-now/"><u>Get Full Access to edX Course Content: Comprehensive Video Library Available Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-your-hands-on-new-hip-hop-music-downloads-high-quality-mp3-and-flac-options-available-now/"><u>Get Your Hands on New Hip Hop Music Downloads – High-Quality MP3 and FLAC Options Available Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-your-hands-on-learnsmart-educational-guides-compatible-with-windowsmacos/"><u>Get Your Hands-On LearnSmart Educational Guides - Compatible with Windows/MacOS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guide-converting-your-bluprint-videos-into-mp4movavi-format-for-both-mac-and-windows/"><u>Guide: Converting Your Bluprint Videos Into MP4/MOV/AVI Format for Both Mac & Windows</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-effortlessly-save-video-content-on-your-device-with-isharerediff-downloader-tools/"><u>How to Effortlessly Save Video Content on Your Device with iShare.Rediff Downloader Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-preserve-skype-webinar-footage-as-mp4-files-on-both-windows-and-macos-systems/"><u>How to Preserve Skype Webinar Footage as MP4 Files on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Google Pixel 8 Phone without Any Data Loss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-is-bright-with-sonys-2024-sotp-breaking-down-announcements-and-trends/"><u>The Future Is Bright with Sony's 2024 SOTP: Breaking Down Announcements and Trends</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-latest-update-excels-enhanced-task-automation-on-windows/"><u>Unveiling the Latest Update: Excel's Enhanced Task Automation on Windows</u></a></li>
 </ul></div>
 

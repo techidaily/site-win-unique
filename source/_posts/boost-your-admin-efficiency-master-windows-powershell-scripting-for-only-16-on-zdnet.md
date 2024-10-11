@@ -1,7 +1,7 @@
 ---
 title: Boost Your Admin Efficiency - Master Windows PowerShell Scripting for Only $16 on ZDNet
-date: 2024-09-29T19:08:51.129Z
-updated: 2024-10-06T00:01:14.630Z
+date: 2024-10-07T17:31:29.304Z
+updated: 2024-10-11T12:27:18.050Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +129,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-easy-way-to-modify-iphone-photo-dimensions/"><u>[New] The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-flawless-frames-the-10-best-websites-for-wallpapers-on-your-pc/"><u>[Updated] Flawless Frames The 10 Best Websites for Wallpapers on Your PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[Updated] In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
-<li><a href="https://win-unique.techidaily.com/celebrating-freedom-the-tech-industrys-tribute-to-juneteenth/"><u>Celebrating Freedom: The Tech Industry's Tribute to Juneteenth</u></a></li>
-<li><a href="https://win-unique.techidaily.com/critical-hurdle-for-microsofts-windows-11-just-one-year-left-to-resolve-issues-tech-news-by-zdnet/"><u>Critical Hurdle for Microsoft's Windows 11: Just One Year Left to Resolve Issues | Tech News by ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dannys-colombian-efforts-for-disadvantaged-communities/"><u>Danny's Colombian Efforts for Disadvantaged Communities</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-8-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel 8 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-solutions-to-beat-the-overheating-issue-on-steam-devices/"><u>Innovative Solutions to Beat the Overheating Issue on Steam Devices</u></a></li>
-<li><a href="https://win-unique.techidaily.com/investing-in-affordability-why-choosing-the-budget-friendly-surface-pro-is-a-smart-move-insights-from-zdnet/"><u>Investing in Affordability: Why Choosing the Budget-Friendly Surface Pro Is a Smart Move – Insights From ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-your-digital-sidekick-build-and-use-a-custom-copilot-gpt-step-by-step/"><u>Mastering Your Digital Sidekick: Build and Use a Custom Copilot GPT Step-by-Step</u></a></li>
-<li><a href="https://win-unique.techidaily.com/secure-your-microsoft-office-suite-get-project-and-visio-pros-for-a-steal-at-20-each-from-zdnet-now/"><u>Secure Your Microsoft Office Suite: Get Project and Visio Pros for a Steal at $20 Each From ZDNet Now!</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-facebook-fan-count-privacy/"><u>Securing Your Facebook Fan Count Privacy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-up-your-image-game-the-best-free-online-editors/"><u>[New] Step Up Your Image Game The Best Free Online Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-brisk-blueprint-to-crafting-google-image-mosaics/"><u>[New] The Brisk Blueprint to Crafting Google Image Mosaics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>[Updated] Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-free-download-comprehensive-collection-of-eye-disorder-diagnosis-videos-including-detailed-roots-and-slide-lamp-studies/"><u>1. Free Download: Comprehensive Collection of Eye Disorder Diagnosis Videos - Including Detailed Roots and Slide Lamp Studies</u></a></li>
+<li><a href="https://win-unique.techidaily.com/best-free-online-film-platforms-and-guiding-you-through-downloading-films-without-worrying-about-internet/"><u>Best Free Online Film Platforms & Guiding You Through Downloading Films Without Worrying About Internet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/catch-up-on-your-favorite-plays-seamless-streaming-of-scripted-shows-via-dramanice-downloads/"><u>Catch Up on Your Favorite Plays: Seamless Streaming of Scripted Shows via Dramanice Downloads</u></a></li>
+<li><a href="https://win-unique.techidaily.com/convert-and-save-premium-xbef-content-as-high-quality-videos-movavi/"><u>Convert and Save Premium XBef Content as High-Quality Videos (MOV/AVI)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-gt-neo-5-se-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme GT Neo 5 SE Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

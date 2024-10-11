@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Copilot: An Innovative AI Assistance with a Marketing Twist - Insights From ZDNet"
-date: 2024-10-02T17:21:55.424Z
-updated: 2024-10-06T00:57:36.915Z
+date: 2024-10-04T03:27:10.737Z
+updated: 2024-10-11T15:50:10.827Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screenflow-demystified-essential-tools-for-your-mac-creation/"><u>[New] ScreenFlow Demystified Essential Tools for Your Mac Creation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-determining-maximum-videos-on-a-64gb-device-for-2024/"><u>[Updated] Determining Maximum Videos on a 64GB Device for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/dislike-microsofts-latest-os-transform-windows-11-into-your-familiar-window-10-environment-tips-and-tricks/"><u>Dislike Microsoft's Latest OS? Transform Windows 11 Into Your Familiar Window 10 Environment - Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-activate-and-use-microsoft-365-suite-on-windows-or-mac/"><u>Easy Steps to Activate and Use Microsoft 365 Suite on Windows or Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-you-cant-find-binkw32dll-file/"><u>Effective Solutions for When You Can't Find binkw32.dll File</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-capture-clear-and-crisp-screenshots-on-opera-browser-with-ease/"><u>How to Capture Clear and Crisp Screenshots on Opera Browser with Ease</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y27-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y27 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-free-online-3gp-e-er-arquivos-em-3g2-converter-aulas-gratuitas/"><u>Movavi Free Online 3GP E Er Arquivos Em 3G2 Converter - Aulas Gratuitas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-problems-making-a-wacom-pen-work-with-windows-1110-again/"><u>Resolving Connectivity Problems: Making a Wacom Pen Work with Windows 11/10 Again</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-capturing-your-android-screen-with-a-pc/"><u>Step-by-Step Guide: Capturing Your Android Screen with a PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-computing-weighted-averages-using-microsoft-excel/"><u>Step-by-Step Guide: Computing Weighted Averages Using Microsoft Excel</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-razer-blackwidow-drivers/"><u>Step-by-Step Guide: Updating Your Razer BlackWidow Drivers</u></a></li>
-<li><a href="https://win-unique.techidaily.com/uncover-advanced-trackpad-hacks-for-pc-pros-essential-tips-you-cant-afford-to-miss/"><u>Uncover Advanced TrackPad Hacks for PC Pros! Essential Tips You Can't Afford to Miss</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-tpms-key-to-meeting-windows-11s-security-standards-insights-by-zdnet/"><u>Understanding TPMs: Key to Meeting Windows 11'S Security Standards - Insights by ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-twitter-to-whatsapp-a-guide-to-sharing-online-videos-for-2024/"><u>[New] From Twitter to WhatsApp A Guide to Sharing Online Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-discretion-in-digital-artistry/"><u>[New] Mastering Discretion in Digital Artistry</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-yearbook-of-viral-content-on-twitter-2023-edition/"><u>[New] The Yearbook of Viral Content on Twitter, 2023 Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-flight-finesse-crafting-the-top-10-endurance-drone-lineup/"><u>[Updated] Flight Finesse Crafting the Top 10 Endurance Drone Lineup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-fix-it-workshop-addressing-total-war-saga-troy-pc-game-crashes/"><u>A Comprehensive Fix-It Workshop: Addressing Total War Saga: Troy PC Game Crashes</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-for-file-backup-using-windows-11s-built-in-feature-expert-tips-and-guides/"><u>Effective Strategies for File Backup Using Windows 11'S Built-In Feature – Expert Tips & Guides</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-to-overcome-the-critical-error-108-in-your-favorite-game/"><u>Effective Strategies to Overcome the 'Critical Error 108' In Your Favorite Game</u></a></li>
+<li><a href="https://win-unique.techidaily.com/exclusive-offer-authentic-microsoft-pro-licenses-for-a-steal-just-20-spotted-on-zdnet/"><u>Exclusive Offer: Authentic Microsoft Pro Licenses for a Steal - Just $20, Spotted on ZDNet!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/from-low-to-none-the-transformative-role-of-generative-ai-in-evolving-code-free-solutions-zdnet-insights/"><u>From Low to None: The Transformative Role of Generative AI in Evolving Code-Free Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ideal-cams-for-animation-with-clay/"><u>Ideal Cams for Animation with Clay</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/latest-in-learning-tech-how-pc-producers-are-showcasing-windows-11-se-for-classrooms-zdnet-exclusive/"><u>Latest in Learning Tech: How PC Producers Are Showcasing Windows 11 SE for Classrooms | ZDNET Exclusive</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-troubleshooting-tips-for-fixing-action-bug-navigating-critical-error-108/"><u>Mastering Troubleshooting Tips for Fixing 'Action!' Bug: Navigating Critical Error 108</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/fic-producers-of-profits-online/"><u>Prolific Producers of Profits Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-common-issues-and-fixes-for-a-dark-razer-keyboard-screen/"><u>Unveiling Common Issues and Fixes for a Dark Razer Keyboard Screen</u></a></li>
 </ul></div>
 

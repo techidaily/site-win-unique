@@ -1,7 +1,7 @@
 ---
 title: The Importance of a Trusted Platform Module (TPM) for Windows 11 Compatibility and Security Explained
-date: 2024-10-03T00:13:58.032Z
-updated: 2024-10-05T22:28:23.450Z
+date: 2024-10-05T17:20:16.664Z
+updated: 2024-10-11T00:28:19.136Z
 tags:
   - windows
 categories:
@@ -39,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -56,16 +49,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -80,18 +67,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -104,24 +91,31 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,22 +156,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-securing-your-online-sessions-pcmobile-recording/"><u>[New] 2024 Approved Securing Your Online Sessions PC/Mobile Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-gameplay-using-fbx-game-recorder/"><u>[Updated] 2024 Approved How To Record Gameplay Using FBX Game Recorder</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-top-rated-free-android-background-gallery-applications/"><u>1. Top Rated Free Android Background Gallery Applications</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-into-better-imaging-with-these-gopro-extras/"><u>2024 Approved Step Into Better Imaging with These GoPro Extras</u></a></li>
-<li><a href="https://win-unique.techidaily.com/5-best-apps-for-embedding-watermarks-in-your-youtube-content/"><u>5 Best Apps for Embedding Watermarks in Your YouTube Content</u></a></li>
-<li><a href="https://win-unique.techidaily.com/diy-instagram-sticker-creation-tutorial-make-your-posts-stand-out/"><u>DIY Instagram Sticker Creation Tutorial - Make Your Posts Stand Out!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-ready-apple-maps-latest-update-promises-greater-accuracy/"><u>Get Ready: Apple Maps' Latest Update Promises Greater Accuracy</u></a></li>
-<li><a href="https://win-unique.techidaily.com/happy-melodies-bundle-top-free-christmas-song-files/"><u>Happy Melodies Bundle: Top Free Christmas Song Files</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-12-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 12 Pro From Your Apple ID</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ipad-movie-downloads-a-guide-to-adding-films-without-using-itunes/"><u>IPad Movie Downloads: A Guide to Adding Films Without Using iTunes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-your-creativity-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New 2024 Approved Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quick-and-efficient-techniques-for-changing-mkv-videos-into-avi-with-embedded-subtitles/"><u>Quick and Efficient Techniques for Changing MKV Videos Into AVI With Embedded Subtitles</u></a></li>
-<li><a href="https://win-unique.techidaily.com/seamlessly-project-your-iphone-screen-on-skyworth-smart-tv-expert-tips-and-tricks/"><u>Seamlessly Project Your iPhone Screen on Skyworth Smart TV: Expert Tips and Tricks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-10-gif-apps-for-iphone-x876-for-2024/"><u>Top 10 GIF Apps for iPhone X/8/7/6 for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-rated-photo-slideshow-applications-compatible-with-windows-11/"><u>Top-Rated Photo Slideshow Applications Compatible with Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revolutionize-facebook-ads-creative-video-tactics-revealed/"><u>[Updated] In 2024, Revolutionize Facebook Ads Creative Video Tactics Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-review-best-practices-for-youtube-video-trimming/"><u>[Updated] Review Best Practices for YouTube Video Trimming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-tiktoks-potential-with-our-sizzling-template-selection/"><u>[Updated] Unlock TikTok’s Potential with Our Sizzling Template Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-future-of-sound-with-google-pixel-buds-pro-2-pricing-forecasts-expected-launch-date-and-cutting-edge-features/"><u>Dive Into the Future of Sound with Google Pixel Buds Pro 2: Pricing Forecasts, Expected Launch Date and Cutting-Edge Features!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-access-to-top-rated-ted-speeches-and-tv-show-episodes-for-pcs-and-macs/"><u>Get Access to Top-Rated TED Speeches and TV Show Episodes for PCs and Macs</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-full-access-to-edx-course-content-comprehensive-video-library-available-now/"><u>Get Full Access to edX Course Content: Comprehensive Video Library Available Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-your-hands-on-new-hip-hop-music-downloads-high-quality-mp3-and-flac-options-available-now/"><u>Get Your Hands on New Hip Hop Music Downloads – High-Quality MP3 and FLAC Options Available Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-your-hands-on-learnsmart-educational-guides-compatible-with-windowsmacos/"><u>Get Your Hands-On LearnSmart Educational Guides - Compatible with Windows/MacOS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guide-converting-your-bluprint-videos-into-mp4movavi-format-for-both-mac-and-windows/"><u>Guide: Converting Your Bluprint Videos Into MP4/MOV/AVI Format for Both Mac & Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-solutions-to-resolve-your-wi-fi-adapter-or-ap-malfunction/"><u>Top 10 Solutions to Resolve Your Wi-Fi Adapter or AP Malfunction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/form-your-visual-storytelling-with-no-cost-green-screen-lessons-from-youtubes-best-experts-for-2024/"><u>Transform Your Visual Storytelling with No-Cost Green Screen Lessons From YouTube's Best Experts for 2024</u></a></li>
 </ul></div>
 
