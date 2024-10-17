@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Text Editing with New Improvements in EmEditor Version 15.4 Beta Release
-date: 2024-10-05T09:49:38.369Z
-updated: 2024-10-11T10:38:41.187Z
+date: 2024-10-16T16:14:57.759Z
+updated: 2024-10-17T16:51:20.427Z
 tags:
   - product
 categories:
@@ -32,30 +32,30 @@ Updates from v15.4.0 beta 2 include:
    * The **URLs (visited)**, **Mail addresses (visited)**, and **Find in Files hyperlinks (visited)** were added to the **Specify Part** list box in the **Display** tab of configuration properties.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New Commands
    * Clear Visited Link History  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Macro API New Features
    * The **eeJoinSimpleMerge** flag was added to the **Join** method.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Download
@@ -87,22 +87,14 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dealing-with-youtubes-challenging-earnings-model-for-2024/"><u>[New] Dealing with YouTube's Challenging Earnings Model for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-channeling-twitter-vids-seamlessly-to-snapchat/"><u>[Updated] Channeling Twitter Vids Seamlessly to Snapchat</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-seamless-guide-syncing-your-iphone-with-a-tcl-smart-television/"><u>1. Seamless Guide: Syncing Your iPhone with a TCL Smart Television</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-simple-and-free-conversion-transform-your-dat-files-into-high-quality-mp4-videos/"><u>1. Simple & FREE Conversion: Transform Your DAT Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-your-youtube-potential-with-easy-techniques/"><u>2024 Approved Unleash Your YouTube Potential with Easy Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/5-secrets-to-preventing-blank-scenes-with-obs-recording-for-2024/"><u>5 Secrets to Preventing Blank Scenes with OBS Recording for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/enhance-your-photos-on-instagram-with-easy-free-filters-access/"><u>Enhance Your Photos on Instagram with Easy, Free Filters Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-reasons-behind-youtubes-occasional-performance-glitches/"><u>Exploring Reasons Behind YouTube's Occasional Performance Glitches</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-remote-android-device-management-from-your-computer-desktop/"><u>Mastering Remote Android Device Management From Your Computer Desktop</u></a></li>
-<li><a href="https://win-unique.techidaily.com/professional-guide-how-to-take-stunning-screenshots-on-your-ipod-device/"><u>Professional Guide: How to Take Stunning Screenshots on Your iPod Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-computer-screenscape-disorientation/"><u>Reverse Computer Screenscape Disorientation</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition won’t play MKV movies</u></a></li>
-<li><a href="https://win-unique.techidaily.com/seamless-communication-strategies-for-reading-whatsapp-chats-on-your-desktop-or-laptop/"><u>Seamless Communication: Strategies for Reading WhatsApp Chats on Your Desktop or Laptop</u></a></li>
-<li><a href="https://win-unique.techidaily.com/simple-steps-for-effortless-4k-downloads-how-to-get-high-quality-videos-fast/"><u>Simple Steps for Effortless 4K Downloads: How to Get High-Quality Videos Fast</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-solutions-for-when-your-samsung-smart-switch-fails-to-operate/"><u>Step-by-Step Solutions for When Your Samsung Smart Switch Fails to Operate</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-free-video-editing-tools-for-converting-avi-to-mp4-2014-edition/"><u>The Ultimate Guide to Free Video Editing Tools for Converting AVI to MP4 (2014 Edition)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comprehensive-directors-manual-powerdirector-24-for-2024/"><u>[Updated] Comprehensive Directors' Manual - PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhanced-mac-technology-video-plus-sound-record-for-2024/"><u>[Updated] Enhanced Mac Technology Video + Sound Record for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-a-step-by-step-approach-to-ad-revenue-in-youtube-videos/"><u>2024 Approved A Step-by-Step Approach to Ad Revenue in YouTube Videos</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comprehensive-tutorial-on-creating-direct-vm-and-host-system-images-in-vmware-esxi/"><u>Comprehensive Tutorial on Creating Direct VM and Host System Images in VMware ESXi</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortless-file-sharing-transfer-data-from-your-iphone-to-a-pc-using-usb-learn-three-reliable-techniques/"><u>Effortless File Sharing: Transfer Data From Your iPhone to a PC Using USB - Learn Three Reliable Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/hit-the-town-non-gta-games-that-offer-similar-joy/"><u>Hit the Town Non-GTA Games That Offer Similar Joy</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728497672552-pc3/"><u>PCがネットワーク上で見えない問題とその解決方法：3つの効果的戦略</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-files-with-ease-using-onedrives-free-automatic-backup-tool/"><u>Secure Your Files with Ease Using OneDrive's Free, Automatic Backup Tool</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-dropbox-sync-issues-on-windows-11-how-to-repair-and-optimize/"><u>Troubleshooting Dropbox Sync Issues on Windows 11: How to Repair and Optimize</u></a></li>
 </ul></div>
 
