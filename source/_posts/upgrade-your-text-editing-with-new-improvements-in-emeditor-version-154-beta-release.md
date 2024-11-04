@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Text Editing with New Improvements in EmEditor Version 15.4 Beta Release
-date: 2024-10-16T16:14:57.759Z
-updated: 2024-10-17T16:51:20.427Z
+date: 2024-10-29T18:42:49.607Z
+updated: 2024-11-03T18:00:28.875Z
 tags:
   - product
 categories:
@@ -32,30 +32,30 @@ Updates from v15.4.0 beta 2 include:
    * The **URLs (visited)**, **Mail addresses (visited)**, and **Find in Files hyperlinks (visited)** were added to the **Specify Part** list box in the **Display** tab of configuration properties.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New Commands
    * Clear Visited Link History  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Macro API New Features
    * The **eeJoinSimpleMerge** flag was added to the **Join** method.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Download
@@ -87,14 +87,22 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-comprehensive-directors-manual-powerdirector-24-for-2024/"><u>[Updated] Comprehensive Directors' Manual - PowerDirector '24 for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhanced-mac-technology-video-plus-sound-record-for-2024/"><u>[Updated] Enhanced Mac Technology Video + Sound Record for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-a-step-by-step-approach-to-ad-revenue-in-youtube-videos/"><u>2024 Approved A Step-by-Step Approach to Ad Revenue in YouTube Videos</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/comprehensive-tutorial-on-creating-direct-vm-and-host-system-images-in-vmware-esxi/"><u>Comprehensive Tutorial on Creating Direct VM and Host System Images in VMware ESXi</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effortless-file-sharing-transfer-data-from-your-iphone-to-a-pc-using-usb-learn-three-reliable-techniques/"><u>Effortless File Sharing: Transfer Data From Your iPhone to a PC Using USB - Learn Three Reliable Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/hit-the-town-non-gta-games-that-offer-similar-joy/"><u>Hit the Town Non-GTA Games That Offer Similar Joy</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728497672552-pc3/"><u>PCがネットワーク上で見えない問題とその解決方法：3つの効果的戦略</u></a></li>
-<li><a href="https://win-unique.techidaily.com/secure-your-files-with-ease-using-onedrives-free-automatic-backup-tool/"><u>Secure Your Files with Ease Using OneDrive's Free, Automatic Backup Tool</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-dropbox-sync-issues-on-windows-11-how-to-repair-and-optimize/"><u>Troubleshooting Dropbox Sync Issues on Windows 11: How to Repair and Optimize</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubes-new-look-shorts-now-on-screen/"><u>[New] 2024 Approved YouTube's New Look - Shorts Now on Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-download-verbatim-excerpt/"><u>[New] In 2024, Download Verbatim Excerpt</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-filmeditingsuite-assessment-detailed-insights-for-2024/"><u>[Updated] FilmEditingSuite Assessment – Detailed Insights for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-quick-guide-seamlessly-moving-4k-footage-from-iphone-to-laptop/"><u>1. Quick Guide: Seamlessly Moving 4K Footage From iPhone to Laptop</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-fix-an-external-hard-drive-recognized-as-an-unknown-usb-device-6-effective-methods/"><u>How to Fix an External Hard Drive Recognized as an Unknown USB Device: 6 Effective Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-xr-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone XR for Free</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-note-12-proplus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi Note 12 Pro+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-your-youtube-issues-a-comprehensive-guide-to-restoring-functionality/"><u>Resolve Your YouTube Issues: A Comprehensive Guide to Restoring Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-computers-audio-resolve-audio-device-unavailable-on-various-windows-versions/"><u>Reviving Your Computer's Audio: Resolve 'Audio Device Unavailable' On Various Windows Versions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-von-windows-defender-unter-windows-11/"><u>Schritt-Für-Schritt Anleitung Zum Einrichten Von Windows Defender Unter Windows 11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/sicherstellen-sie-mit-aomei-backupper-den-schutz-ihrer-mails-ein-umfassender-leitfaden/"><u>Sicherstellen Sie Mit AOMEI Backupper Den Schutz Ihrer Mails – Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-unique.techidaily.com/soluzione-per-aggiornare-o-scaricare-windows-11-quando-e-bloccato-impara-le-4-maniere-di-risolvere/"><u>Soluzione per Aggiornare O Scaricare Windows 11 Quando È Bloccato: Impara Le 4 Maniere Di Risolvere</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-restoring-irreversibly-removed-directories-on-windows-11/"><u>Step-by-Step Guide: Restoring Irreversibly Removed Directories on Windows 11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-converting-songs-into-ringtones-for-your-iphone/"><u>Step-by-Step Tutorial: Converting Songs Into Ringtones for Your iPhone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/the-essential-troubleshooting-steps-for-an-unresponsive-iphone-or-ipad-after-ios-upgrade/"><u>The Essential Troubleshooting Steps for an Unresponsive iPhone or iPad After iOS Upgrade</u></a></li>
 </ul></div>
 
