@@ -1,7 +1,7 @@
 ---
 title: EmEditor Professional 9.00 Alpha Released – The Ultimate Japanese Language Editor for Developers
-date: 2024-10-31T21:07:34.684Z
-updated: 2024-11-03T19:23:05.429Z
+date: 2024-11-26T06:09:04.874Z
+updated: 2024-12-01T03:36:52.947Z
 tags:
   - product
 categories:
@@ -106,31 +106,21 @@ Viewing 10 posts - 1 through 10 (of 10 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-whimsy-weaver-photo-tapestry/"><u>[New] Whimsy Weaver Photo Tapestry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-spectacular-showdowns-and-excursions-top-10-gaming-treasures/"><u>[Updated] 2024 Approved Spectacular Showdowns & Excursions – Top 10 Gaming Treasures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-bridging-minds-online-the-ultimate-guide-to-facebook-video-screensharing/"><u>[Updated] Bridging Minds Online The Ultimate Guide to Facebook Video Screensharing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-hero-10-ultimate-guide-for-l-slow-cinematography/"><u>2024 Approved Mastering Hero 10 Ultimate Guide for L-Slow Cinematography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-enhance-video-content-via-srt-transcoding/"><u>2024 Approved Step-by-Step Guide to Enhance Video Content via SRT Transcoding</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/access-premium-downloads-complimentary-ebooks-and-top-rated-tool-collection-get-yours-now/"><u>Access Premium Downloads: Complimentary eBooks & Top-Rated Tool Collection - Get Yours Now!</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/best-mac-recording-software-of-2024-a-selection-of-top-12-gratis-apps-to-capture-your-screens-movavi-insights/"><u>Best Mac Recording Software of 2024: A Selection of Top 12 Gratis Apps to Capture Your Screens - Movavi Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comprendre-linstallation-de-norton-ghost-sur-les-systemes-dexploitation-windows-version-11-10-8-ou/"><u>Comprendre L'installation De Norton Ghost Sur Les Systèmes D'exploitation Windows : Version 11, 10, 8 Ou</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-webp-conversion-by-chrome-on-your-computer/"><u>Eliminate WebP Conversion by Chrome on Your Computer</u></a></li>
-<li><a href="https://win-unique.techidaily.com/expert-tips-for-effortlessly-duplicating-your-windows-1011-setup-using-cloning-techniques/"><u>Expert Tips for Effortlessly Duplicating Your Windows 10/11 Setup Using Cloning Techniques</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guia-incompleta-los-5-utilidades-sin-costo-mas-eficaces-para-transferir-imagenes-a-un-ssd-con-windows-n-11/"><u>Guía Incompleta: Los 5 Utilidades Sin Costo Más Eficaces Para Transferir Imágenes a Un SSD Con Windows N 11</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-complet-pour-corriger-le-probleme-dactualisation-reagentxml-sur-mbr2gpt/"><u>Guide Complet Pour Corriger Le Problème D'Actualisation ReAgent.xml Sur MBR2GPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-communication-problems-discover-10-tips/"><u>How To Resolve iPhone Communication Problems – Discover 10 Tips</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-the-issue-of-missing-messages-in-your-outlook-inbox/"><u>Resolving the Issue of Missing Messages in Your Outlook Inbox</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728482626591-ssdwindows-11/"><u>SSDで効率的にWindows 11をスムーズに切り替える方法</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultimate-list-of-free-imagegrabber-tools-comparable-to-norton-ghost-on-windows-11/"><u>Ultimate List of Free ImageGrabber Tools Comparable to Norton Ghost on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-hdcp-mistakes-identifying-and-resolving-them/"><u>Understanding HDCP Mistakes: Identifying & Resolving Them</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-server-201-update-issue-resolved-fixing-boot-loop-after-upgrade/"><u>Windows Server 201# Update Issue Resolved: Fixing Boot Loop After Upgrade</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yahoo-mail/"><u>Yahoo Mail メーラーから消えたメッセージの簡単な取り戻し方</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-income-tracking-essential-steps-in-gauging-youtube-earnings/"><u>[New] In 2024, Streamline Income Tracking Essential Steps in Gauging YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-reddit-poster-canvas-ratio/"><u>[New] Reddit Poster Canvas Ratio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ios-recording-tools-guide-for-2024/"><u>[Updated] IOS Recording Tools Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stop-youtube-shorts-forever-a-step-by-step-guide/"><u>[Updated] Stop YouTube Shorts Forever A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fixen-sie-das-problem-mit-versteckten-startanwendungen-auf-ihrem-windows-11-pc/"><u>Fixen Sie Das Problem Mit Versteckten Startanwendungen Auf Ihrem Windows 11 PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-xs-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone XS Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>In 2024, Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-14-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi 14 Pro FRP Locks</u></a></li>
+<li><a href="https://win-unique.techidaily.com/la-metodo-ideal-para-crear-una-copia-de-seguridad-del-disco-duro-en-windows-server-2008-r2/"><u>La Método Ideal Para Crear Una Copia De Seguridad Del Disco Duro en Windows Server 2008 R2</u></a></li>
+<li><a href="https://win-unique.techidaily.com/restoring-removed-documents-from-the-recycle-bin-on-windows-a-step-by-step-guide/"><u>Restoring Removed Documents From the Recycle Bin on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-resolve-cloned-drive-startup-issues-in-windows-11-with-these-5-easy-fixes/"><u>Troubleshooting Guide: Resolve Cloned Drive Startup Issues in Windows 11 with These 5 Easy Fixes</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
