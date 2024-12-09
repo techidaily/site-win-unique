@@ -1,7 +1,7 @@
 ---
 title: Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike
-date: 2024-11-26T07:37:39.816Z
-updated: 2024-12-01T06:44:22.821Z
+date: 2024-12-02T01:22:36.318Z
+updated: 2024-12-09T06:36:00.726Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,17 +70,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-video-cutting-and-compiling-in-studio/"><u>2024 Approved The Art of Video Cutting and Compiling in Studio</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-taiwanese-version-10/"><u>如何解決Windows ([Taiwanese Version]) 10電腦螢幕截圖失去可見性:不能找回文件之策略</u></a></li>
-<li><a href="https://win-unique.techidaily.com/clonadisk-copia-gratuita-del-disco-rigido-dell/"><u>ClonaDisk: Copia Gratuita Del Disco Rigido Dell</u></a></li>
-<li><a href="https://win11.techidaily.com/copying-powertoys-preferences-to-another-pc/"><u>Copying PowerToys Preferences to Another PC</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-complet-comment-synchronez-votre-contenu-nas-via-la-sauvegarde-en-image-mirroring/"><u>Guide Complet : Comment Synchronez Votre Contenu NAS Via La Sauvegarde en Image (Mirroring)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-enhancing-control-over-snapchat-video-speed/"><u>In 2024, Expert Advice Enhancing Control Over Snapchat Video Speed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-x-flip-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo X Flip?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-pinpointing-premium-hdr-camera-brands/"><u>In 2024, Pinpointing Premium HDR Camera Brands</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insight-into-wireless-service-companies-and-their-impact-on-communication/"><u>Insight Into Wireless Service Companies and Their Impact on Communication</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-uefi-system/"><u>Secure & Speed-Up UEFI System</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshoot-and-fix-hulus-error-21-fast-top-tips-for-immediate-relief/"><u>Troubleshoot and Fix Hulu's Error 21 Fast - Top Tips for Immediate Relief</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-engage-viewers-with-3-innovative-description-styles-on-instagram-vids/"><u>[New] 2024 Approved Engage Viewers with 3 Innovative Description Styles on Instagram Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-capture-strategies-for-roblox-games-mac-edition-for-2024/"><u>[New] Advanced Capture Strategies for Roblox Games (Mac Edition) for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-screen-saver-successes-a-video-showcase-evaluation/"><u>[New] Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speed-up-snap-retrieval-methods-for-2024/"><u>[New] Speed Up Snap Retrieval Methods for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-seamless-integration-of-nvidia-screener-techniques/"><u>[Updated] In 2024, Seamless Integration of NVIDIA Screener Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/deleting-a-discord-server-desktop-and-mobile-guide-for-2024/"><u>Deleting a Discord Server Desktop & Mobile Guide for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/high-definition-landscape-wallpapers-collection-static-design-pack-by-yl-computing/"><u>High-Definition Landscape Wallpapers Collection - Static Design Pack by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-does-windows-defender-stand-out-from-competing-antivirus-solutions/"><u>How Does Windows Defender Stand Out From Competing Antivirus Solutions?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-diagnose-and-fix-issues-in-your-scanning-equipment-expert-advice-by-yl-software/"><u>How to Diagnose and Fix Issues in Your Scanning Equipment: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/join-the-online-launch-event-the-worlds-first-complimentary-virtual-dj-extravaganza-starts-this-evening/"><u>Join the Online Launch Event: The World's First Complimentary Virtual DJ Extravaganza Starts This Evening!</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-x50-gt-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor X50 GT</u></a></li>
+<li><a href="https://win-unique.techidaily.com/retrieving-mistakenly-removed-core-files-a-guide-for-users-by-yl-software-solutions/"><u>Retrieving Mistakenly Removed Core Files: A Guide for Users - By YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-configuring-and-accessing-your-network-preferences-yl-computing-solutions/"><u>Step-by-Step Guide: Configuring & Accessing Your Network Preferences - YL Computing Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/stepwise-epson-xp-410-printer-setup-with-drivers-in-windows-a-step-by-step-guide/"><u>Stepwise Epson XP-410 Printer Setup with Drivers in Windows - A Step by Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211254029-9798869213440-the-life/"><u>The Life | Free Book</u></a></li>
 </ul></div>
 

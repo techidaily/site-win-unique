@@ -1,7 +1,7 @@
 ---
 title: "Crucial Alert: Avoid Updating DEX 3 & LYRX on Macs with Catalina - Protect Your Software!"
-date: 2024-11-28T23:43:08.949Z
-updated: 2024-12-01T04:01:31.277Z
+date: 2024-12-04T07:07:49.622Z
+updated: 2024-12-08T19:18:02.028Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,17 +48,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-trailblazers-in-the-world-of-virtual-reality/"><u>[New] 2024 Approved Trailblazers in the World of Virtual Reality</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-eliminate-payment-for-cam-screen-recording-a-comparative-study/"><u>2024 Approved Eliminate Payment for Cam Screen Recording – A Comparative Study</u></a></li>
-<li><a href="https://win-unique.techidaily.com/derniere-generation-de-logiciel-gratuit-pour-recuperer-les-donnees-perdues-de-votre-kingston-datatraveler/"><u>Dernière Génération De Logiciel Gratuit Pour Récupérer Les Données Perdues De Votre Kingston DataTraveler</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effiziente-externe-hdd-synchro-mit-windows-11-zwei-strategien-fur-optimale-datenubertragung/"><u>Effiziente Externe HDD-Synchro Mit Windows 11: Zwei Strategien Für Optimale Datenübertragung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-pluses-vs-perplexities-ai-chatbot-showdown/"><u>GPT Pluses Vs. Perplexities: AI Chatbot Showdown</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-ace-2-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Ace 2 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-preserving-chronological-integrity-in-visuals/"><u>In 2024, Preserving Chronological Integrity in Visuals</u></a></li>
-<li><a href="https://win-unique.techidaily.com/les-solutions-de-secours-ideales-controle-dalerte-sauvegarde-and-restauration-sur-windows-server-2016-explique/"><u>Les Solutions De Secours Idéales: Contrôle D’Alerte, Sauvegarde & Restauration Sur Windows Server 2016 Expliqué</u></a></li>
-<li><a href="https://win-unique.techidaily.com/problematik-systemwiederherstellung-unter-windows-11-nicht-funktioniert/"><u>Problematik: Systemwiederherstellung Unter Windows 11 Nicht Funktioniert</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-edge-40-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Edge 40 Pro without backup.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/wissen-sie-wie-man-windows-ordnungsgemass-auf-ein-samsung-ssd-verschiebt-eine-umfassende-anleitung-fur-anfanger-und-fortgeschrittene/"><u>Wissen Sie, Wie Man Windows Ordnungsgemäß Auf Ein Samsung SSD Verschiebt? Eine Umfassende Anleitung Für Anfänger Und Fortgeschrittene</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-convert-twitter-videos-to-gifs-in-2024/"><u>[New] How To Convert Twitter Videos To GIFS, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-competitive-overwatch-in-minutes/"><u>[Updated] 2024 Approved Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-shutterbug-secrets-perfecting-reflections-in-water/"><u>[Updated] IPhone Shutterbug Secrets Perfecting Reflections in Water</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enhanced-mixing-capabilities-dex-3-now-fully-supports-the-impulse-500-controller-by-hercules-pcdj-revolutionized/"><u>Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2003 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-2-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze 2 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y200e-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y200e 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-photography-pro-key-positions-and-perspectives-on-your-iphone/"><u>In 2024, Photography Pro Key Positions and Perspectives on Your iPhone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-dll-not-found-issues-in-windows-7-10-with-simple-steps-insights-by-yl-computing/"><u>Resolving 'DLL Not Found' Issues in Windows 7-10 with Simple Steps - Insights by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-connectivity-problems-a-step-by-step-guide-tips-from-yl-computing/"><u>Resolving Network Adapter Connectivity Problems: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-the-old-republic-not-working-heres-how-to-get-it-running-smoothly-again/"><u>Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-checklist-for-assembling-an-unbeatable-gaming-rig-insights/"><u>The Complete Checklist for Assembling an Unbeatable Gaming Rig - Insights</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-the-objectives-behind-the-nanchang-incident-insights-from-yl-computing-and-software-solutions/"><u>Understanding the Objectives Behind the Nanchang Incident: Insights From YL Computing & Software Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized"
-date: 2024-11-25T17:32:34.615Z
-updated: 2024-11-30T22:31:48.432Z
+date: 2024-12-03T02:46:40.616Z
+updated: 2024-12-09T10:37:15.821Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 500 Features:
@@ -63,7 +63,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 _Have questions about the **Hercules DJ Control Inpulse 500** and how it works with our DEX 3 **DJ software**? Please leave them in the comments section below_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,18 +85,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/07/29894\_hercules\_audio\_dj
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
-<li><a href="https://win-unique.techidaily.com/aomei-backuppervss/"><u>AOMEI Backupperソフトウェアを利用したVSSバックアップ方法ガイド</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/client-success-stories-hard-drive-data/"><u>Client Success Stories: Hard Drive Data</u></a></li>
-<li><a href="https://win-unique.techidaily.com/einfache-erstellung-von-windows-server-201/"><u>Einfache Erstellung Von Windows Server 201</u></a></li>
-<li><a href="https://win-unique.techidaily.com/essential-strategies-securely-preserving-your-information-on-windows-server/"><u>Essential Strategies: Securely Preserving Your Information on Windows Server</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-facile-a-suivre-pour-cloner-efficacement-votre-disque-externe-avec-des-outils-fiables-et-rapides-logiciel-parfait-pour-la-sauvegarde-de-donnees/"><u>Guide Facile À Suivre Pour Cloner Efficacement Votre Disque Externe Avec Des Outils Fiables Et Rapides - Logiciel Parfait Pour La Sauvegarde De Données.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 Plus to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>In 2024, From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-downloads-igtv-media-for-phone-users/"><u>In 2024, Mastering Downloads IGTV Media for Phone Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-transforming-twitter-videos-into-gif-format-for-windows-users/"><u>Step-by-Step Tutorial: Transforming Twitter Videos Into GIF Format for Windows Users</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-rated-samsung-ssd-duplication-tools-with-comprehensive-user-manual/"><u>Top Rated Samsung SSD Duplication Tools with Comprehensive User Manual</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-11-8-7-ssd/"><u>Windows 11, 8, 7 SSD克隆入站：如何在安全啟動中進行</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-cancel-discord-server-pcmobile-methods/"><u>[New] 2024 Approved Cancel Discord Server PC/Mobile Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-price-friendly-nimbus-space-wide-file-vault/"><u>[New] Price-Friendly Nimbus Space Wide File Vault</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-path-to-perfect-video-clarity/"><u>[Updated] Simplified Path to Perfect Video Clarity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-avatars-navigating-the-metaverse-realm/"><u>2024 Approved Simplified Avatars Navigating the Metaverse Realm</u></a></li>
+<li><a href="https://win-unique.techidaily.com/adjusting-your-control-panels-background-hue-a-guide-by-yl-computing/"><u>Adjusting Your Control Panel's Background Hue: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/best-internet-connections-for-gamers-expert-advice-from-yl-computing/"><u>Best Internet Connections for Gamers: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-practices-in-video-quality-improvement/"><u>Best Practices in Video Quality Improvement</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comprehensive-guide-to-detecting-and-removing-harmful-software-including-spyware-and-viruses-advice-from-yl-software/"><u>Comprehensive Guide to Detecting & Removing Harmful Software Including Spyware and Viruses - Advice From YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-note-30-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Note 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-6-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic 6 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/master-scanner-troubleshooting-techniques-comprehensive-guide-by-yl-software-professionals/"><u>Master Scanner Troubleshooting Techniques - Comprehensive Guide by YL Software Professionals</u></a></li>
+<li><a href="https://win-unique.techidaily.com/setting-up-autoplay-features-a-step-by-step-guide-using-the-control-panel-yl-computing/"><u>Setting Up Autoplay Features: A Step-by-Step Guide Using the Control Panel - YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a1x-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A1x 5G Phone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unclutter-your-system-with-expert-tips-on-deleting-obsolete-software-by-yl-software-experts/"><u>Unclutter Your System with Expert Tips on Deleting Obsolete Software by YL Software Experts</u></a></li>
 </ul></div>
 
