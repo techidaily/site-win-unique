@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized"
-date: 2024-12-03T02:46:40.616Z
-updated: 2024-12-09T10:37:15.821Z
+date: 2024-12-11T22:14:13.245Z
+updated: 2024-12-15T04:27:37.188Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 500 Features:
@@ -63,7 +63,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 _Have questions about the **Hercules DJ Control Inpulse 500** and how it works with our DEX 3 **DJ software**? Please leave them in the comments section below_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,20 +85,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/07/29894\_hercules\_audio\_dj
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-cancel-discord-server-pcmobile-methods/"><u>[New] 2024 Approved Cancel Discord Server PC/Mobile Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-price-friendly-nimbus-space-wide-file-vault/"><u>[New] Price-Friendly Nimbus Space Wide File Vault</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplified-path-to-perfect-video-clarity/"><u>[Updated] Simplified Path to Perfect Video Clarity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-avatars-navigating-the-metaverse-realm/"><u>2024 Approved Simplified Avatars Navigating the Metaverse Realm</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjusting-your-control-panels-background-hue-a-guide-by-yl-computing/"><u>Adjusting Your Control Panel's Background Hue: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/best-internet-connections-for-gamers-expert-advice-from-yl-computing/"><u>Best Internet Connections for Gamers: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/best-practices-in-video-quality-improvement/"><u>Best Practices in Video Quality Improvement</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comprehensive-guide-to-detecting-and-removing-harmful-software-including-spyware-and-viruses-advice-from-yl-software/"><u>Comprehensive Guide to Detecting & Removing Harmful Software Including Spyware and Viruses - Advice From YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-note-30-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Note 30 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-6-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic 6 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/master-scanner-troubleshooting-techniques-comprehensive-guide-by-yl-software-professionals/"><u>Master Scanner Troubleshooting Techniques - Comprehensive Guide by YL Software Professionals</u></a></li>
-<li><a href="https://win-unique.techidaily.com/setting-up-autoplay-features-a-step-by-step-guide-using-the-control-panel-yl-computing/"><u>Setting Up Autoplay Features: A Step-by-Step Guide Using the Control Panel - YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a1x-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A1x 5G Phone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unclutter-your-system-with-expert-tips-on-deleting-obsolete-software-by-yl-software-experts/"><u>Unclutter Your System with Expert Tips on Deleting Obsolete Software by YL Software Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stop-personalized-recommendations-for-podcasts-on-spotify/"><u>[New] Stop Personalized Recommendations for Podcasts on Spotify</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-perfect-end-youtube-outro-essentials-and-top-creators/"><u>[Updated] The Perfect End YouTube Outro Essentials & Top Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2-hands-on-guide-to-gratis-file-transformation-from-wmf-to-emv3gp-using-moveavi-converter/"><u>2. Hands-On Guide to Gratis File Transformation - From WMF to EMV/3GP Using Moveavi Converter.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-showdown-series-10-versus-series-8-which-one-wins-your-heart-and-wallet-zdnet/"><u>Apple Watch Showdown: Series 10 versus Series 8 – Which One Wins Your Heart (and Wallet)? | ZDNET</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-crypto-trading-techniques-with-yl-computings-tools/"><u>Effective Crypto Trading Techniques with YL Computing's Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fixing-the-bsod-blue-screen-of-death-issue-comprehensive-guide-by-yl-computing/"><u>Fixing the BSOD (Blue Screen of Death) Issue: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/high-definition-alfa-romeo-4c-desktop-backgrounds-and-wallpaper-collection-download-premium-graphics-by-yl-computing/"><u>High-Definition Alfa Romeo 4C Desktop Backgrounds & Wallpaper Collection - Download Premium Graphics by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/high-definition-iron-man-themed-wallpapers-and-backgrounds-by-yl-software/"><u>High-Definition Iron Man Themed Wallpapers and Backgrounds by YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-se-2022-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone SE (2022) without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722865520210-leading-group-chat-tools-for-seamless-online-communication/"><u>Leading Group Chat Tools for Seamless Online Communication</u></a></li>
+<li><a href="https://win-special.techidaily.com/premium-hd-feathered-friends-theme-package-stunning-bird-wallpaper-array-for-pc-and-laptop-exclusive-creation-from-yl-software/"><u>Premium HD Feathered Friends Theme Package: Stunning Bird Wallpaper Array for PC and Laptop – Exclusive Creation From YL Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/protecting-your-bitcoin-and-altcoins-comprehensive-guide-to-secure-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin and Altcoins: Comprehensive Guide to Secure Storage by YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-data-with-passwords-tips-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Data with Passwords - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-implementing-parental-restrictions-via-yls-computing-tools/"><u>Step-by-Step Tutorial on Implementing Parental Restrictions via YL's Computing Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-techniques-for-optimal-font-management-in-your-pc-insights-from-yl-computing/"><u>Top Techniques for Optimal Font Management in Your PC: Insights From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/us-government-halts-subsidized-internet-plans-nationwide/"><u>US Government Halts Subsidized Internet Plans Nationwide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/yl-computings-wataru-hibiki-collection-stunning-graphics-and-wallpaper-pack-explore-by-yl-software/"><u>YL Computing's Wataru Hibiki Collection: Stunning Graphics & Wallpaper Pack - Explore by YL Software</u></a></li>
 </ul></div>
 

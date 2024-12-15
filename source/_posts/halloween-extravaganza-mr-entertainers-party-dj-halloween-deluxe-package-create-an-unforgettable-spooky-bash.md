@@ -1,7 +1,7 @@
 ---
 title: "Halloween Extravaganza: Mr. Entertainer's Party DJ Halloween Deluxe Package – Create an Unforgettable Spooky Bash!"
-date: 2024-12-02T07:31:05.761Z
-updated: 2024-12-09T08:24:12.929Z
+date: 2024-12-12T10:46:10.086Z
+updated: 2024-12-15T06:38:39.950Z
 tags:
   - product
 categories:
@@ -20,10 +20,6 @@ Select-A-Track ([Digitop UK](https://tools.techidaily.com/pcdj/products/)) is Di
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mr Entertainer Party Disc – Halloween Edition
 _Throw the Ultimate Halloween Party_
 
@@ -32,7 +28,7 @@ The Mr Entertainer Party Disc range, the ultimate party tool. An entire evening�
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets-300x300.jpg?resize=300%2C300&ssl=1 "DVD Mock-Up Front with sheets")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets.jpg?fit=500%2C500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This amazing Halloween themed party disc will guarantee your Halloween is one to remember, with loads of cool games & features to keep adults & kids entertained all night. The DVD is region free so will work in any DVD Player, PlayStation, Xbox etc and is simply controlled on screen with your remote control.
@@ -50,7 +46,7 @@ This amazing Halloween themed party disc will guarantee your Halloween is one to
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear-228x300.jpg?resize=228%2C300&ssl=1 "DVD Mock-Up Rear")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear.jpg?fit=381%2C500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 
@@ -72,7 +68,7 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 [KIDS QUIZ SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1.png?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
@@ -81,10 +77,14 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 
 [SOUND EFFECTS MENU SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL-80x80.png?resize=80%2C80&ssl=1 "Sound FX Menu STILL")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL.png?fit=1024%2C576&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _click images below for large screen shots_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,24 +104,21 @@ _click images below for large screen shots_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-youtube-url-your-way-easy-personalization-steps/"><u>2024 Approved Your YouTube URL, Your Way Easy Personalization Steps</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1728465296733-windows-11/"><u>共有フォルダにアクセスできない時、Windows 11の対処方法を学ぶ</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjust-your-screen-preferences-mastering-display-configurations-in-windows-control-panel-a-guide-by-yl-computing/"><u>Adjust Your Screen Preferences: Mastering Display Configurations in Windows Control Panel - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/dealing-with-disturbing-clicks-and-clatters-expert-tips-for-quiet-computer-operation/"><u>Dealing with Disturbing Clicks and Clatters: Expert Tips for Quiet Computer Operation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/eliminate-fake-insta-buddies-rapid-no-cost-guide/"><u>Eliminate Fake Insta Buddies Rapid, No-Cost Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ensure-optimal-performance-how-to-confirm-your-sound-cards-latest-update-status-with-yl-software-tips/"><u>Ensure Optimal Performance: How to Confirm Your Sound Card's Latest Update Status with YL Software Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-the-printing-glitch-error-0x00000709-resolved/"><u>Fixed the Printing Glitch - Error 0X00000709 Resolved</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-go-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark Go (2023) by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-stories-secrets-for-success/"><u>Instagram Stories Secrets for Success</u></a></li>
-<li><a href="https://win-unique.techidaily.com/nayib-bukele-el-salvadors-crypto-friendly-leader-begins-re-election-journey-exclusive-report-by-yl-software/"><u>Nayib Bukele, El Salvador's Crypto-Friendly Leader, Begins Re-Election Journey – Exclusive Report by YL Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-strategies-converting-xmlssattml-to-dynamic-srts/"><u>Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quality-love-image-portfolio-professional-hd-visuals-from-yl-software-solutions/"><u>Quality Love Image Portfolio: Professional HD Visuals From YL Software Solutions</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-with-ease-insights-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers with Ease - Insights From YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-persona-3-fes-game-wont-start-problems/"><u>Step-by-Step Solution for 'Persona 3 FES' Game Won't Start Problems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/forming-mobile-content-into-profitable-youtube-experiences/"><u>Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-resolving-wi-fi-connectivity-issues-with-yl-software-insights/"><u>Troubleshooting Guide: Resolving Wi-Fi Connectivity Issues with YL Software Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/uncovering-common-factors-behind-memory-malfunctions-in-windows-os-expert-insights-from-yl-computing/"><u>Uncovering Common Factors Behind Memory Malfunctions in Windows OS - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/whats-the-best-orientation-horizontalvertical-on-facebook-in-2024/"><u>What's The Best Orientation Horizontal/Vertical on Facebook, In 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/why-is-my-computer-running-slowly-and-how-can-i-fix-it-expert-advice-by-yl-computing/"><u>Why Is My Computer Running Slowly and How Can I Fix It? - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-set-up-and-use-the-grid-layout-for-zoom/"><u>[New] In 2024, How to Set Up and Use the Grid Layout for Zoom</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-laugh-ledger-the-most-viral-humorous-content-on-tiktok/"><u>[New] In 2024, Laugh Ledger The Most Viral Humorous Content on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-6-free-online-tools-for-downloading-youtube-shorts/"><u>[New] Top 6 Free, Online Tools for Downloading YouTube Shorts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-virtual-producers-showdown/"><u>[Updated] In 2024, Virtual Producer's Showdown</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-navigating-through-the-codec-complexity-av1-vs-vp9-for-2024/"><u>[Updated] Navigating Through the Codec Complexity AV1 Vs. VP9 for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-effiziente-sicherungsstrategie-warum-ihr-windows-server-alte-backups-nicht-automatisch-loscht/"><u>1. Effiziente Sicherungsstrategie: Warum Ihr Windows Server Alte Backups Nicht Automatisch Löscht</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1732512729643-15yl/"><u>15年烟龄，每天一包半：老细的成功戒烟方法——YL改良版快乐解吸法</u></a></li>
+<li><a href="https://win-unique.techidaily.com/adjusting-your-screen-preferences-a-step-by-step-guide-from-yl-computing/"><u>Adjusting Your Screen Preferences: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enhance-pc-efficiency-learn-how-to-track-memory-and-processor-usage-for-speed-boost-insights-by-yl-software-solutions/"><u>Enhance PC Efficiency: Learn How to Track Memory & Processor Usage for Speed Boost - Insights by YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-fix-an-unrecognized-graphics-card-in-your-pc-solutions-from-yl-computing/"><u>How to Fix an Unrecognized Graphics Card in Your PC - Solutions From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-prevent-your-video-card-from-overheating-a-guide-by-yl-software-experts/"><u>How To Prevent Your Video Card From Overheating: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Phone without PIN</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smartphonedslr-camerass-optimal-gimbals-uncovered-1-10/"><u>In 2024, Smartphone/DSLR Cameras's Optimal Gimbals Uncovered #1-#10</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mountain-wallpapersbackground-images-and-the-brand-name-while-emphasizing-quality-with-terms-like-high-definition-or-panoramic/"><u>Mountain, Wallpapers/Background Images, and the Brand Name, While Emphasizing Quality with Terms Like High-Definition or Panoramic.</u></a></li>
+<li><a href="https://win-unique.techidaily.com/navigating-digital-barriers-exploring-why-some-sites-stay-out-of-reach-with-yl-software-solutions/"><u>Navigating Digital Barriers: Exploring Why Some Sites Stay Out of Reach with YL Software Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fast-forward-your-videos-a-quicktime-player-tutorial/"><u>Updated 2024 Approved Fast Forward Your Videos A QuickTime Player Tutorial</u></a></li>
 </ul></div>
 

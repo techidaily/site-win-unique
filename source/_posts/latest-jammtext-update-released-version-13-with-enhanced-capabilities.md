@@ -1,7 +1,7 @@
 ---
 title: "Latest JammText Update Released: Version 1.3 with Enhanced Capabilities"
-date: 2024-12-08T10:26:11.938Z
-updated: 2024-12-08T17:40:10.208Z
+date: 2024-12-12T10:00:26.409Z
+updated: 2024-12-15T03:45:47.279Z
 tags:
   - product
 categories:
@@ -28,28 +28,28 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Email to screen
 
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scan to screen
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 64 bit and Mojave Support
 
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Voting coming soon
@@ -57,7 +57,7 @@ JammText is now 64 bit for Mac which improves its performance. Also, JammText is
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Instagram discontinued
@@ -68,7 +68,7 @@ Upgrade today for free to get the best version of JammText to date!
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,24 +90,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-breaking-code-seeing-covert-user-reactions/"><u>[New] In 2024, Breaking Code Seeing Covert User Reactions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-maximizing-iphones-capabilities-for-stunning-landscape-pics-for-2024/"><u>[New] Maximizing iPhone's Capabilities for Stunning Landscape Pics for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>[Updated] 2024 Approved The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-adding-emojis-in-youtube-discussions/"><u>[Updated] Adding Emojis in YouTube Discussions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[Updated] In 2024, Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/webm4vm4a-movavi/"><u>免費Web動画ファイルのM4VとM4A変換 - Movavi</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjusting-your-control-panels-background-hue-a-guide-by-yl-computing/"><u>Adjusting Your Control Panel's Background Hue: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/best-internet-connections-for-gamers-expert-advice-from-yl-computing/"><u>Best Internet Connections for Gamers: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/cant-power-up-your-scanner-expert-advice-and-solutions-by-yl-computing-software/"><u>Can't Power Up Your Scanner? Expert Advice & Solutions by YL Computing Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comprehensive-guide-to-detecting-and-removing-harmful-software-including-spyware-and-viruses-advice-from-yl-software/"><u>Comprehensive Guide to Detecting & Removing Harmful Software Including Spyware and Viruses - Advice From YL Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/get-the-latest-dex-3-compatible-maps-for-your-pioneer-wego3-controller-with-a-step-by-step-guide/"><u>Get the Latest DEX 3 Compatible Maps for Your Pioneer WEGO3 Controller with a Step-by-Step Guide!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/master-scanner-troubleshooting-techniques-comprehensive-guide-by-yl-software-professionals/"><u>Master Scanner Troubleshooting Techniques - Comprehensive Guide by YL Software Professionals</u></a></li>
-<li><a href="https://win-studio.techidaily.com/mastering-windows-registry-optimization-a-guide-by-yl-computing/"><u>Mastering Windows Registry Optimization: A Guide by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210159502-9781642504385-practical-mindfulness/"><u>Practical Mindfulness | Free Book</u></a></li>
-<li><a href="https://win-unique.techidaily.com/setting-up-autoplay-features-a-step-by-step-guide-using-the-control-panel-yl-computing/"><u>Setting Up Autoplay Features: A Step-by-Step Guide Using the Control Panel - YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/sharing-zipped-files-made-easy-comprehensive-guide-by-yl-computing/"><u>Sharing Zipped Files Made Easy: Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/streamline-your-media-convert-fb-videos-to-mp4-hd1080p-for-free-for-2024/"><u>Streamline Your Media - Convert FB Videos to MP4 HD/1080P for Free for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unclutter-your-system-with-expert-tips-on-deleting-obsolete-software-by-yl-software-experts/"><u>Unclutter Your System with Expert Tips on Deleting Obsolete Software by YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winvpn-error-connection-lost-explained-and-fixed/"><u>WinVPN Error: Connection Lost Explained and Fixed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-facetime-call-recording-techniques-unveiled/"><u>[New] 2024 Approved Facetime Call Recording Techniques Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-recording-software-for-desktop-hd-video-for-2024/"><u>[New] Expert Recording Software for Desktop HD Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[Updated] 2024 Approved From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-creative-potential-top-10-online-banners-tools-for-2024/"><u>[Updated] Unlock Creative Potential - Top 10 Online Banners Tools for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-adjusting-monitor-configuration-on-your-pc-a-step-by-step-guide-via-windows-control-panel-insights-by-yl-tech-solutions/"><u>1. Adjusting Monitor Configuration on Your PC: A Step-by-Step Guide via Windows Control Panel - Insights by YL Tech Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-by-yl-software-boost-your-computers-performance-through-secure-file-and-program-cleanup/"><u>Effective Strategies by YL Software: Boost Your Computer's Performance Through Secure File and Program Cleanup</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-to-protect-your-processor-from-defects-insights-by-yl-computing/"><u>Effective Strategies to Protect Your Processor From Defects: Insights by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-windows-11-with-a-windows-7-key/"><u>How to Activate Windows 11 With a Windows 7 Key</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-motion-a-guide-for-expert-color-balancing/"><u>In 2024, Mastery in Motion A Guide for Expert Color Balancing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-movie-maker-for-2024/"><u>Micro Movie Maker for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-the-language-settings-panel-a-guide-to-tailoring-user-experience-locally/"><u>Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally</u></a></li>
+<li><a href="https://win-unique.techidaily.com/optimize-system-performance-by-deleting-extra-programs-and-data-expert-advice-by-yl-software-solutions/"><u>Optimize System Performance by Deleting Extra Programs and Data – Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/reveal-concealed-documents-on-windows-with-ease-expert-tips-from-yl-computings-blog/"><u>Reveal Concealed Documents on Windows With Ease - Expert Tips From YL Computing's Blog</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revive-your-treasured-memories-discover-the-magic-of-old-photo-scratch-removal-by-yl-computing-expertise-in-preserving-past-for-free/"><u>Revive Your Treasured Memories: Discover the Magic of Old Photo Scratch Removal by YL Computing – Expertise in Preserving Past for Free</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-hardware-and-software-prerequisites-for-optimal-control-panel-configuration-insights-by-yl-computing/"><u>Understanding Hardware and Software Prerequisites for Optimal Control Panel Configuration - Insights by YL Computing</u></a></li>
 </ul></div>
 

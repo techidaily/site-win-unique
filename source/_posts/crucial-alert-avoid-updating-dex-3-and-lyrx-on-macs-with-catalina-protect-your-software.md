@@ -1,7 +1,7 @@
 ---
 title: "Crucial Alert: Avoid Updating DEX 3 & LYRX on Macs with Catalina - Protect Your Software!"
-date: 2024-12-04T07:07:49.622Z
-updated: 2024-12-08T19:18:02.028Z
+date: 2024-12-10T21:11:17.528Z
+updated: 2024-12-15T11:56:46.736Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-convert-twitter-videos-to-gifs-in-2024/"><u>[New] How To Convert Twitter Videos To GIFS, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-competitive-overwatch-in-minutes/"><u>[Updated] 2024 Approved Capturing Competitive Overwatch in Minutes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-shutterbug-secrets-perfecting-reflections-in-water/"><u>[Updated] IPhone Shutterbug Secrets Perfecting Reflections in Water</u></a></li>
-<li><a href="https://win-unique.techidaily.com/enhanced-mixing-capabilities-dex-3-now-fully-supports-the-impulse-500-controller-by-hercules-pcdj-revolutionized/"><u>Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2003 Error Code 0x800A03EC?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-2-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze 2 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y200e-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y200e 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-photography-pro-key-positions-and-perspectives-on-your-iphone/"><u>In 2024, Photography Pro Key Positions and Perspectives on Your iPhone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-dll-not-found-issues-in-windows-7-10-with-simple-steps-insights-by-yl-computing/"><u>Resolving 'DLL Not Found' Issues in Windows 7-10 with Simple Steps - Insights by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-connectivity-problems-a-step-by-step-guide-tips-from-yl-computing/"><u>Resolving Network Adapter Connectivity Problems: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-the-old-republic-not-working-heres-how-to-get-it-running-smoothly-again/"><u>Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-checklist-for-assembling-an-unbeatable-gaming-rig-insights/"><u>The Complete Checklist for Assembling an Unbeatable Gaming Rig - Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-the-objectives-behind-the-nanchang-incident-insights-from-yl-computing-and-software-solutions/"><u>Understanding the Objectives Behind the Nanchang Incident: Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-excellent-10-tech-choices-for-livestream-monitoring/"><u>[New] 2024 Approved Excellent 10 Tech Choices for Livestream Monitoring</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premium-background-music-compilations/"><u>[New] 2024 Approved Premium Background Music Compilations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-vr-accessories-the-top-10-countdown/"><u>[Updated] Leading VR Accessories The Top 10 Countdown</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1732518268175-u-yl/"><u>牛市毒死初心—U兄解説万亿孤独之路: YL计算机工作室分析</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-these-4-popular-apple-gadgets-based-on-recent-zdnet-analysis/"><u>Avoid These 4 Popular Apple Gadgets Based on Recent ZDNet Analysis</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-crypto-trading-techniques-with-yl-computings-tools/"><u>Effective Crypto Trading Techniques with YL Computing's Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G04?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-onboarding-with-ai-enhancing-user-experience/"><u>Seamless Onboarding with AI: Enhancing User Experience</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-data-a-step-by-step-guide-to-file-encryption-on-windows-tips-from-yl-computing/"><u>Secure Your Data: A Step-by-Step Guide to File Encryption on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-device-malfunctions-how-to-pinpoint-faulty-drivers-with-guidance-from-yl-software-solutions/"><u>Troubleshooting Device Malfunctions: How to Pinpoint Faulty Drivers with Guidance From YL Software Solutions</u></a></li>
 </ul></div>
 

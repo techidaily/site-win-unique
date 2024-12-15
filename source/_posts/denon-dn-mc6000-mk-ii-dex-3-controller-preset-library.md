@@ -1,7 +1,7 @@
 ---
 title: Denon DN-MC6000 Mk II DEX 3 Controller Preset Library
-date: 2024-12-08T04:48:16.836Z
-updated: 2024-12-09T04:55:09.193Z
+date: 2024-12-09T03:10:41.461Z
+updated: 2024-12-15T12:36:02.489Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,21 +56,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-manual-to-mobile-igtv-video-acquisition/"><u>[Updated] The Complete Manual to Mobile IGTV Video Acquisition</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-maximize-your-hard-drive-capacity-and-speed-up-pc-expert-tips-yl-computings-guide/"><u>1. Maximize Your Hard Drive Capacity & Speed Up PC: Expert Tips - YL Computing's Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/can-you-enhance-a-laptops-thinking-unit-cpu-upgrade/"><u>Can You Enhance a Laptop's Thinking Unit: CPU Upgrade?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/diagnosing-audio-glitches-in-video-games-is-your-sound-card-at-fault-expert-advice-from-yl-software/"><u>Diagnosing Audio Glitches in Video Games: Is Your Sound Card at Fault? Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fixing-damaged-windows-registry-entries-a-step-by-step-guide/"><u>Fixing Damaged Windows Registry Entries: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-erase-crash-dump-files-in-windows-11-an-easy-how-to/"><u>How to Erase Crash Dump Files in Windows 11: An Easy How-To</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-handle-oversized-4k-video-conversions-tips-and-tricks/"><u>How to Handle Oversized 4K Video Conversions: Tips & Tricks</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-restore-or-reboot-your-windows-os-tips-by-yl-computing/"><u>How to Restore or Reboot Your Windows OS - Tips by YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-htc-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your HTC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>In 2024, Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-creative-potential-with-these-top-7-meme-creation-techniques/"><u>In 2024, Unlock Creative Potential with These Top 7 Meme-Creation Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-razr-40-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Razr 40 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/speeding-up-your-pc-critical-functions-to-disable-or-adjust-for-optimal-efficiency-tips-from-yl-software-experts/"><u>Speeding Up Your PC: Critical Functions to Disable or Adjust for Optimal Efficiency – Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unraveling-history-how-ancient-china-birthed-paper-and-who-behind-it-yl-software-solutions/"><u>Unraveling History: How Ancient China Birthed Paper & Who Behind It - YL Software Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-contrasts-between-ipad-pro-2020-m4-and-apples-latest-macbook-air-the-ultimate-comparison/"><u>Unveiling the Contrasts Between iPad Pro 2020 (M4) and Apple’s Latest MacBook Air – The Ultimate Comparison</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yls-guide-to-selecting-an-ideal-cryptocurrency-venture-for-savvy-investors/"><u>YL's Guide to Selecting an Ideal Cryptocurrency Venture for Savvy Investors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>[Updated] 2024 Approved Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-visual-communication-a-guide-to-using-gifs-on-discord-platform/"><u>[Updated] 2024 Approved Mastering Visual Communication A Guide to Using GIFs on Discord Platform</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023-how-to-share-a-tiktok-video-on-twitter/"><u>[Updated] In 2024, 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/achieving-optimal-scan-results-essential-strategies-by-yl-software-professionals/"><u>Achieving Optimal Scan Results: Essential Strategies by YL Software Professionals</u></a></li>
+<li><a href="https://win-unique.techidaily.com/cant-power-up-your-scanner-expert-advice-and-solutions-by-yl-computing-software/"><u>Can't Power Up Your Scanner? Expert Advice & Solutions by YL Computing Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-when-you-cant-reach-destiny-2-servers-a-players-handbook/"><u>Essential Fixes for When You Can't Reach Destiny 2 Servers: A Player's Handbook</u></a></li>
+<li><a href="https://win-unique.techidaily.com/expert-tips-from-yl-software-for-troubleshooting-and-fixing-your-computer-display-problems/"><u>Expert Tips From YL Software for Troubleshooting and Fixing Your Computer Display Problems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>In 2024, Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-your-channels-potential-the-cost-analysis/"><u>In 2024, Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
+<li><a href="https://win-unique.techidaily.com/reestablish-connection-between-your-pc-and-printer-a-step-by-step-guide-insights-from-yl-computing/"><u>Reestablish Connection Between Your PC and Printer: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-stream-disneyplus-content-using-chromecast-a-simple-tutorial/"><u>Seamlessly Stream Disney+ Content Using Chromecast – A Simple Tutorial</u></a></li>
 </ul></div>
 
