@@ -1,7 +1,7 @@
 ---
 title: Denon DN-MC6000 Mk II DEX 3 Controller Preset Library
-date: 2024-12-09T03:10:41.461Z
-updated: 2024-12-15T12:36:02.489Z
+date: 2024-12-22T16:53:04.372Z
+updated: 2024-12-23T18:26:08.723Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,16 +56,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>[Updated] 2024 Approved Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-visual-communication-a-guide-to-using-gifs-on-discord-platform/"><u>[Updated] 2024 Approved Mastering Visual Communication A Guide to Using GIFs on Discord Platform</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023-how-to-share-a-tiktok-video-on-twitter/"><u>[Updated] In 2024, 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/achieving-optimal-scan-results-essential-strategies-by-yl-software-professionals/"><u>Achieving Optimal Scan Results: Essential Strategies by YL Software Professionals</u></a></li>
-<li><a href="https://win-unique.techidaily.com/cant-power-up-your-scanner-expert-advice-and-solutions-by-yl-computing-software/"><u>Can't Power Up Your Scanner? Expert Advice & Solutions by YL Computing Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-when-you-cant-reach-destiny-2-servers-a-players-handbook/"><u>Essential Fixes for When You Can't Reach Destiny 2 Servers: A Player's Handbook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-android-facetime-a-step-by-step-guide/"><u>[New] In 2024, Mastering Android FaceTime A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison/"><u>[Updated] In 2024, Expert Smartphone Photo & Film Capture IPhone/Android Comparison</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-retracing-instagram-pictures-roots/"><u>[Updated] The Art of Retracing Instagram Pictures' Roots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-the-right-vr-purchase-on-the-go-vs-tethered-tech/"><u>2024 Approved Making the Right VR Purchase On-the-Go Vs. Tethered Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revamped-podcast-chats-attracting-true-fans/"><u>2024 Approved Revamped Podcast Chats Attracting True Fans</u></a></li>
+<li><a href="https://win-unique.techidaily.com/common-triggers-for-network-adapter-config-errors-expert-guide-from-yl-computing/"><u>Common Triggers for Network Adapter Config Errors: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dungeon-dominance-top-ten-rogue-classics/"><u>Dungeon Dominance Top Ten Rogue Classics</u></a></li>
 <li><a href="https://win-unique.techidaily.com/expert-tips-from-yl-software-for-troubleshooting-and-fixing-your-computer-display-problems/"><u>Expert Tips From YL Software for Troubleshooting and Fixing Your Computer Display Problems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>In 2024, Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-your-channels-potential-the-cost-analysis/"><u>In 2024, Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
-<li><a href="https://win-unique.techidaily.com/reestablish-connection-between-your-pc-and-printer-a-step-by-step-guide-insights-from-yl-computing/"><u>Reestablish Connection Between Your PC and Printer: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-stream-disneyplus-content-using-chromecast-a-simple-tutorial/"><u>Seamlessly Stream Disney+ Content Using Chromecast – A Simple Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-review/"><u>Exploring Computer Gear with Tom's Hardware Review</u></a></li>
+<li><a href="https://win-unique.techidaily.com/high-definition-aston-martin-dbx-desktop-scenes-premium-walls-screensaver-graphics-and-visuals-by-yl-computing/"><u>High-Definition Aston Martin DBX Desktop Scenes: Premium Walls, Screensaver Graphics & Visuals by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-can-you-verify-your-graphics-cards-compatibility-with-windows/"><u>How Can You Verify Your Graphics Card's Compatibility With Windows</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-well-does-windows-defender-provide-instant-malware-protection-expert-analysis-by-yl-software/"><u>How Well Does Windows Defender Provide Instant Malware Protection? Expert Analysis by YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-motorola-edge-40-neo-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Edge 40 Neo Unlock Without Password</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-account-management-essential-tips-for-tweaking-control-panel-configurations-expertise-from-yl-software/"><u>Mastering Account Management: Essential Tips for Tweaking Control Panel Configurations - Expertise From YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-video-focus-videoleap-guide/"><u>Perfecting Video Focus Videoleap Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-connectivity-problems-linking-your-windows-pc-with-an-outer-hard-disk-expert-tips-from-yl-computing/"><u>Resolving Connectivity Problems: Linking Your Windows PC with an Outer Hard Disk - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-moto-g24-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Moto G24 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultra-high-definition-romantic-wallpapers-premium-picture-collections-by-yl-computing/"><u>Ultra-High Definition Romantic Wallpapers - Premium Picture Collections by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unleash-your-dj-potential-using-dex-3-pro-tools-guided-by-our-featured-expert-at-pcdj-studio/"><u>Unleash Your DJ Potential Using DEX 3 Pro Tools, Guided by Our Featured Expert at PCDJ Studio!</u></a></li>
 </ul></div>
 
