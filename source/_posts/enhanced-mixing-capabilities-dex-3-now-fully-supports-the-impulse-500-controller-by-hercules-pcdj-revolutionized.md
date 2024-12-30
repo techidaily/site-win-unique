@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized"
-date: 2024-12-21T17:54:54.488Z
-updated: 2024-12-24T04:58:21.280Z
+date: 2024-12-27T02:56:34.971Z
+updated: 2024-12-29T17:52:46.156Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 500 Features:
@@ -63,7 +63,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 _Have questions about the **Hercules DJ Control Inpulse 500** and how it works with our DEX 3 **DJ software**? Please leave them in the comments section below_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,15 +85,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/07/29894\_hercules\_audio\_dj
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-x100-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo X100</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/best-vimeo-video-downloaders/"><u>Best Vimeo Video Downloaders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-teams-efficiency-with-copilot-in-microsoft-teams-a-complete-walkthrough/"><u>Boost Your Team's Efficiency with Copilot in Microsoft Teams - A Complete Walkthrough</u></a></li>
-<li><a href="https://win-unique.techidaily.com/diagnose-and-fix-your-gpu-woes-expert-troubleshooting-techniques-by-yl-software/"><u>Diagnose and Fix Your GPU Woes: Expert Troubleshooting Techniques by YL Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/does-windows-defender-send-alerts-for-virus-detection-an-in-depth-guide-by-yl-software/"><u>Does Windows Defender Send Alerts for Virus Detection? An In-Depth Guide by YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962600343-lenovo-t500-driver-downloads-find-and-install-updates-hassle-free-today/"><u>Lenovo T500 Driver Downloads - Find and Install Updates Hassle-Free Today!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/silent-spectator-of-social-media-snippets-for-2024/"><u>Silent Spectator of Social Media Snippets for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-file-sharing-in-windows-10-types-methods-and-tips-from-yl-computing/"><u>Understanding File Sharing in Windows 10: Types, Methods and Tips From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yl-software-solutions-a-guide-to-streamlining-your-digital-space-by-tackling-duplicate-file-dilemmas/"><u>YL Software Solutions: A Guide to Streamlining Your Digital Space by Tackling Duplicate File Dilemmas</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-affinity-photo-expertise-review-guide/"><u>[New] 2024 Approved Affinity Photo Expertise Review Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-twisting-the-tale-a-comprehensively-dual-angled-approach-for-insta-posts/"><u>[New] In 2024, Twisting the Tale A Comprehensively Dual-Angled Approach for Insta Posts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly/"><u>[Updated] Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mkv-format-conversion-effortless-by-movavi/"><u>Free Online MKV Format Conversion - Effortless by Movavi</u></a></li>
+<li><a href="https://win-unique.techidaily.com/high-definition-iron-man-themed-wallpapers-and-backgrounds-by-yl-software/"><u>High-Definition Iron Man Themed Wallpapers and Backgrounds by YL Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-iphones-silhouette-potential/"><u>In 2024, Unveiling iPhone's Silhouette Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-employment-landscape-via-chatgpt/"><u>Mastering the Employment Landscape via ChatGPT</u></a></li>
+<li><a href="https://win-unique.techidaily.com/protecting-your-bitcoin-and-altcoins-comprehensive-guide-to-secure-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin and Altcoins: Comprehensive Guide to Secure Storage by YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-data-with-passwords-tips-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Data with Passwords - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-implementing-parental-restrictions-via-yls-computing-tools/"><u>Step-by-Step Tutorial on Implementing Parental Restrictions via YL's Computing Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-gaming-smartphones-expert-picks-and-reviews/"><u>Top 5 Gaming Smartphones : Expert Picks & Reviews</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-techniques-for-optimal-font-management-in-your-pc-insights-from-yl-computing/"><u>Top Techniques for Optimal Font Management in Your PC: Insights From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/yl-computings-wataru-hibiki-collection-stunning-graphics-and-wallpaper-pack-explore-by-yl-software/"><u>YL Computing's Wataru Hibiki Collection: Stunning Graphics & Wallpaper Pack - Explore by YL Software</u></a></li>
 </ul></div>
 

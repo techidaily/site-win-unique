@@ -1,7 +1,7 @@
 ---
 title: "Latest JammText Update Released: Version 1.3 with Enhanced Capabilities"
-date: 2024-12-18T11:20:22.063Z
-updated: 2024-12-23T17:41:04.025Z
+date: 2024-12-23T23:45:00.661Z
+updated: 2024-12-30T01:16:38.903Z
 tags:
   - product
 categories:
@@ -29,27 +29,27 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Email to screen
 
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Scan to screen
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 64 bit and Mojave Support
 
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Voting coming soon
@@ -57,7 +57,7 @@ JammText is now 64 bit for Mac which improves its performance. Also, JammText is
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Instagram discontinued
@@ -68,7 +68,7 @@ Upgrade today for free to get the best version of JammText to date!
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,24 +90,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-subtitle-craft-with-the-best-online-resources-today/"><u>[New] Mastering Subtitle Craft with The Best Online Resources Today</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>[Updated] 2024 Approved Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-guide-to-top-templates-for-youtube-previews/"><u>2024 Approved Guide to Top Templates for YouTube Previews</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjusting-your-pcs-display-settings-a-step-by-step-guide-on-changing-screen-resolution-in-windows-tech-tips-by-yl/"><u>Adjusting Your PC's Display Settings: A Step-by-Step Guide on Changing Screen Resolution in Windows - Tech Tips by YL</u></a></li>
-<li><a href="https://win-unique.techidaily.com/boosting-your-favorite-programs-performance-resource-allocation-tips-inside-the-control-panel-guided-by-yl-computing/"><u>Boosting Your Favorite Program's Performance: Resource Allocation Tips Inside the Control Panel - Guided by YL Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elite-screen-recording-app-for-no-popups/"><u>Elite Screen Recording App for No Popups</u></a></li>
-<li><a href="https://win-unique.techidaily.com/enduring-brightness-fluctuations-on-screen-diagnosing-common-reasons-for-laptop-displays-to-twinkle-tips-from-yl-software/"><u>Enduring Brightness Fluctuations on Screen?: Diagnosing Common Reasons for Laptop Displays to Twinkle – Tips From YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-14-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 14 Pro Max or iPad?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lens-kings-battle-sj6-vs-the-four-k-creators-of-xiaomi/"><u>In 2024, Lens Kings Battle SJ6 Vs. The Four-K Creators of Xiaomi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-the-exchange-of-digital-assets-with-yl-computing/"><u>Mastering the Exchange of Digital Assets with YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/protect-your-crypto-wallet-with-proven-techniques-by-yl-software-experts/"><u>Protect Your Crypto Wallet with Proven Techniques by YL Software Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-detection-issues-in-windows-steps-and-tips-from-yl-computing/"><u>Resolving Network Adapter Detection Issues in Windows: Steps & Tips From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-x-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone X Suddenly | Stellar</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/strategies-for-enhancing-your-apple-podcast-visibility-for-2024/"><u>Strategies for Enhancing Your Apple Podcast Visibility for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/tailor-made-mouse-configuration-for-windows-users-expert-advice-by-yl-computings-window-control-methodology/"><u>Tailor-Made Mouse Configuration for Windows Users - Expert Advice by YL Computing's Window Control Methodology</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-and-fixing-your-windows-pcs-sound-issues-expert-guide-by-yl-computing/"><u>Troubleshooting & Fixing Your Windows PC's Sound Issues: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-resolving-windows-movie-maker-problems-in-windows-11-including-no-sound-glitches/"><u>Troubleshooting Guide: Resolving Windows Movie Maker Problems in Windows 11, Including No Sound Glitches</u></a></li>
-<li><a href="https://win-unique.techidaily.com/upgrading-essential-components-made-easy-a-detailed-walkthrough-for-windows-hardware-updates-by-yl-computing-expert-advice-from-yl-software-professionals/"><u>Upgrading Essential Components Made Easy: A Detailed Walkthrough for Windows Hardware Updates by YL Computing | Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nstant-classics-days-highest-youtube-rankings-for-2024/"><u>[New] Instant Classics Day’s Highest YouTube Rankings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-techniques-for-modifying-voice-on-instagram-profiles/"><u>[Updated] 2024 Approved Techniques for Modifying Voice on Instagram Profiles</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-to-protect-your-processor-from-defects-insights-by-yl-computing/"><u>Effective Strategies to Protect Your Processor From Defects: Insights by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/high-definition-audi-r8-white-car-deckshots-and-desktop-wallpapers-premium-vehicle-visuals/"><u>High-Definition Audi R8 White Car Deckshots & Desktop Wallpapers - Premium Vehicle Visuals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-samsung-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Samsung ?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>In 2024, Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-maximizing-video-success-on-youtube-long-term-creativity-commons-strategy/"><u>In 2024, Maximizing Video Success on YouTube Long-Term Creativity Commons Strategy</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mirroring-made-easy-transferring-data-from-your-iphone-to-any-windows-os-in-just-four-steps/"><u>Mirroring Made Easy: Transferring Data From Your iPhone to Any Windows OS in Just Four Steps</u></a></li>
+<li><a href="https://win-unique.techidaily.com/navigating-legal-obstacles-in-digital-assets-expert-analysis-by-yl-software-specialists/"><u>Navigating Legal Obstacles in Digital Assets - Expert Analysis by YL Software Specialists</u></a></li>
+<li><a href="https://win-unique.techidaily.com/reveal-concealed-documents-on-windows-with-ease-expert-tips-from-yl-computings-blog/"><u>Reveal Concealed Documents on Windows With Ease - Expert Tips From YL Computing's Blog</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revive-your-treasured-memories-discover-the-magic-of-old-photo-scratch-removal-by-yl-computing-expertise-in-preserving-past-for-free/"><u>Revive Your Treasured Memories: Discover the Magic of Old Photo Scratch Removal by YL Computing – Expertise in Preserving Past for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-stealthy-rise-of-chromebooks-exploring-the-reasons-behind-their-popularity-analysis/"><u>The Stealthy Rise of Chromebooks - Exploring the Reasons Behind Their Popularity Analysis</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620222964-top-10-no-cost-nokia-video-converter-apps-for-mac-users-get-your-list-here/"><u>Top 10 No-Cost Nokia Video Converter Apps for Mac Users - Get Your List Here!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-hardware-and-software-prerequisites-for-optimal-control-panel-configuration-insights-by-yl-computing/"><u>Understanding Hardware and Software Prerequisites for Optimal Control Panel Configuration - Insights by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/yl-software-solutions-a-guide-to-streamlining-your-digital-space-by-tackling-duplicate-file-dilemmas/"><u>YL Software Solutions: A Guide to Streamlining Your Digital Space by Tackling Duplicate File Dilemmas</u></a></li>
 </ul></div>
 

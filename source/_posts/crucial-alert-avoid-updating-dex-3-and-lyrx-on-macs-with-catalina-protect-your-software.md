@@ -1,7 +1,7 @@
 ---
 title: "Crucial Alert: Avoid Updating DEX 3 & LYRX on Macs with Catalina - Protect Your Software!"
-date: 2024-12-22T17:16:54.411Z
-updated: 2024-12-23T23:48:11.485Z
+date: 2024-12-23T18:02:07.146Z
+updated: 2024-12-29T23:55:13.512Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>[New] Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-listening-made-easy-with-direct-recording-for-2024/"><u>[New] YouTube Listening Made Easy with Direct Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-converting-videos-easily-send-facebook-media-to-whatsapp/"><u>[Updated] Converting Videos Easily Send Facebook Media to WhatsApp</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-embracing-whimsy-cartoon-face-magic-in-snapchat/"><u>[Updated] Embracing Whimsy Cartoon Face Magic in Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-master-photographers-techniques-for-onscreen-cutting-for-2024/"><u>[Updated] Master Photographer's Techniques for Onscreen Cutting for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-and-budget-mp3-conversion-from-skype-talks/"><u>2024 Approved Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-powershell-scripts-removing-file-restrictions/"><u>Decoding PowerShell Scripts: Removing File Restrictions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722983131952-dragon-quest-xi-freezes-discover-the-fix/"><u>Dragon Quest XI Freezes? Discover the Fix!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-strategies-by-yl-software-boost-your-computers-performance-through-secure-file-and-program-cleanup/"><u>Effective Strategies by YL Software: Boost Your Computer's Performance Through Secure File and Program Cleanup</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-strategies-to-protect-your-processor-from-defects-insights-by-yl-computing/"><u>Effective Strategies to Protect Your Processor From Defects: Insights by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/high-definition-audi-r8-white-car-deckshots-and-desktop-wallpapers-premium-vehicle-visuals/"><u>High-Definition Audi R8 White Car Deckshots & Desktop Wallpapers - Premium Vehicle Visuals</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-and-fabulous-10-public-domain-image-websites/"><u>In 2024, Free and Fabulous 10 Public Domain Image Websites</u></a></li>
-<li><a href="https://win-unique.techidaily.com/optimize-system-performance-by-deleting-extra-programs-and-data-expert-advice-by-yl-software-solutions/"><u>Optimize System Performance by Deleting Extra Programs and Data – Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://win-unique.techidaily.com/reveal-concealed-documents-on-windows-with-ease-expert-tips-from-yl-computings-blog/"><u>Reveal Concealed Documents on Windows With Ease - Expert Tips From YL Computing's Blog</u></a></li>
-<li><a href="https://win-unique.techidaily.com/revive-your-treasured-memories-discover-the-magic-of-old-photo-scratch-removal-by-yl-computing-expertise-in-preserving-past-for-free/"><u>Revive Your Treasured Memories: Discover the Magic of Old Photo Scratch Removal by YL Computing – Expertise in Preserving Past for Free</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-hardware-and-software-prerequisites-for-optimal-control-panel-configuration-insights-by-yl-computing/"><u>Understanding Hardware and Software Prerequisites for Optimal Control Panel Configuration - Insights by YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] In 2024, Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-maintaining-social-standing-on-facebook-10-must-know-secrets/"><u>[Updated] 2024 Approved Maintaining Social Standing on Facebook 10 Must-Know Secrets</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-effective-techniques-for-removing-dust-from-your-scanner-tips-by-yl-computing/"><u>1. Effective Techniques for Removing Dust From Your Scanner - Tips by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-irritating-speaker-crackle-issue-on-your-windows-107-device-solved/"><u>Fixing the Irritating Speaker Crackle Issue on Your Windows 10/7 Device – Solved</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2v-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2V in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-vanguard-not-initialized-issue-on-valorant/"><u>How to Fix 'Vanguard Not Initialized' Issue on Valorant</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>In 2024, An Exclusive Guide to Deck-to-Deck Technology DuRecorder</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-completely-remove-your-instagram-footprint-forever/"><u>In 2024, How to Completely Remove Your Instagram Footprint Forever</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-with-ease-insights-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers with Ease - Insights From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-resolving-wi-fi-connectivity-issues-with-yl-software-insights/"><u>Troubleshooting Guide: Resolving Wi-Fi Connectivity Issues with YL Software Insights</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unveiling-the-typical-path-discovering-the-default-storage-for-windows-registry-files/"><u>Unveiling the Typical Path: Discovering the Default Storage for Windows Registry Files</u></a></li>
+<li><a href="https://win-unique.techidaily.com/why-is-my-computer-running-slowly-and-how-can-i-fix-it-expert-advice-by-yl-computing/"><u>Why Is My Computer Running Slowly and How Can I Fix It? - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/will-a-fresh-start-wipe-out-all-files-on-my-computer-exploring-safe-options-by-yl-software/"><u>Will a Fresh Start Wipe Out All Files on My Computer? Exploring Safe Options by YL Software</u></a></li>
 </ul></div>
 

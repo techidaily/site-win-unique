@@ -1,7 +1,7 @@
 ---
 title: "Halloween Extravaganza: Mr. Entertainer's Party DJ Halloween Deluxe Package – Create an Unforgettable Spooky Bash!"
-date: 2024-12-22T20:50:01.279Z
-updated: 2024-12-23T23:47:45.645Z
+date: 2024-12-25T02:27:29.545Z
+updated: 2024-12-30T00:48:31.231Z
 tags:
   - product
 categories:
@@ -20,6 +20,10 @@ Select-A-Track ([Digitop UK](https://tools.techidaily.com/pcdj/products/)) is Di
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mr Entertainer Party Disc – Halloween Edition
 _Throw the Ultimate Halloween Party_
 
@@ -28,7 +32,7 @@ The Mr Entertainer Party Disc range, the ultimate party tool. An entire evening�
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets-300x300.jpg?resize=300%2C300&ssl=1 "DVD Mock-Up Front with sheets")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets.jpg?fit=500%2C500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This amazing Halloween themed party disc will guarantee your Halloween is one to remember, with loads of cool games & features to keep adults & kids entertained all night. The DVD is region free so will work in any DVD Player, PlayStation, Xbox etc and is simply controlled on screen with your remote control.
@@ -46,7 +50,7 @@ This amazing Halloween themed party disc will guarantee your Halloween is one to
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear-228x300.jpg?resize=228%2C300&ssl=1 "DVD Mock-Up Rear")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear.jpg?fit=381%2C500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 
@@ -65,24 +69,20 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 
 [ADULT QUIZ SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [KIDS QUIZ SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1.png?fit=1024%2C576&ssl=1)
 
-[KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+[KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
 
 [SCREENSAVER SAMPLE ![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "Screensaver Sample STILL")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
 [SOUND EFFECTS MENU SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL-80x80.png?resize=80%2C80&ssl=1 "Sound FX Menu STILL")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL.png?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _click images below for large screen shots_ 
@@ -104,21 +104,14 @@ _click images below for large screen shots_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[New] Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-optimizing-videos-expert-insights-on-effective-tagging/"><u>[New] Optimizing Videos Expert Insights on Effective Tagging</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beginners-path-to-successful-hp-screen-capturing-for-2024/"><u>[Updated] Beginner's Path to Successful HP Screen Capturing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-tools-and-strategies-for-capturing-streaming-audio-webwide/"><u>[Updated] In 2024, Top Tools & Strategies for Capturing Streaming Audio Webwide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplifying-photos-keeping-precision/"><u>2024 Approved Amplifying Photos Keeping Precision</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell/"><u>2024 Approved Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell</u></a></li>
-<li><a href="https://win-unique.techidaily.com/computer-fans-running-correctly-guide-and-performance/"><u>Computer Fans, Running Correctly, Guide, and Performance.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discover-every-feature-a-step-by-step-guide-to-accessing-your-full-control-panel-yl-computing/"><u>Discover Every Feature: A Step-by-Step Guide to Accessing Your Full Control Panel - YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discovering-the-commander-unveiling-the-chief-of-the-taiping-uprising-during-1840s-china-insights-by-yl-computing-and-yl-software/"><u>Discovering the Commander: Unveiling the Chief of the Taiping Uprising During 1840S China - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-tips-for-boosting-iphone-efficiency-with-advanced-siri-sounds-and-commands-zdnet-insights/"><u>Expert Tips for Boosting iPhone Efficiency with Advanced Siri Sounds and Commands | ZDNET Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fix-your-printer-woes-with-yl-software-a-guide-to-overcoming-scanner-unfound/"><u>Fix Your Printer Woes with YL Software: A Guide to Overcoming 'Scanner Unfound'</u></a></li>
-<li><a href="https://fox-http.techidaily.com/free-digital-artistry-the-meme-generator-for-2024/"><u>Free Digital Artistry The Meme Generator for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/get-your-free-karaoke-fix-with-new-release-of-karaoki-beta-v08/"><u>Get Your Free Karaoke Fix with New Release of Karaoki Beta V0.8.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/retrieving-accidentally-removed-files-in-windows-essential-steps-with-expert-advice-from-yl-software/"><u>Retrieving Accidentally Removed Files in Windows: Essential Steps with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/secure-your-digital-wallet-understanding-the-risks-of-using-coin-balance-tools-insights-from-yl-software/"><u>Secure Your Digital Wallet: Understanding the Risks of Using Coin Balance Tools - Insights From YL Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimizing-your-experience-viewing-facebook-live-effectively/"><u>2024 Approved Optimizing Your Experience Viewing Facebook Live Effectively</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-v27-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo V27 Unlock Without Password</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-can-you-verify-your-graphics-cards-compatibility-with-windows/"><u>How Can You Verify Your Graphics Card's Compatibility With Windows</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-well-does-windows-defender-provide-instant-malware-protection-expert-analysis-by-yl-software/"><u>How Well Does Windows Defender Provide Instant Malware Protection? Expert Analysis by YL Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-file-rescue-tips-how-to-retrieve-lost-documents-with-your-mac-computer/"><u>IPad File Rescue Tips: How to Retrieve Lost Documents with Your Mac Computer</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resetting-your-memory-recover-forgotten-passwords-with-windows-control-panel-guidance-by-yl-technologies-yl-productivity-tools/"><u>Resetting Your Memory: Recover Forgotten Passwords with Windows Control Panel Guidance by YL Technologies | YL Productivity Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-connectivity-problems-linking-your-windows-pc-with-an-outer-hard-disk-expert-tips-from-yl-computing/"><u>Resolving Connectivity Problems: Linking Your Windows PC with an Outer Hard Disk - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Pova 5 | Dr.fone</u></a></li>
 </ul></div>
 

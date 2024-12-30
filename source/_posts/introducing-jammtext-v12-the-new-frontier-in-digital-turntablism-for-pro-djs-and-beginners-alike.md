@@ -1,7 +1,7 @@
 ---
 title: Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike
-date: 2024-12-20T07:36:51.265Z
-updated: 2024-12-24T10:45:03.885Z
+date: 2024-12-23T17:23:06.293Z
+updated: 2024-12-29T22:55:12.455Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,24 +70,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[New] In 2024, Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-digital-humorist-hub/"><u>[Updated] 2024 Approved Digital Humorist Hub</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-clutter-effective-usage-of-photoshops-eraser-tool/"><u>[Updated] Cutting Clutter Effective Usage of Photoshop’s Eraser Tool</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-understanding-unexpected-system-shuts-down-insights-from-yl-computings-expert-analysis/"><u>1. Understanding Unexpected System Shuts Down: Insights From YL Computing's Expert Analysis</u></a></li>
-<li><a href="https://win-unique.techidaily.com/bugatti-chiron-iconic-2018-hd-visuals-premium-background-graphics-and-pictures-for-enhanced-digital-experience-yl-computing-artistry/"><u>Bugatti Chiron Iconic 2018 HD Visuals: Premium Background Graphics and Pictures for Enhanced Digital Experience | YL Computing Artistry</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comprehensive-guide-to-vmware-storage-apis-exploring-vasa-vaai-vamp-and-vadp/"><u>Comprehensive Guide to VMware Storage APIs: Exploring VASA, VAAI, VAMP & VADP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-writing-with-7-conscious-ai-applications/"><u>Elevate Your Writing with 7 Conscious AI Applications</u></a></li>
-<li><a href="https://win-unique.techidaily.com/epic-moments-of-the-progenitor-shield-hero-series-stunning-visual-wallpapers-curated-by-yl-software-upgrade-your-digital-space-now/"><u>Epic Moments of the Progenitor Shield Hero Series: Stunning Visual Wallpapers Curated by YL Software - Upgrade Your Digital Space Now!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/high-definition-adriana-lima-wallpaper-collection-premium-quality-imagery-by-yl-computing/"><u>High-Definition Adriana Lima Wallpaper Collection - Premium Quality Imagery by YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-htc-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on HTC to Protect Your Individual Information</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Properly | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-configuration-personalizing-yl-softwares-control-panel-settings-for-optimal-performance/"><u>Mastering Configuration: Personalizing YL Software's Control Panel Settings for Optimal Performance</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-your-storage-solutions-essential-tips-on-hdd-management-by-yl-software/"><u>Mastering Your Storage Solutions: Essential Tips on HDD Management by YL Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-in-this-article-we-will-introduce-some-cool-video-effects-that-you-can-use-in-filmora-as-well-as-the-step-by-step-guide-about-how-to-add-cool-ef/"><u>New In 2024, In This Article, We Will Introduce some Cool Video Effects that You Can Use in Filmora as Well as the Step-by-Step Guide About How to Add Cool Effects to Videos for Making a Cool Edit with This Cool V</u></a></li>
-<li><a href="https://fox-links.techidaily.com/peak-performance-memory-for-a7s-ii-for-2024/"><u>Peak Performance Memory for A7S II for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/revitalize-your-pcs-performance-with-a-fresh-graphics-driver-update-instructions-by-yl-software/"><u>Revitalize Your PC's Performance with a Fresh Graphics Driver Update | Instructions by YL Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-identifying-the-reasons-behind-your-computers-frequent-crashes-expert-insights-from-yl-computing/"><u>Troubleshooting Guide: Identifying the Reasons Behind Your Computer's Frequent Crashes - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultra-hd-wallarts-for-enthusiasts-the-iconic-bentley-continental-gtc-conversion-edition-imagery-collection/"><u>Ultra HD WALLARTS for Enthusiasts: The Iconic Bentley Continental GTC Conversion Edition Imagery Collection</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/unraveling-the-truth-is-adult-content-online-a-breeding-ground-for-malware/"><u>Unraveling the Truth: Is Adult Content Online a Breeding Ground for Malware?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-20-greatest-sandbox-experiences-ever-made-for-2024/"><u>[Updated] 20 Greatest Sandbox Experiences Ever Made for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-and-user-friendly-voice-editing-apps-for-2024/"><u>[Updated] Innovative and User-Friendly Voice Editing Apps for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225605052-gifmpeg-movavi/"><u>在線自由下的GIF转换为MPEG - 利用 Movavi 解决方案</u></a></li>
+<li><a href="https://fox-info.techidaily.com/apple-m1-demystified-the-tech-leap-forward/"><u>Apple M1 Demystified The Tech Leap Forward</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fixing-the-bsod-blue-screen-of-death-issue-comprehensive-guide-by-yl-computing/"><u>Fixing the BSOD (Blue Screen of Death) Issue: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-from-flat-to-form-the-journey-of-a-text-into-3d/"><u>In 2024, From Flat to Form The Journey of a Text Into 3D</u></a></li>
+<li><a href="https://win-unique.techidaily.com/protecting-your-bitcoin-and-altcoins-comprehensive-guide-to-secure-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin and Altcoins: Comprehensive Guide to Secure Storage by YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-data-with-passwords-tips-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Data with Passwords - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-implementing-parental-restrictions-via-yls-computing-tools/"><u>Step-by-Step Tutorial on Implementing Parental Restrictions via YL's Computing Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Reviews and Guides</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-techniques-for-optimal-font-management-in-your-pc-insights-from-yl-computing/"><u>Top Techniques for Optimal Font Management in Your PC: Insights From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-elden-ring-online-play-issues/"><u>Troubleshooting: Fixing Elden Ring Online Play Issues</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/windows-10-vmwindows-11/"><u>Windows 10 VMからWindows 11へのスムーズなアップグレード手順</u></a></li>
+<li><a href="https://win-unique.techidaily.com/yl-computings-wataru-hibiki-collection-stunning-graphics-and-wallpaper-pack-explore-by-yl-software/"><u>YL Computing's Wataru Hibiki Collection: Stunning Graphics & Wallpaper Pack - Explore by YL Software</u></a></li>
 </ul></div>
 
