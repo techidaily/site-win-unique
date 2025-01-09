@@ -1,7 +1,7 @@
 ---
 title: Comment Réparer Le Fichier D'Historique Sur Windows
-date: 2024-12-26T16:04:45.170Z
-updated: 2024-12-29T18:21:47.855Z
+date: 2025-01-04T21:01:41.915Z
+updated: 2025-01-08T21:10:13.989Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a32cd1145e8a4d708fb6bf52.png
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -76,19 +80,11 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3\. Recover selected files**
 
@@ -106,16 +102,24 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
@@ -126,16 +130,12 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
@@ -156,23 +156,19 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -199,13 +195,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -236,10 +232,14 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,24 +256,14 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-does-imovie-set-dimensions-for-2024/"><u>[New] How Does iMovie Set Dimensions for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nveiling-top-freefire-strategies-on-youtube-for-2024/"><u>[New] Unveiling Top FreeFire Strategies on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unbeatable-tag-analyzers-for-facebook-twitter-and-instagram-sites/"><u>[Updated] 2024 Approved Unbeatable Tag Analyzers for Facebook, Twitter & Instagram Sites</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-chuckle-chronicles-top-youtube-humorists-masterpieces/"><u>[Updated] In 2024, Chuckle Chronicles Top YouTube Humorists' Masterpieces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prestigious-zooids-introduction-spotlight/"><u>[Updated] Prestigious Zooids Introduction Spotlight</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-definitive-guide-to-live-streaming-platforms-obs-edition-for-2024/"><u>[Updated] The Definitive Guide to Live Streaming Platforms - OBS Edition for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-stunning-gumball-universe-collection-high-quality-wallpapers-and-backgrounds-your-latest-visual-treats-from-yl-computings-vault/"><u>1. Stunning Gumball Universe Collection: High-Quality WALLPAPERS & BACKGROUNDS - Your Latest Visual Treats From YL Computing's Vault</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-sparking-interest-with-the-top-8-most-effective-youtube-thumbnails/"><u>2024 Approved Sparking Interest with the Top 8 Most Effective YouTube Thumbnails</u></a></li>
-<li><a href="https://win-unique.techidaily.com/configuring-your-printers-options-through-windows-control-panel-a-step-by-step-guide-with-yl-computing/"><u>Configuring Your Printer's Options Through Windows Control Panel: A Step-by-Step Guide with YL Computing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/discover-everything-in-stardews-hidden-gem-ginger-isle/"><u>Discover Everything in Stardew's Hidden Gem, Ginger Isle</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-can-you-verify-your-graphics-cards-compatibility-with-windows/"><u>How Can You Verify Your Graphics Card's Compatibility With Windows</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-fix-a-non-printing-printer-tips-and-solutions-by-yl-software-experts/"><u>How to Fix a Non-Printing Printer: Tips and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-well-does-windows-defender-provide-instant-malware-protection-expert-analysis-by-yl-software/"><u>How Well Does Windows Defender Provide Instant Malware Protection? Expert Analysis by YL Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resetting-your-memory-recover-forgotten-passwords-with-windows-control-panel-guidance-by-yl-technologies-yl-productivity-tools/"><u>Resetting Your Memory: Recover Forgotten Passwords with Windows Control Panel Guidance by YL Technologies | YL Productivity Tools</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-connectivity-problems-linking-your-windows-pc-with-an-outer-hard-disk-expert-tips-from-yl-computing/"><u>Resolving Connectivity Problems: Linking Your Windows PC with an Outer Hard Disk - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-eliminating-dust-in-computer-hardware-by-yl-software-experts/"><u>Step-by-Step Guide: Eliminating Dust in Computer Hardware by YL Software Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/understanding-the-detection-capabilities-of-windows-defender-comprehensive-insight-by-yl-computing/"><u>Understanding the Detection Capabilities of Windows Defender: Comprehensive Insight by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unleash-your-dj-potential-using-dex-3-pro-tools-guided-by-our-featured-expert-at-pcdj-studio/"><u>Unleash Your DJ Potential Using DEX 3 Pro Tools, Guided by Our Featured Expert at PCDJ Studio!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-comprehensive-guide-to-instagram-edits-for-professionals-for-2024/"><u>[Updated] A Comprehensive Guide to Instagram Edits for Professionals for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1732515881694-yl-yl/"><u>在植入式广告中各案件创意配置：YL计算机的详解 - YL软件</u></a></li>
+<li><a href="https://win-unique.techidaily.com/choosing-the-right-security-is-windows-defender-enough-or-should-you-consider-an-alternative-antivirus-solution/"><u>Choosing the Right Security: Is Windows Defender Enough, Or Should You Consider an Alternative Antivirus Solution?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/does-my-scanner-sync-with-windows-smoothly-explore-solutions-by-yl-software/"><u>Does My Scanner Sync with Windows Smoothly? Explore Solutions by YL Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-the-latest-hit-songs-and-videos-access-top-charts-downloads-at-the-video-pool-by-pcdj-today/"><u>Get the Latest Hit Songs & Videos | Access Top Charts Downloads at [The Video Pool] by PCDJ Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-spark-10-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Spark 10 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/overcoming-lags-and-delays-how-to-boost-your-computers-speed-with-tips-from-yl-software-experts/"><u>Overcoming Lags and Delays: How to Boost Your Computer's Speed with Tips From YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/schneiden-von-videos-im-vlc-media-player-verstehen-professionelle-tipps-fur-die-optimierung/"><u>Schneiden Von Videos Im VLC Media Player Verstehen - Professionelle Tipps Für Die Optimierung</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-bokeh-magic-top-rated-apps-for-ios-and-android-phones/"><u>Updated In 2024, Bokeh Magic Top-Rated Apps for iOS and Android Phones</u></a></li>
 </ul></div>
 

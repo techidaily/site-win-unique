@@ -1,7 +1,7 @@
 ---
 title: "Crucial Alert: Avoid Updating DEX 3 & LYRX on Macs with Catalina - Protect Your Software!"
-date: 2024-12-23T18:02:07.146Z
-updated: 2024-12-29T23:55:13.512Z
+date: 2025-01-07T01:26:18.670Z
+updated: 2025-01-09T07:13:16.755Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] In 2024, Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-maintaining-social-standing-on-facebook-10-must-know-secrets/"><u>[Updated] 2024 Approved Maintaining Social Standing on Facebook 10 Must-Know Secrets</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-effective-techniques-for-removing-dust-from-your-scanner-tips-by-yl-computing/"><u>1. Effective Techniques for Removing Dust From Your Scanner - Tips by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-irritating-speaker-crackle-issue-on-your-windows-107-device-solved/"><u>Fixing the Irritating Speaker Crackle Issue on Your Windows 10/7 Device – Solved</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2v-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2V in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-vanguard-not-initialized-issue-on-valorant/"><u>How to Fix 'Vanguard Not Initialized' Issue on Valorant</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>In 2024, An Exclusive Guide to Deck-to-Deck Technology DuRecorder</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-completely-remove-your-instagram-footprint-forever/"><u>In 2024, How to Completely Remove Your Instagram Footprint Forever</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-with-ease-insights-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers with Ease - Insights From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-resolving-wi-fi-connectivity-issues-with-yl-software-insights/"><u>Troubleshooting Guide: Resolving Wi-Fi Connectivity Issues with YL Software Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-the-typical-path-discovering-the-default-storage-for-windows-registry-files/"><u>Unveiling the Typical Path: Discovering the Default Storage for Windows Registry Files</u></a></li>
-<li><a href="https://win-unique.techidaily.com/why-is-my-computer-running-slowly-and-how-can-i-fix-it-expert-advice-by-yl-computing/"><u>Why Is My Computer Running Slowly and How Can I Fix It? - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/will-a-fresh-start-wipe-out-all-files-on-my-computer-exploring-safe-options-by-yl-software/"><u>Will a Fresh Start Wipe Out All Files on My Computer? Exploring Safe Options by YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beginning-a-successful-item-evaluation-video-series/"><u>[New] Beginning a Successful Item Evaluation Video Series</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-digital-pioneers-handbook-making-a-mark-in-gif-artistry-for-2024/"><u>[New] Digital Pioneers' Handbook Making a Mark in GIF Artistry for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/"><u>[New] Unveil Image by Removing Surroundings for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/adjusting-your-pcs-display-settings-a-step-by-step-guide-on-changing-screen-resolution-in-windows-tech-tips-by-yl/"><u>Adjusting Your PC's Display Settings: A Step-by-Step Guide on Changing Screen Resolution in Windows - Tech Tips by YL</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boosting-your-favorite-programs-performance-resource-allocation-tips-inside-the-control-panel-guided-by-yl-computing/"><u>Boosting Your Favorite Program's Performance: Resource Allocation Tips Inside the Control Panel - Guided by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>Free Graphic Goldmine A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y78plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y78+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-the-exchange-of-digital-assets-with-yl-computing/"><u>Mastering the Exchange of Digital Assets with YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-mobile-chatgpt/"><u>Navigating the World of Mobile ChatGPT</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-detection-issues-in-windows-steps-and-tips-from-yl-computing/"><u>Resolving Network Adapter Detection Issues in Windows: Steps & Tips From YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-to-refresh-your-amd-video-card-software/"><u>Simple Guide to Refresh Your AMD Video Card Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/tailor-made-mouse-configuration-for-windows-users-expert-advice-by-yl-computings-window-control-methodology/"><u>Tailor-Made Mouse Configuration for Windows Users - Expert Advice by YL Computing's Window Control Methodology</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-and-fixing-your-windows-pcs-sound-issues-expert-guide-by-yl-computing/"><u>Troubleshooting & Fixing Your Windows PC's Sound Issues: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/upgrading-essential-components-made-easy-a-detailed-walkthrough-for-windows-hardware-updates-by-yl-computing-expert-advice-from-yl-software-professionals/"><u>Upgrading Essential Components Made Easy: A Detailed Walkthrough for Windows Hardware Updates by YL Computing | Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/xsplit-reviews-in-depth-game-split-analysis/"><u>XSplit Reviews In-Depth Game Split Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized"
-date: 2024-12-27T02:56:34.971Z
-updated: 2024-12-29T17:52:46.156Z
+date: 2025-01-06T17:39:49.338Z
+updated: 2025-01-08T20:28:56.272Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 500 Features:
@@ -63,7 +63,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 _Have questions about the **Hercules DJ Control Inpulse 500** and how it works with our DEX 3 **DJ software**? Please leave them in the comments section below_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,18 +85,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/07/29894\_hercules\_audio\_dj
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-affinity-photo-expertise-review-guide/"><u>[New] 2024 Approved Affinity Photo Expertise Review Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-twisting-the-tale-a-comprehensively-dual-angled-approach-for-insta-posts/"><u>[New] In 2024, Twisting the Tale A Comprehensively Dual-Angled Approach for Insta Posts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly/"><u>[Updated] Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mkv-format-conversion-effortless-by-movavi/"><u>Free Online MKV Format Conversion - Effortless by Movavi</u></a></li>
-<li><a href="https://win-unique.techidaily.com/high-definition-iron-man-themed-wallpapers-and-backgrounds-by-yl-software/"><u>High-Definition Iron Man Themed Wallpapers and Backgrounds by YL Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-iphones-silhouette-potential/"><u>In 2024, Unveiling iPhone's Silhouette Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-employment-landscape-via-chatgpt/"><u>Mastering the Employment Landscape via ChatGPT</u></a></li>
-<li><a href="https://win-unique.techidaily.com/protecting-your-bitcoin-and-altcoins-comprehensive-guide-to-secure-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin and Altcoins: Comprehensive Guide to Secure Storage by YL Software Solutions</u></a></li>
-<li><a href="https://win-unique.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-data-with-passwords-tips-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Data with Passwords - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-implementing-parental-restrictions-via-yls-computing-tools/"><u>Step-by-Step Tutorial on Implementing Parental Restrictions via YL's Computing Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-gaming-smartphones-expert-picks-and-reviews/"><u>Top 5 Gaming Smartphones : Expert Picks & Reviews</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-techniques-for-optimal-font-management-in-your-pc-insights-from-yl-computing/"><u>Top Techniques for Optimal Font Management in Your PC: Insights From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yl-computings-wataru-hibiki-collection-stunning-graphics-and-wallpaper-pack-explore-by-yl-software/"><u>YL Computing's Wataru Hibiki Collection: Stunning Graphics & Wallpaper Pack - Explore by YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-wolcen-lords-of-mayhem-not-launching/"><u>[Solved] Wolcen: Lords of Mayhem Not Launching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-value-asmr-gear-premium-sound-affordably-priced/"><u>2024 Approved Top Value ASMR Gear Premium Sound Affordably Priced</u></a></li>
+<li><a href="https://discover-great.techidaily.com/icloud/"><u>完全ガイド：パソコン上のすべての画像をiCloudへ簡単無失敗でバックアップ！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-avoiding-oversimplified-text-summaries-by-chatbots/"><u>Caution: Avoiding Oversimplified Text Summaries by ChatBots</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/handbrake-unterstutzung-fur-av1-codec-and-umwandlung-von-av1-dateien/"><u>HandBrake Unterstützung Für AV1 Codec & Umwandlung Von AV1 Dateien</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-fix-an-external-hard-drive-recognized-as-an-unknown-usb-device-6-effective-methods/"><u>How to Fix an External Hard Drive Recognized as an Unknown USB Device: 6 Effective Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-find-n3-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Find N3 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-von-windows-defender-unter-windows-11/"><u>Schritt-Für-Schritt Anleitung Zum Einrichten Von Windows Defender Unter Windows 11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/sicherstellen-sie-mit-aomei-backupper-den-schutz-ihrer-mails-ein-umfassender-leitfaden/"><u>Sicherstellen Sie Mit AOMEI Backupper Den Schutz Ihrer Mails – Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simplifying-video-recording-with-screencastify-for-2024/"><u>Simplifying Video Recording with Screencastify for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/soluzione-per-aggiornare-o-scaricare-windows-11-quando-e-bloccato-impara-le-4-maniere-di-risolvere/"><u>Soluzione per Aggiornare O Scaricare Windows 11 Quando È Bloccato: Impara Le 4 Maniere Di Risolvere</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-converting-songs-into-ringtones-for-your-iphone/"><u>Step-by-Step Tutorial: Converting Songs Into Ringtones for Your iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ounds-for-video-creators-royalty-free-options/"><u>Top Sounds for Video Creators Royalty-Free Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-ten-lady-gamers-on-youtube-rising-for-2024/"><u>Top Ten Lady Gamers on YouTube Rising for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unlocking-the-past-discover-how-to-locate-previous-system-restore-points-in-windows-11/"><u>Unlocking the Past: Discover How to Locate Previous System Restore Points in Windows 11</u></a></li>
 </ul></div>
 

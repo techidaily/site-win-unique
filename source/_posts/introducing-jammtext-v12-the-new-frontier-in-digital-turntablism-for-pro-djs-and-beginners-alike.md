@@ -1,7 +1,7 @@
 ---
 title: Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike
-date: 2024-12-23T17:23:06.293Z
-updated: 2024-12-29T22:55:12.455Z
+date: 2025-01-08T10:18:33.708Z
+updated: 2025-01-08T21:17:26.285Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,20 +70,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-20-greatest-sandbox-experiences-ever-made-for-2024/"><u>[Updated] 20 Greatest Sandbox Experiences Ever Made for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-innovative-and-user-friendly-voice-editing-apps-for-2024/"><u>[Updated] Innovative and User-Friendly Voice Editing Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225605052-gifmpeg-movavi/"><u>在線自由下的GIF转换为MPEG - 利用 Movavi 解决方案</u></a></li>
-<li><a href="https://fox-info.techidaily.com/apple-m1-demystified-the-tech-leap-forward/"><u>Apple M1 Demystified The Tech Leap Forward</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fixing-the-bsod-blue-screen-of-death-issue-comprehensive-guide-by-yl-computing/"><u>Fixing the BSOD (Blue Screen of Death) Issue: Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-from-flat-to-form-the-journey-of-a-text-into-3d/"><u>In 2024, From Flat to Form The Journey of a Text Into 3D</u></a></li>
-<li><a href="https://win-unique.techidaily.com/protecting-your-bitcoin-and-altcoins-comprehensive-guide-to-secure-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin and Altcoins: Comprehensive Guide to Secure Storage by YL Software Solutions</u></a></li>
-<li><a href="https://win-unique.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-data-with-passwords-tips-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Data with Passwords - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-implementing-parental-restrictions-via-yls-computing-tools/"><u>Step-by-Step Tutorial on Implementing Parental Restrictions via YL's Computing Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Reviews and Guides</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-techniques-for-optimal-font-management-in-your-pc-insights-from-yl-computing/"><u>Top Techniques for Optimal Font Management in Your PC: Insights From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-elden-ring-online-play-issues/"><u>Troubleshooting: Fixing Elden Ring Online Play Issues</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/windows-10-vmwindows-11/"><u>Windows 10 VMからWindows 11へのスムーズなアップグレード手順</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yl-computings-wataru-hibiki-collection-stunning-graphics-and-wallpaper-pack-explore-by-yl-software/"><u>YL Computing's Wataru Hibiki Collection: Stunning Graphics & Wallpaper Pack - Explore by YL Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-snapchat-intro-video-breakdown-size-format-duration/"><u>[New] 2024 Approved SnapChat Intro Video Breakdown Size, Format, Duration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/harting-the-course-to-youtube-fame-strategic-video-release-frequency/"><u>[New] Charting the Course to YouTube Fame Strategic Video Release Frequency</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-guidelines-for-creating-emotional-connection-in-client-spots/"><u>[Updated] In 2024, Essential Guidelines for Creating Emotional Connection in Client Spots</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhancing-connectivity-ios-photo-library-and-snapchat-merge/"><u>2024 Approved Enhancing Connectivity IOS Photo Library & Snapchat Merge</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-screen-recording-mi-11-edition/"><u>2024 Approved Mastering Screen Recording Mi 11 Edition</u></a></li>
+<li><a href="https://win-unique.techidaily.com/5-best-free-tools-to-replace-rufus-in-various-windows-os-versions-including-win111087/"><u>5 Best Free Tools to Replace Rufus in Various Windows OS Versions (Including Win11/10/8/7)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/jpeg2tiff-movavi/"><u>網路直接免費過渡JPEG2成TIFF格式 - Movavi 自動化工具</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comment-construire-un-disc-de-repairement-pour-windows-11-guide-etape-par-etape/"><u>Comment Construire Un Disc De Repairement Pour Windows 11 - Guide Étape Par Étape</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effective-strategies-to-clean-up-your-pc-by-deleting-windowsold-on-windows-11/"><u>Effective Strategies to Clean Up Your PC by Deleting Windows.old on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-mastery-over-picsart-the-ultimate-users-guide/"><u>In 2024, Complete Mastery over PicsArt The Ultimate User's Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/outlook5/"><u>Outlookでメール受信失敗したら？解決策トップ5をご紹介</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728481104824-sd/"><u>SDカードで失われたスマホ写真を救う方法：復元手順ガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-comprehensive-roadmap-to-effective-reddit-sharing-for-2024/"><u>The Comprehensive Roadmap to Effective Reddit Sharing for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-5-methods-to-resolve-itunes-inability-to-sync-your-iphones-photos/"><u>Top 5 Methods to Resolve iTunes' Inability to Sync Your iPhone's Photos</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-defenderwindows-1110/"><u>Windows Defenderを無効にしてしまうWindows 11/10の謎解き：どうやって元に戻せる？</u></a></li>
 </ul></div>
 
