@@ -1,7 +1,7 @@
 ---
 title: Denon DN-MC6000 Mk II DEX 3 Controller Preset Library
-date: 2025-01-06T04:59:14.492Z
-updated: 2025-01-08T22:55:48.549Z
+date: 2025-01-09T21:03:12.177Z
+updated: 2025-01-15T06:21:20.289Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,22 +56,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-navigating-the-technicalities-recording-and-saving-your-role-play-experieninas-on-apple-devices/"><u>[Updated] 2024 Approved Navigating the Technicalities Recording & Saving Your Role-Play Experieninas on Apple Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-5-essential-android-image-tweakers-for-2024/"><u>[Updated] 5 Essential Android Image Tweakers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-sonic-selections-fine-tuning-your-instagram-video-soundtrack/"><u>[Updated] Sonic Selections Fine-Tuning Your Instagram Video Soundtrack</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-experience-beyond-reality-choosing-the-premier-10-headsets-for-360-video-on-pc/"><u>2024 Approved Experience Beyond Reality Choosing the Premier 10 Headsets for 360 Video on PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1732518311988-yl-u/"><u>在YL计算中，每一步都是为了建立—-U兄万亿伟大的孤独探索之路</u></a></li>
-<li><a href="https://win-unique.techidaily.com/accelerate-your-online-experience-expert-advice-on-enhancing-internet-speed-yl-computings-ultimate-guide/"><u>Accelerate Your Online Experience: Expert Advice on Enhancing Internet Speed - YL Computing's Ultimate Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/boost-your-machines-speed-expert-tips-from-yl-software/"><u>Boost Your Machine’s Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-top-smart-audio-devices-dominating/"><u>Discover the Top Smart Audio Devices Dominating</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ensuring-your-memorys-reliability-tips-from-yl-software-experts/"><u>Ensuring Your Memory's Reliability: Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mountain-wallpapersbackground-images-and-the-brand-name-while-emphasizing-quality-with-terms-like-high-definition-or-panoramic/"><u>Mountain, Wallpapers/Background Images, and the Brand Name, While Emphasizing Quality with Terms Like High-Definition or Panoramic.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/protect-your-visual-performance-signs-and-prevention-of-graphics-card-issues-insights-from-yl-software-expertise/"><u>Protect Your Visual Performance: Signs and Prevention of Graphics Card Issues - Insights From YL Software Expertise</u></a></li>
-<li><a href="https://win-unique.techidaily.com/solving-your-intermittent-internet-woes-with-tips-from-yl-software-professionals/"><u>Solving Your Intermittent Internet Woes with Tips From YL Software Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-significance-of-gpts-industrial-applications/"><u>The Significance of GPT's Industrial Applications</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-ranked-apps-and-software-for-editing-photo-bg-colors/"><u>Top-Ranked Apps & Software for Editing Photo Bg Colors</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yl-computing-solutions-for-repairing-hard-drives-failure-to-boot-issues/"><u>YL Computing Solutions for Repairing Hard Drives Failure to Boot Issues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/vpjmp4/"><u>フリーヴィデオプレーサーでの変換: VPJ形式からMP4へ</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-crafting-professional-captions-with-top-online-aids-and-platforms-for-2024/"><u>[New] Crafting Professional Captions with Top Online Aids and Platforms for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-maximize-your-hard-drive-capacity-and-speed-up-pc-expert-tips-yl-computings-guide/"><u>1. Maximize Your Hard Drive Capacity & Speed Up PC: Expert Tips - YL Computing's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/banishing-wow-crash-code-132-from-windows-11/"><u>Banishing WoW Crash Code 132 From Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/build-a-custom-facebook-coverage-for-2024/"><u>Build a Custom Facebook Coverage for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/diagnosing-audio-glitches-in-video-games-is-your-sound-card-at-fault-expert-advice-from-yl-software/"><u>Diagnosing Audio Glitches in Video Games: Is Your Sound Card at Fault? Expert Advice From YL Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/dont-miss-out-4-best-ways-to-get-filmora-discount-codes-and-offers/"><u>Dont Miss Out! 4 Best Ways to Get Filmora Discount Codes and Offers</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fixing-damaged-windows-registry-entries-a-step-by-step-guide/"><u>Fixing Damaged Windows Registry Entries: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Phones with/without a PC</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-restore-or-reboot-your-windows-os-tips-by-yl-computing/"><u>How to Restore or Reboot Your Windows OS - Tips by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/speeding-up-your-pc-critical-functions-to-disable-or-adjust-for-optimal-efficiency-tips-from-yl-software-experts/"><u>Speeding Up Your PC: Critical Functions to Disable or Adjust for Optimal Efficiency – Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-data.techidaily.com/1732518189940-uyl-computingyl-software/"><u>U兄与万亿孤独之路：从修心明道的视角出发，YL Computing和YL Software原创专栏深度解读</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unraveling-history-how-ancient-china-birthed-paper-and-who-behind-it-yl-software-solutions/"><u>Unraveling History: How Ancient China Birthed Paper & Who Behind It - YL Software Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yahoo4/"><u>Yahooメールフォルダバックアップには4つの効果的な手法があります</u></a></li>
+<li><a href="https://win-unique.techidaily.com/yls-guide-to-selecting-an-ideal-cryptocurrency-venture-for-savvy-investors/"><u>YL's Guide to Selecting an Ideal Cryptocurrency Venture for Savvy Investors</u></a></li>
 </ul></div>
 

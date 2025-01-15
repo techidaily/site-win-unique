@@ -1,7 +1,7 @@
 ---
 title: "Crucial Alert: Avoid Updating DEX 3 & LYRX on Macs with Catalina - Protect Your Software!"
-date: 2025-01-07T01:26:18.670Z
-updated: 2025-01-09T07:13:16.755Z
+date: 2025-01-10T02:54:41.888Z
+updated: 2025-01-15T01:16:32.058Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-beginning-a-successful-item-evaluation-video-series/"><u>[New] Beginning a Successful Item Evaluation Video Series</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-digital-pioneers-handbook-making-a-mark-in-gif-artistry-for-2024/"><u>[New] Digital Pioneers' Handbook Making a Mark in GIF Artistry for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/"><u>[New] Unveil Image by Removing Surroundings for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjusting-your-pcs-display-settings-a-step-by-step-guide-on-changing-screen-resolution-in-windows-tech-tips-by-yl/"><u>Adjusting Your PC's Display Settings: A Step-by-Step Guide on Changing Screen Resolution in Windows - Tech Tips by YL</u></a></li>
-<li><a href="https://win-unique.techidaily.com/boosting-your-favorite-programs-performance-resource-allocation-tips-inside-the-control-panel-guided-by-yl-computing/"><u>Boosting Your Favorite Program's Performance: Resource Allocation Tips Inside the Control Panel - Guided by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>Free Graphic Goldmine A Roadmap to Premium Visuals</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y78plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y78+ FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-the-exchange-of-digital-assets-with-yl-computing/"><u>Mastering the Exchange of Digital Assets with YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-mobile-chatgpt/"><u>Navigating the World of Mobile ChatGPT</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-detection-issues-in-windows-steps-and-tips-from-yl-computing/"><u>Resolving Network Adapter Detection Issues in Windows: Steps & Tips From YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-guide-to-refresh-your-amd-video-card-software/"><u>Simple Guide to Refresh Your AMD Video Card Software</u></a></li>
-<li><a href="https://win-unique.techidaily.com/tailor-made-mouse-configuration-for-windows-users-expert-advice-by-yl-computings-window-control-methodology/"><u>Tailor-Made Mouse Configuration for Windows Users - Expert Advice by YL Computing's Window Control Methodology</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-and-fixing-your-windows-pcs-sound-issues-expert-guide-by-yl-computing/"><u>Troubleshooting & Fixing Your Windows PC's Sound Issues: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/upgrading-essential-components-made-easy-a-detailed-walkthrough-for-windows-hardware-updates-by-yl-computing-expert-advice-from-yl-software-professionals/"><u>Upgrading Essential Components Made Easy: A Detailed Walkthrough for Windows Hardware Updates by YL Computing | Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/xsplit-reviews-in-depth-game-split-analysis/"><u>XSplit Reviews In-Depth Game Split Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mystical-video-pause-hints/"><u>[New] Mystical Video Pause Hints</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-one-device-one-storage-transferring-files-smoothly/"><u>[Updated] One Device, One Storage Transferring Files Smoothly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-iphone-podcast-listening/"><u>2024 Approved The Art of iPhone Podcast Listening</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acurite-pro-model-01036-explored-streamlined-configuration-and-robust-framework/"><u>AcuRite Pro (Model 01036) Explored: Streamlined Configuration & Robust Framework</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enhanced-mixing-capabilities-dex-3-now-fully-supports-the-impulse-500-controller-by-hercules-pcdj-revolutionized/"><u>Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-galaxy-note-9-a-comprehensive-guide-to-the-premier-large-display-smartphone/"><u>Expert Analysis of the Samsung Galaxy Note 9: A Comprehensive Guide to the Premier Large Display Smartphone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/exploring-methods-to-assess-your-pcs-hardware-health-a-guide-by-yl-computing/"><u>Exploring Methods to Assess Your PC's Hardware Health: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/most-frequent-memory-mishaps-in-pcs-a-deep-dive-by-experts-at-yl-software/"><u>Most Frequent Memory Mishaps in PCs: A Deep Dive by Experts at YL Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimize-your-gopro-shoot-for-2024/"><u>Optimize Your GoPro Shoot for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-dll-not-found-issues-in-windows-7-10-with-simple-steps-insights-by-yl-computing/"><u>Resolving 'DLL Not Found' Issues in Windows 7-10 with Simple Steps - Insights by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-connectivity-problems-a-step-by-step-guide-tips-from-yl-computing/"><u>Resolving Network Adapter Connectivity Problems: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/understanding-the-objectives-behind-the-nanchang-incident-insights-from-yl-computing-and-software-solutions/"><u>Understanding the Objectives Behind the Nanchang Incident: Insights From YL Computing & Software Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Latest JammText Update Released: Version 1.3 with Enhanced Capabilities"
-date: 2025-01-06T05:37:53.049Z
-updated: 2025-01-09T02:50:58.349Z
+date: 2025-01-10T18:44:34.556Z
+updated: 2025-01-14T16:59:31.169Z
 tags:
   - product
 categories:
@@ -28,20 +28,20 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Email to screen
 
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Scan to screen
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 64 bit and Mojave Support
@@ -49,7 +49,7 @@ With the new email to screen feature we have also added an auto generated QR cod
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Voting coming soon
@@ -57,7 +57,7 @@ JammText is now 64 bit for Mac which improves its performance. Also, JammText is
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Instagram discontinued
@@ -68,7 +68,7 @@ Upgrade today for free to get the best version of JammText to date!
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,17 +90,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-roguelikes-roots-and-their-rebirth-as-roguiles/"><u>[New] 2024 Approved Roguelikes' Roots & Their Rebirth as Roguiles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-endless-preservation-of-instagrams-free-and-easy/"><u>[New] Endless Preservation of Instagrams, Free & Easy</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits/"><u>[New] Professional Filmmaking Secrets The Ultimate Guide to 11 Color Edits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[Updated] 2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-effortless-video-magic-the-no-cost-guide/"><u>[Updated] Effortless Video Magic The No-Cost Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-strategies-for-clearer-facebook-live-footage-viewing/"><u>2024 Approved Strategies for Clearer Facebook Live Footage Viewing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728510421709-mov4/"><u>失われたMOVデータを取り戻すには？：4選びの方法</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-management-of-phone-backups-with-aomei-fonetool/"><u>Effective Management of Phone Backups with AOMEI FoneTool</u></a></li>
-<li><a href="https://win-unique.techidaily.com/story-3-the-skip-lesions-misconception/"><u>Story 3: The Skip Lesions Misconception</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unable-to-locate-webpage-error-code-404-displayed/"><u>Unable to Locate Webpage: Error Code 404 Displayed</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728465914284-windows-11/"><u>Windows 11で効果的に無効化された自動更新を修正する方法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-portraying-paradoxes-with-teleportation-cgi/"><u>[New] Portraying Paradoxes with Teleportation CGI</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-syncing-songs-to-social-networks-iphonesandroid-approach-for-2024/"><u>[New] Syncing Songs to Social Networks IPhones/Android Approach for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-picks-procuring-start-up-youtube-channel-monetization-platforms/"><u>[New] Top Picks Procuring Start-Up YouTube Channel Monetization Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-echoharvest-app-reviews-step-by-step-guide/"><u>[Updated] In 2024, EchoHarvest App Reviews Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-s24plus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy S24+ FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-unique.techidaily.com/accelerate-your-online-experience-expert-advice-on-enhancing-internet-speed-yl-computings-ultimate-guide/"><u>Accelerate Your Online Experience: Expert Advice on Enhancing Internet Speed - YL Computing's Ultimate Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/boost-your-machines-speed-expert-tips-from-yl-software/"><u>Boost Your Machine’s Speed: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/configuring-your-printers-options-through-windows-control-panel-a-step-by-step-guide-with-yl-computing/"><u>Configuring Your Printer's Options Through Windows Control Panel: A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vating-a-visionary-channel-with-best-video-ideas-for-2024/"><u>Cultivating a Visionary Channel with Best Video Ideas for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ensuring-your-memorys-reliability-tips-from-yl-software-experts/"><u>Ensuring Your Memory's Reliability: Tips From YL Software Experts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1722984134817-finding-the-perfect-guard-for-your-macbook-pro-13-discover-the-strengths-of-a-fintie-sleeve/"><u>Finding the Perfect Guard for Your MacBook Pro 13? Discover the Strengths of a Fintie Sleeve!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-embed-codegpt-within-your-visual-studio-code-setup/"><u>How to Embed CodeGPT Within Your Visual Studio Code Setup</u></a></li>
+<li><a href="https://win-unique.techidaily.com/protect-your-visual-performance-signs-and-prevention-of-graphics-card-issues-insights-from-yl-software-expertise/"><u>Protect Your Visual Performance: Signs and Prevention of Graphics Card Issues - Insights From YL Software Expertise</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-your-intermittent-internet-woes-with-tips-from-yl-software-professionals/"><u>Solving Your Intermittent Internet Woes with Tips From YL Software Professionals</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-to-add-music-to-final-cut-pro/"><u>Updated How to Add Music to Final Cut Pro?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/yl-computing-solutions-for-repairing-hard-drives-failure-to-boot-issues/"><u>YL Computing Solutions for Repairing Hard Drives Failure to Boot Issues</u></a></li>
 </ul></div>
 
