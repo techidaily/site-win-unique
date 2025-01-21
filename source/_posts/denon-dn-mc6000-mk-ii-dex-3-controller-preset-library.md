@@ -1,7 +1,7 @@
 ---
 title: Denon DN-MC6000 Mk II DEX 3 Controller Preset Library
-date: 2025-01-09T21:03:12.177Z
-updated: 2025-01-15T06:21:20.289Z
+date: 2025-01-17T19:49:02.703Z
+updated: 2025-01-20T16:14:10.340Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,20 +56,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-crafting-professional-captions-with-top-online-aids-and-platforms-for-2024/"><u>[New] Crafting Professional Captions with Top Online Aids and Platforms for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-maximize-your-hard-drive-capacity-and-speed-up-pc-expert-tips-yl-computings-guide/"><u>1. Maximize Your Hard Drive Capacity & Speed Up PC: Expert Tips - YL Computing's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-wow-crash-code-132-from-windows-11/"><u>Banishing WoW Crash Code 132 From Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/build-a-custom-facebook-coverage-for-2024/"><u>Build a Custom Facebook Coverage for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/diagnosing-audio-glitches-in-video-games-is-your-sound-card-at-fault-expert-advice-from-yl-software/"><u>Diagnosing Audio Glitches in Video Games: Is Your Sound Card at Fault? Expert Advice From YL Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/dont-miss-out-4-best-ways-to-get-filmora-discount-codes-and-offers/"><u>Dont Miss Out! 4 Best Ways to Get Filmora Discount Codes and Offers</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fixing-damaged-windows-registry-entries-a-step-by-step-guide/"><u>Fixing Damaged Windows Registry Entries: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Phones with/without a PC</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-restore-or-reboot-your-windows-os-tips-by-yl-computing/"><u>How to Restore or Reboot Your Windows OS - Tips by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/speeding-up-your-pc-critical-functions-to-disable-or-adjust-for-optimal-efficiency-tips-from-yl-software-experts/"><u>Speeding Up Your PC: Critical Functions to Disable or Adjust for Optimal Efficiency – Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-data.techidaily.com/1732518189940-uyl-computingyl-software/"><u>U兄与万亿孤独之路：从修心明道的视角出发，YL Computing和YL Software原创专栏深度解读</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unraveling-history-how-ancient-china-birthed-paper-and-who-behind-it-yl-software-solutions/"><u>Unraveling History: How Ancient China Birthed Paper & Who Behind It - YL Software Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yahoo4/"><u>Yahooメールフォルダバックアップには4つの効果的な手法があります</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yls-guide-to-selecting-an-ideal-cryptocurrency-venture-for-savvy-investors/"><u>YL's Guide to Selecting an Ideal Cryptocurrency Venture for Savvy Investors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-digital-dissection-the-vll-review-process-for-2024/"><u>[New] Digital Dissection The VLL Review Process for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-key-elements-to-successful-mobile-app-design/"><u>[Updated] Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728499822610-windows-10/"><u>遭逢 Windows 10 更新失敗？給你最有效的修正方法列表</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comprehensive-tutorial-harnessing-usmt-for-seamless-migration-to-windows-11-plus-a-viable-substitute/"><u>Comprehensive Tutorial: Harnessing USMT for Seamless Migration to Windows 11 - Plus a Viable Substitute!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-ace-2-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Ace 2 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-restore-deleted-files-from-the-recycle-bin-in-windows-11-after-emptying-it/"><u>How to Restore Deleted Files From the Recycle Bin in Windows 11 After Emptying It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-intro-to-quantum-hdr-innovations/"><u>In 2024, An Intro to Quantum HDR Innovations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetization-timeline-for-successful-youtubers-for-2024/"><u>Monetization Timeline for Successful YouTubers for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728477243501-pc/"><u>PCスタックが止まった時の効果的なリカバリ手順 - 衝突を回避する戦略</u></a></li>
+<li><a href="https://win-unique.techidaily.com/should-you-perform-a-bios-update-prior-to-upgrading-to-windows-11/"><u>Should You Perform a BIOS Update Prior to Upgrading to Windows 11?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-connected-the-ultimate-140-watt-portable-charger-that-keeps-seven-devices-juiced-up-without-frequent-recharges-tech-review/"><u>Stay Connected: The Ultimate 140-Watt Portable Charger That Keeps Seven Devices Juiced Up Without Frequent Recharges | Tech Review</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-moving-your-iphone-ringtones-to-pc-or-mac/"><u>Step-by-Step Guide: Moving Your iPhone Ringtones to PC or Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-hacks-adding-wireless-bluetooth-functionality-to-your-personal-computer/"><u>Tech Hacks: Adding Wireless Bluetooth Functionality to Your Personal Computer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-usb-connection-issues-solve-mtp-driver-problems-today/"><u>Troubleshooting iPhone USB Connection Issues: Solve MTP Driver Problems Today</u></a></li>
+<li><a href="https://win-unique.techidaily.com/wiederherstellung-des-papierkorbs-in-windows-10-ein-umfassender-tippgeber/"><u>Wiederherstellung Des Papierkorbs in Windows 10: Ein Umfassender Tippgeber</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728508827007-windows-1011-3/"><u>Windows 10/11の初期化: 起動問題に対する3手ソリューション</u></a></li>
 </ul></div>
 

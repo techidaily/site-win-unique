@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized"
-date: 2025-01-10T18:23:13.006Z
-updated: 2025-01-14T17:26:17.988Z
+date: 2025-01-19T18:29:06.532Z
+updated: 2025-01-21T05:33:15.656Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 500 Features:
@@ -63,7 +63,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 _Have questions about the **Hercules DJ Control Inpulse 500** and how it works with our DEX 3 **DJ software**? Please leave them in the comments section below_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,24 +85,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/07/29894\_hercules\_audio\_dj
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-effortlessly-faster-fb-videos-a-comprehensive-tools-repository/"><u>[New] 2024 Approved Effortlessly Faster FB Videos A Comprehensive Tools Repository</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-discover-the-leading-ai-driven-podcast-name-creator-tools/"><u>[New] In 2024, Discover the Leading AI-Driven Podcast Name Creator Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-is-higher-frame-rate-better-weighing-30-vs-60fps-in-video/"><u>[New] Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-highlights-from-chinas-winter-olympiad-2022/"><u>[Updated] Highlights From China's Winter Olympiad 2022</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-high-ranking-nintendo-switch-brawlers-index-max-156/"><u>[Updated] In 2024, High-Ranking Nintendo Switch Brawlers Index (Max 156)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-premiere-video-tools-for-iphone/"><u>[Updated] Premiere Video Tools for iPhone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/clonadisk-copia-gratuita-del-disco-rigido-dell/"><u>ClonaDisk: Copia Gratuita Del Disco Rigido Dell</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/disco-elysium-pc-version-fixed-resolved-issues-and-optimal-performance/"><u>Disco Elysium PC Version Fixed: Resolved Issues and Optimal Performance</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fehlerbehebung-bei-der-datenubertragung-ihres-iphones-ursachen-fur-lese-schreibprobleme-und-deren-losungen/"><u>Fehlerbehebung Bei Der Datenübertragung Ihres iPhones: Ursachen Für Lese-/Schreibprobleme Und Deren Lösungen</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-complet-comment-synchronez-votre-contenu-nas-via-la-sauvegarde-en-image-mirroring/"><u>Guide Complet : Comment Synchronez Votre Contenu NAS Via La Sauvegarde en Image (Mirroring)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-5-chill-out-scenes-to-add-zest-to-your-snowy-videos/"><u>In 2024, Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-hdcp-restrictions-for-better-display-performance-a-complete-guide/"><u>Overcoming HDCP Restrictions for Better Display Performance: A Complete Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/preventing-data-loss-understanding-and-solving-excel-file-disappearance-on-start-up/"><u>Preventing Data Loss: Understanding & Solving Excel File Disappearance on Start-Up</u></a></li>
-<li><a href="https://win-unique.techidaily.com/reconociendo-y-restableciendo-fotos-eliminadas-en-tu-laptop-dell-tres-soluciones-restauradoras-sencillas/"><u>Reconociendo Y Restableciendo Fotos Eliminadas en Tu Laptop Dell – Tres Soluciones Restauradoras Sencillas</u></a></li>
-<li><a href="https://win-unique.techidaily.com/revive-your-asus-vivobook-on-windows-10-primary-tactics-and-three-extra-strategies/"><u>Revive Your ASUS VivoBook on Windows 10 – Primary Tactics and Three Extra Strategies</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-solution-manual-for-tackling-high-disk-utilization-issues-on-your-windows-10-pc/"><u>Step-by-Step Solution Manual for Tackling High Disk Utilization Issues on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-solving-the-mystery-of-silent-speakers-tech-insights-with-yl-computing/"><u>Troubleshooting Guide: Solving the Mystery of Silent Speakers - Tech Insights with YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/wie-sie-die-festplatte-ihres-dell-xps-easy-als-ssd-aufrusten-ein-leitfaden-fur-anfanger/"><u>Wie Sie Die Festplatte Ihres Dell XPS Easy Als SSD Aufrüsten – Ein Leitfaden Für Anfänger</u></a></li>
-<li><a href="https://win-unique.techidaily.com/pashhanae-savao-ma-bhagatana-yajana/"><u>पोषण सेवाओं में भुगतान योजना</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-viewers-for-fb-chronicles/"><u>[New] In 2024, Invisible Viewers for FB Chronicles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition-for-2024/"><u>[Updated] A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syma-x8c-for-beginner-pilots/"><u>[Updated] Syma X8C for Beginner Pilots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-non-gamebar-recorders-best-tools-for-game-capture/"><u>2024 Approved Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
+<li><a href="https://win-unique.techidaily.com/debrouille-toi-des-moyens-facilement-accessibles-pour-sauver-des-donnees-sur-iphone-sans-itunes/"><u>Débrouille-Toi ! Des Moyens Facilement Accessibles Pour Sauver Des Données Sur iPhone Sans iTunes</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effizientes-kopieren-und-schutz-von-windows-1011-gpt-speichermedien-professionelle-tipps-and-tricks/"><u>Effizientes Kopieren Und Schutz Von Windows 10/11 GPT-Speichermedien: Professionelle Tipps & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-disruptions-during-playback-on-windows-11-solutions/"><u>Fixing Persistent Audio Disruptions During Playback on Windows 11 - Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722208516904-harnessing-the-potential-of-chatgpt-developing-interactive-narratives-for-text-based-rpg-enthusiasts/"><u>Harnessing the Potential of ChatGPT: Developing Interactive Narratives for Text-Based RPG Enthusiasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-7-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 7 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/length-measurement-errors/"><u>Length Measurement Errors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-top-free-mpeg-video-editors-for-splitting-and-trimming/"><u>New S Top Free MPEG Video Editors for Splitting and Trimming</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solucion-eficaz-para-recuperar-la-particion-de-arranque-borrada-en-sistemas-operativos-windows-781011/"><u>Solución Eficaz Para Recuperar La Partición De Arranque Borrada en Sistemas Operativos Windows 7/8/10/11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-to-safeguarding-onenote-on-windows-11-saving-and-reviving-your-written-content/"><u>Step-by-Step Guide to Safeguarding OneNote on Windows 11: Saving & Reviving Your Written Content</u></a></li>
+<li><a href="https://win-unique.techidaily.com/transition-en-un-clic-comparer-et-choisir-entre-les-solutions-nas-synology-et-nas-qnap/"><u>Transition en Un Clic : Comparer Et Choisir Entre Les Solutions NAS Synology Et NAS QNAP</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-guide-to-retrieving-lost-information-on-external-memory-sticks-usb-pendrives/"><u>Ultimate Guide to Retrieving Lost Information on External Memory Sticks (USB PenDrives)</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728492524656-4/"><u>パソコンに保存されているゲームデータの4つの効果的な回復手段</u></a></li>
 </ul></div>
 

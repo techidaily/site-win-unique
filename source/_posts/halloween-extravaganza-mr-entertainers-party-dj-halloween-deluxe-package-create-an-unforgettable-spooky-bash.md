@@ -1,7 +1,7 @@
 ---
 title: "Halloween Extravaganza: Mr. Entertainer's Party DJ Halloween Deluxe Package – Create an Unforgettable Spooky Bash!"
-date: 2025-01-11T04:14:19.984Z
-updated: 2025-01-15T05:21:25.156Z
+date: 2025-01-15T22:00:17.469Z
+updated: 2025-01-20T23:39:40.315Z
 tags:
   - product
 categories:
@@ -20,16 +20,16 @@ Select-A-Track ([Digitop UK](https://tools.techidaily.com/pcdj/products/)) is Di
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mr Entertainer Party Disc – Halloween Edition
 _Throw the Ultimate Halloween Party_
 
 The Mr Entertainer Party Disc range, the ultimate party tool. An entire evening’s entertainment on one DVD, controlled simply by your DVD remote. Jam packed with fun features for all the family providing everything you need to make your party go with a bang!
 
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets-300x300.jpg?resize=300%2C300&ssl=1 "DVD Mock-Up Front with sheets")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets.jpg?fit=500%2C500&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This amazing Halloween themed party disc will guarantee your Halloween is one to remember, with loads of cool games & features to keep adults & kids entertained all night. The DVD is region free so will work in any DVD Player, PlayStation, Xbox etc and is simply controlled on screen with your remote control.
 
@@ -62,30 +62,30 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 [ADULT QUIZ SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [KIDS QUIZ SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1.png?fit=1024%2C576&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
 
 [SCREENSAVER SAMPLE ![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "Screensaver Sample STILL")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [SOUND EFFECTS MENU SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL-80x80.png?resize=80%2C80&ssl=1 "Sound FX Menu STILL")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL.png?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _click images below for large screen shots_ 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -104,22 +104,19 @@ _click images below for large screen shots_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-lowest-priced-cloud-vendors/"><u>[New] Comparative Analysis Lowest Priced Cloud Vendors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-innovative-headset-manufacturers-for-virtual-worlds/"><u>[New] Innovative Headset Manufacturers for Virtual Worlds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/avoiding-fuzzy-edges-in-picart-picture-processing/"><u>Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/dealing-with-disturbing-clicks-and-clatters-expert-tips-for-quiet-computer-operation/"><u>Dealing with Disturbing Clicks and Clatters: Expert Tips for Quiet Computer Operation</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ensure-optimal-performance-how-to-confirm-your-sound-cards-latest-update-status-with-yl-software-tips/"><u>Ensure Optimal Performance: How to Confirm Your Sound Card's Latest Update Status with YL Software Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-troubleshooting-and-repairing-hp-audio-driver-errors-on-different-windows-os/"><u>Guide to Troubleshooting and Repairing HP Audio Driver Errors on Different Windows OS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>In 2024, Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pro-level-techniques-to-upgrade-your-iphone-photo-game-for-2024/"><u>Pro-Level Techniques to Upgrade Your iPhone Photo Game for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-with-ease-insights-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers with Ease - Insights From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-alternatives-to-youtube-discover-new-video-platforms-for-a-superior-viewing-experience/"><u>Top 10 Alternatives To YouTube: Discover New Video Platforms For A Superior Viewing Experience</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-resolving-wi-fi-connectivity-issues-with-yl-software-insights/"><u>Troubleshooting Guide: Resolving Wi-Fi Connectivity Issues with YL Software Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/uncovering-common-factors-behind-memory-malfunctions-in-windows-os-expert-insights-from-yl-computing/"><u>Uncovering Common Factors Behind Memory Malfunctions in Windows OS - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-the-typical-path-discovering-the-default-storage-for-windows-registry-files/"><u>Unveiling the Typical Path: Discovering the Default Storage for Windows Registry Files</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-free-video-orientation-changers-for-windows-and-mac/"><u>Updated In 2024, Top 10 Free Video Orientation Changers for Windows and Mac</u></a></li>
-<li><a href="https://win-unique.techidaily.com/why-is-my-computer-running-slowly-and-how-can-i-fix-it-expert-advice-by-yl-computing/"><u>Why Is My Computer Running Slowly and How Can I Fix It? - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/will-a-fresh-start-wipe-out-all-files-on-my-computer-exploring-safe-options-by-yl-software/"><u>Will a Fresh Start Wipe Out All Files on My Computer? Exploring Safe Options by YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-your-youtube-music-collection-a-detailed-guide/"><u>[New] Unlocking Your YouTube Music Collection A Detailed Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comment-resoudre-le-probleme-du-planificateur-de-taches-non-operationnel-sous-windows-10/"><u>Comment Résoudre Le Problème Du Planificateur De Tâches Non-Opérationnel Sous Windows 10</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comprehensive-solutions-for-overcoming-crc-data-anomalies-in-your-system/"><u>Comprehensive Solutions for Overcoming CRC Data Anomalies in Your System</u></a></li>
+<li><a href="https://win-unique.techidaily.com/das-muss-man-wissen-von-mbr-zu-gpt-einfache-migrationsmethoden-fur-windows-11-nutzer/"><u>Das Muss Man Wissen: Von MBR Zu GPT - Einfache Migrationsmethoden Für Windows 11 Nutzer</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-the-most-effective-free-ios-device-managers-for-your-windows-pc-top-choices-revealed/"><u>Discover the Most Effective Free iOS Device Managers for Your Windows PC – Top Choices Revealed!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guide-dassistance-comment-resoudre-les-problemes-lors-de-la-restauration-initiale-et-du-retablissement-de-fichiers-sous-windows-11/"><u>Guide D’assistance : Comment Résoudre Les Problèmes Lors De La Restauration Initiale Et Du Rétablissement De Fichiers Sous Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a25-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A25 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevating-instagram-posts-with-perfectly-sized-videos/"><u>In 2024, Elevating Instagram Posts with Perfectly Sized Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/installation-von-windows-11-mit-einem-pe-usb-stick-anleitung-und-schritte/"><u>Installation Von Windows 11 Mit Einem PE-USB-Stick - Anleitung Und Schritte</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/"><u>New Top-Rated Hand Drawing Animation Tools for Whiteboard Explainers</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728463588373-windows-10/"><u>Windows 10でオンラインアップデートを防止する詳細ガイド</u></a></li>
 </ul></div>
 
