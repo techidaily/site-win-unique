@@ -1,7 +1,7 @@
 ---
 title: Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike
-date: 2025-01-15T19:51:31.508Z
-updated: 2025-01-21T03:09:01.117Z
+date: 2025-01-22T08:46:52.890Z
+updated: 2025-01-27T10:00:19.590Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,17 +70,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capture-and-save-the-essentials-of-pc-display-recordings/"><u>[New] Capture & Save The Essentials of PC Display Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-gameplay-with-obs/"><u>[Updated] 2024 Approved How to Record Gameplay with OBS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-guffaw-gallery-your-free-high-quality-memes/"><u>[Updated] Guffaw Gallery Your Free, High-Quality Memes</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-tricks-to-personalize-your-mouse-preferences-with-the-windows-control-panel-expertise-by-yl-software/"><u>Easy Tricks to Personalize Your Mouse Preferences with the Windows Control Panel - Expertise by YL Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-iphone-photography-mastering-the-art-of-leading-lines/"><u>Elevate Your iPhone Photography Mastering the Art of Leading Lines</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fixing-windows-network-card-problems-a-step-by-step-guide-by-yl-computing/"><u>Fixing Windows Network Card Problems: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/high-definition-iron-man-themed-wallpapers-and-backgrounds-by-yl-software/"><u>High-Definition Iron Man Themed Wallpapers and Backgrounds by YL Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y100t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y100t</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-techniques-for-optimal-font-management-in-your-pc-insights-from-yl-computing/"><u>Top Techniques for Optimal Font Management in Your PC: Insights From YL Computing</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/understanding-intel-quick-sync-video-a-comparison-with-nvidia-and-amd-technologies/"><u>Understanding Intel Quick Sync Video: A Comparison with Nvidia and AMD Technologies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveil-images-clearly-10-online-editors-guide-for-2024/"><u>Unveil Images Clearly 10 Online Editors' Guide for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yl-computings-wataru-hibiki-collection-stunning-graphics-and-wallpaper-pack-explore-by-yl-software/"><u>YL Computing's Wataru Hibiki Collection: Stunning Graphics & Wallpaper Pack - Explore by YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-efficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile-for-2024/"><u>[New] Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-realm-of-ring-vs-reality-stream/"><u>[Updated] In 2024, The Realm of Ring vs Reality Stream</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728498885180-wechat/"><u>如何利用开源工具免费解析WeChat信息</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728504986289-aomei/"><u>AOMEIバックアッパーでの基本的な起動手順を学ぶ</u></a></li>
+<li><a href="https://win-unique.techidaily.com/data-rescue-mission-a-guide-to-retrieving-information-from-a-hard-drive-sans-os-discover-the-5-best-techniques/"><u>Data Rescue Mission: A Guide to Retrieving Information From a Hard Drive Sans OS - Discover the 5 Best Techniques!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-restore-accidentally-deleted-voice-notes-on-pcs-and-iphones/"><u>How To Restore Accidentally Deleted Voice Notes on PCs and iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>In 2024, Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-best-metaverse-visual-tech/"><u>In 2024, The Ultimate List of Best Metaverse Visual Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a2frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A2FRP Lock</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resoudre-les-problemes-de-demarrage-dans-windows-11-un-guide-detaille-pour-le-mode-sans-echec/"><u>Résoudre Les Problèmes De Démarrage Dans Windows 11 : Un Guide Détaillé Pour Le Mode Sans Échec</u></a></li>
+<li><a href="https://win-unique.techidaily.com/restoring-older-versions-of-webpages-discover-these-4-techniques-for-easy-recovery/"><u>Restoring Older Versions of Webpages? Discover These 4 Techniques for Easy Recovery</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-software-fur-das-kopieren-von-ssds-auf-einen-usb-speicherstick-unter-windows-11-10-8-7/"><u>Top Software Für Das Kopieren Von SSDs Auf Einen USB-Speicherstick Unter Windows 11 / 10 / 8 / 7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/troubleshooting-shorts-the-non-displaying-thumbnail-for-2024/"><u>Troubleshooting Shorts The Non-Displaying Thumbnail for 2024</u></a></li>
 </ul></div>
 
