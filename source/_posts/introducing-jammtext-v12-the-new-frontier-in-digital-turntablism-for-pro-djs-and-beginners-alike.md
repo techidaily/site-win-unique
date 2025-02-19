@@ -1,7 +1,7 @@
 ---
 title: Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike
-date: 2025-02-04T05:35:15.180Z
-updated: 2025-02-08T16:37:41.844Z
+date: 2025-02-16T01:18:39.767Z
+updated: 2025-02-18T16:21:15.118Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,19 +70,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-best-youtube-music-reaction-videos-2023/"><u>[Updated] 2024 Approved 10 Best YouTube Music Reaction Videos 2023</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-extracting-images-from-movies-using-windows-10-photos-app/"><u>[Updated] In 2024, Extracting Images From Movies Using Windows 10 Photos App</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-nia-test-drive-how-it-stacks-up-to-the-kindle-lineup/"><u>Comprehensive Kobo Nia Test Drive: How It Stacks Up to the Kindle Lineup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-evening-ambiance-upgrade-to-latest-permanent-govee-lights-for-superior-yard-visibility/"><u>Enhance Your Evening Ambiance: Upgrade to Latest Permanent Govee Lights for Superior Yard Visibility.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-magicard-rio-pro-driver-version-for-windows-users-windows-11817/"><u>Get the Latest Magicard Rio Pro Driver Version for Windows Users (Windows 11/8.1/7)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-nord-ce-3-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Nord CE 3 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphones-unlocked-smart-tips-for-saving-and-playing-gifs/"><u>IPhones Unlocked Smart Tips for Saving & Playing GIFs</u></a></li>
-<li><a href="https://win-unique.techidaily.com/macos-vs-windows-debunking-the-5-common-myths-for-pc-users-digital-expertise/"><u>MacOS Vs. Windows: Debunking the 5 Common Myths for PC Users | Digital Expertise</u></a></li>
-<li><a href="https://win-unique.techidaily.com/microsoft-claims-engineers-arent-fanatical-about-their-new-os-a-look-at-windows-1nvite/"><u>Microsoft Claims Engineers Aren't Fanatical About Their New OS: A Look at Windows 1Nvite</u></a></li>
-<li><a href="https://win-unique.techidaily.com/microsoft-considers-curtailing-third-party-tweaks-in-windows-11-build-24h2-insights-by-tech-journalist-zdnet/"><u>Microsoft Considers Curtailing Third-Party Tweaks in Windows 11 Build 24H2 – Insights by Tech Journalist [ZDNET]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/no-more-freebies-for-windows-10-users-understand-the-changes-now/"><u>No More Freebies for Windows 10 Users – Understand the Changes Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-habits-to-protect-xbox-series-x-investment/"><u>Optimal Habits to Protect Xbox Series X Investment</u></a></li>
-<li><a href="https://win-unique.techidaily.com/quick-shift-protocol-mastering-the-one-click-move-between-office-pcs-and-personal-laptops-tips-shared-by-zdnet/"><u>Quick Shift Protocol: Mastering the One-Click Move Between Office PCs & Personal Laptops - Tips Shared by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-code-failed-task-execution-0x8007000f/"><u>Tackling Windows Error Code: Failed Task Execution (0X8007000f)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tricks-to-prevent-fb-video-advertisements-on-screen/"><u>[New] 2024 Approved Tricks to Prevent FB Video Advertisements on Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-tiktok-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>[Updated] 2024 Approved TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings/"><u>[Updated] 2024 Approved Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>[Updated] In 2024, Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-methods-for-image-warping/"><u>2024 Approved Innovative Methods for Image Warping</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ssd-and/"><u>優れたチームSSDクローニングのための無料ソフトウェア - ダウンロード & 操作ガイド</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728504986289-aomei/"><u>AOMEIバックアッパーでの基本的な起動手順を学ぶ</u></a></li>
+<li><a href="https://win-unique.techidaily.com/como-rescatar-datos-perdidos-despues-del-vaciado-forzoso-de-la-papelera-de-reciclaje-de-windows-11/"><u>Cómo Rescatar Datos Perdidos Después Del Vaciado Forzoso De La Papelera De Reciclaje De Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-6-novel-chess-apps-to-challenge-your-skillset/"><u>Discover 6 Novel Chess Apps to Challenge Your Skillset</u></a></li>
+<li><a href="https://techidaily.com/discover-top-hardware-picks-with-toms-technology-experts/"><u>Discover Top Hardware Picks with Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-freshest-canon-mg2900-printing-driver-updates-and-downloads/"><u>Easy Instructions: Freshest Canon MG2900 Printing Driver Updates & Downloads</u></a></li>
+<li><a href="https://win-unique.techidaily.com/esperienza-di-archiviazione-migliorata-passa-al-nuovo-hard-disk-portatile-per-i-dati-personali/"><u>Esperienza Di Archiviazione Migliorata: Passa Al Nuovo Hard Disk Portatile per I Dati Personali</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resoudre-les-problemes-de-demarrage-dans-windows-11-un-guide-detaille-pour-le-mode-sans-echec/"><u>Résoudre Les Problèmes De Démarrage Dans Windows 11 : Un Guide Détaillé Pour Le Mode Sans Échec</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-vivo-v27-pro-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Vivo V27 Pro</u></a></li>
+<li><a href="https://win-unique.techidaily.com/strategie-efficienti-per-la-gestione-delle-operazioni-di-backup/"><u>Strategie Efficienti per La Gestione Delle Operazioni Di Backup</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/upgrading-your-alienware-aurora-r11s-storage-to-ssd-made-easy-a-comprehensive-tutorial/"><u>Upgrading Your Alienware Aurora R11's Storage to SSD Made Easy - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728501962048-windows-10-os/"><u>Windows 10 OSのリフレッシュ手順：パソコン修理ガイド</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728482051917-windows-7-pc/"><u>Windows 7 PCから外付けドライブへの効率的なデータコピーガイド</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-backup-issues-resolved-fixing-exclusive-lock-errors/"><u>Windows Backup Issues Resolved: Fixing Exclusive Lock Errors</u></a></li>
 </ul></div>
 

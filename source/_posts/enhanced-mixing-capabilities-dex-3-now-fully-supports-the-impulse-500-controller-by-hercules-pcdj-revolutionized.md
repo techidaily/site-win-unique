@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Mixing Capabilities: DEX 3 Now Fully Supports the Impulse 500 Controller by Hercules | PCDJ Revolutionized"
-date: 2025-01-19T18:29:06.532Z
-updated: 2025-01-21T05:33:15.656Z
+date: 2025-02-11T19:12:03.756Z
+updated: 2025-02-18T22:18:54.526Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 500 Features:
@@ -63,7 +63,7 @@ The DJControl Inpulse 500 would be a great fit for mobile DJs using DEX 3, and c
 _Have questions about the **Hercules DJ Control Inpulse 500** and how it works with our DEX 3 **DJ software**? Please leave them in the comments section below_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/07/29894\_hercules\_audio\_dj
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-viewers-for-fb-chronicles/"><u>[New] In 2024, Invisible Viewers for FB Chronicles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition-for-2024/"><u>[Updated] A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-syma-x8c-for-beginner-pilots/"><u>[Updated] Syma X8C for Beginner Pilots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-non-gamebar-recorders-best-tools-for-game-capture/"><u>2024 Approved Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
-<li><a href="https://win-unique.techidaily.com/debrouille-toi-des-moyens-facilement-accessibles-pour-sauver-des-donnees-sur-iphone-sans-itunes/"><u>Débrouille-Toi ! Des Moyens Facilement Accessibles Pour Sauver Des Données Sur iPhone Sans iTunes</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effizientes-kopieren-und-schutz-von-windows-1011-gpt-speichermedien-professionelle-tipps-and-tricks/"><u>Effizientes Kopieren Und Schutz Von Windows 10/11 GPT-Speichermedien: Professionelle Tipps & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-disruptions-during-playback-on-windows-11-solutions/"><u>Fixing Persistent Audio Disruptions During Playback on Windows 11 - Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722208516904-harnessing-the-potential-of-chatgpt-developing-interactive-narratives-for-text-based-rpg-enthusiasts/"><u>Harnessing the Potential of ChatGPT: Developing Interactive Narratives for Text-Based RPG Enthusiasts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-7-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 7 Plus i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/length-measurement-errors/"><u>Length Measurement Errors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-top-free-mpeg-video-editors-for-splitting-and-trimming/"><u>New S Top Free MPEG Video Editors for Splitting and Trimming</u></a></li>
-<li><a href="https://win-unique.techidaily.com/solucion-eficaz-para-recuperar-la-particion-de-arranque-borrada-en-sistemas-operativos-windows-781011/"><u>Solución Eficaz Para Recuperar La Partición De Arranque Borrada en Sistemas Operativos Windows 7/8/10/11</u></a></li>
-<li><a href="https://win-unique.techidaily.com/step-by-step-guide-to-safeguarding-onenote-on-windows-11-saving-and-reviving-your-written-content/"><u>Step-by-Step Guide to Safeguarding OneNote on Windows 11: Saving & Reviving Your Written Content</u></a></li>
-<li><a href="https://win-unique.techidaily.com/transition-en-un-clic-comparer-et-choisir-entre-les-solutions-nas-synology-et-nas-qnap/"><u>Transition en Un Clic : Comparer Et Choisir Entre Les Solutions NAS Synology Et NAS QNAP</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultimate-guide-to-retrieving-lost-information-on-external-memory-sticks-usb-pendrives/"><u>Ultimate Guide to Retrieving Lost Information on External Memory Sticks (USB PenDrives)</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728492524656-4/"><u>パソコンに保存されているゲームデータの4つの効果的な回復手段</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-your-guide-to-top-6-free-online-video-downloads/"><u>[New] 2024 Approved Your Guide to Top 6 Free, Online Video Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplifying-laptop-edits-with-inshot-software/"><u>[New] Simplifying Laptop Edits with Inshot Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-power-at-your-fingertips-the-ultimate-guide-to-the-audee-portable-compressor/"><u>Compact Power at Your Fingertips: The Ultimate Guide to the Audee Portable Compressor</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-do-memory-issues-lead-to-windows-instability-insights-from-yl-computing-and-software/"><u>How Do Memory Issues Lead To Window's Instability: Insights From YL Computing & Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/identifying-frequent-windows-related-hardware-compatibility-and-functionality-concerns-insights-by-yl-computing/"><u>Identifying Frequent Windows-Related Hardware Compatibility and Functionality Concerns - Insights by YL Computing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/introducing-jammtext-v12-the-new-frontier-in-digital-turntablism-for-pro-djs-and-beginners-alike/"><u>Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moviemakerpro-insights-full-analysis-for-2024/"><u>MovieMakerPro Insights – Full Analysis for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-cdx3-skin-pack-unlock-your-decks-full-potential-with-exclusive-preview/"><u>Premium CDX3 Skin Pack: Unlock Your Deck's Full Potential with Exclusive Preview!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-freebie-animation-tools/"><u>The Ultimate Guide to Freebie Animation Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-guide-streaming-games-with-ease-on-rust-legacy-for-2024/"><u>Ultimate Guide Streaming Games with Ease on Rust Legacy for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-voice-navigating-fb-group-dynamics/"><u>Unseen Voice: Navigating FB Group Dynamics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
 
