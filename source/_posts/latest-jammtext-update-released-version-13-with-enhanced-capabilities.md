@@ -1,7 +1,7 @@
 ---
 title: "Latest JammText Update Released: Version 1.3 with Enhanced Capabilities"
-date: 2025-02-16T23:51:57.421Z
-updated: 2025-02-19T00:36:56.352Z
+date: 2025-03-01T20:36:41.533Z
+updated: 2025-03-07T17:01:04.592Z
 tags:
   - product
 categories:
@@ -28,41 +28,21 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Email to screen
 
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Scan to screen
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 64 bit and Mojave Support
 
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Voting coming soon
 
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Instagram discontinued
 
@@ -90,18 +70,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-adapt-images-to-any-size-on-your-iphone-instantly/"><u>[New] Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>[New] In 2024, Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-command-the-youtube-stage-mastering-visibility-through-tactics/"><u>[Updated] 2024 Approved Command the YouTube Stage Mastering Visibility Through Tactics</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-video-reach-tactics-against-bot-visitors/"><u>[Updated] 2024 Approved Enhancing Video Reach Tactics Against Bot Visitors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionizing-remote-work-selecting-the-best-live-streamers/"><u>[Updated] Revolutionizing Remote Work Selecting the Best Live Streamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessible-sign-language-education-with-these-1/"><u>Accessible Sign Language Education with These 1</u></a></li>
-<li><a href="https://win-unique.techidaily.com/affordable-access-singapores-small-businesses-gain-substantial-savings-on-microsoft-copilot/"><u>Affordable Access: Singapore's Small Businesses Gain Substantial Savings on Microsoft Copilot</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discounted-microsoft-copilot-for-local-smbs-in-singapore-unveiled-by-zdnet/"><u>Discounted Microsoft Copilot for Local SMBs in Singapore Unveiled by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-your-pcs-visual-fidelity-with-updated-radeon-drivers-windows-edition/"><u>Elevating Your PC's Visual Fidelity with Updated Radeon Drivers, Windows Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-photo-and-video-shows-from-x-to-ios14-for-2024/"><u>Ideal Photo & Video Shows From X to IOS14 for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-powertoys-color-picker-feature-a-step-by-step-guide/"><u>Mastering PowerToys' Color Picker Feature – A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-magic-vs-2-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor Magic Vs 2 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-microsofts-copilot-an-innovative-ai-assistance-with-a-marketing-twist-insights-from-zdnet/"><u>Unveiling Microsoft's Copilot: An Innovative AI Assistance with a Marketing Twist - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevate-your-shots-top-photo-gear-for-mobile-cameras/"><u>[Updated] 2024 Approved Elevate Your Shots Top Photo Gear for Mobile Cameras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>[Updated] In 2024, 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-rise-in-popularity-top-10-instagram-hashtags-for-now/"><u>[Updated] Rise in Popularity Top 10 Instagram Hashtags for Now</u></a></li>
+<li><a href="https://win-unique.techidaily.com/samsung-ssd2/"><u>失われたデータを取り戻せる！Samsung SSD用究極の2方法解説</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-step-bystep-approach-for-transforming-hefty-excel-datasets-edb-to-pst-without-data-degradation-or-downtime/"><u>A Step-Bystep Approach for Transforming Hefty Excel Datasets (EDB) to PST without Data Degradation or Downtime</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fixing-cloning-issues-related-to-the-0xc000000e-error-in-windows-10/"><u>Fixing Cloning Issues Related to the '0XC000000E' Error in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-seamlessly-add-pictures-to-youtube-videos/"><u>How to Seamlessly Add Pictures to YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-ace-facebooks-social-calendar-with-2023s-no-cost-resources/"><u>In 2024, Ace Facebook's Social Calendar with 2023'S No-Cost Resources</u></a></li>
+<li><a href="https://win-unique.techidaily.com/problemlos-fehlerbehebung-beim-einrichten-von-onedrive-synchronisation-unter-macos/"><u>Problemlos: Fehlerbehebung Beim Einrichten Von OneDrive-Synchronisation Unter macOS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamless-auto-save-funktion-wahrend-des-systemabsturzes-fur-windows-11-8-und-7/"><u>Seamless Auto-Save Funktion Während Des Systemabsturzes Für Windows 11, 8 Und 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-activating-and-streaming-fm-radio-on-ios-and-android-devices/"><u>Step-by-Step Guide: Activating and Streaming FM Radio on iOS & Android Devices</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-resolve-cloned-drive-startup-issues-in-windows-11-with-these-5-easy-fixes/"><u>Troubleshooting Guide: Resolve Cloned Drive Startup Issues in Windows 11 with These 5 Easy Fixes</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-steps-to-resolve-login-issues-post-factory-reset-on-windows-10/"><u>Troubleshooting Steps to Resolve Login Issues Post-Factory Reset on Windows 10</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-11-schnell-deaktivieren-sie-die-weitere-optionen-anzeigen-funktion-im-rechtsklick-menu/"><u>Windows 11 - Schnell Deaktivieren Sie Die 'Weitere Optionen Anzeigen' Funktion Im Rechtsklick-Menü</u></a></li>
+<li><a href="https://win-unique.techidaily.com/winpc2/"><u>フリーで簡単復元！イメージが消えてしまったらWinPCで2つの方法で完全に回収</u></a></li>
 </ul></div>
 

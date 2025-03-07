@@ -1,7 +1,7 @@
 ---
 title: Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike
-date: 2025-02-16T01:18:39.767Z
-updated: 2025-02-18T16:21:15.118Z
+date: 2025-02-28T20:02:54.480Z
+updated: 2025-03-07T16:07:57.021Z
 tags:
   - product
 categories:
@@ -24,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### JammText v1.2 includes several other new features:
 
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
 
@@ -46,10 +38,6 @@ _**Upgrade or get JammText v1.2 today!**_
 [LEARN MORE OR GET JAMMTEXT TODAY](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ)
 
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -70,24 +58,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tricks-to-prevent-fb-video-advertisements-on-screen/"><u>[New] 2024 Approved Tricks to Prevent FB Video Advertisements on Screen</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-tiktok-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>[Updated] 2024 Approved TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings/"><u>[Updated] 2024 Approved Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>[Updated] In 2024, Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-methods-for-image-warping/"><u>2024 Approved Innovative Methods for Image Warping</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ssd-and/"><u>優れたチームSSDクローニングのための無料ソフトウェア - ダウンロード & 操作ガイド</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728504986289-aomei/"><u>AOMEIバックアッパーでの基本的な起動手順を学ぶ</u></a></li>
-<li><a href="https://win-unique.techidaily.com/como-rescatar-datos-perdidos-despues-del-vaciado-forzoso-de-la-papelera-de-reciclaje-de-windows-11/"><u>Cómo Rescatar Datos Perdidos Después Del Vaciado Forzoso De La Papelera De Reciclaje De Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-6-novel-chess-apps-to-challenge-your-skillset/"><u>Discover 6 Novel Chess Apps to Challenge Your Skillset</u></a></li>
-<li><a href="https://techidaily.com/discover-top-hardware-picks-with-toms-technology-experts/"><u>Discover Top Hardware Picks with Tom's Technology Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-instructions-freshest-canon-mg2900-printing-driver-updates-and-downloads/"><u>Easy Instructions: Freshest Canon MG2900 Printing Driver Updates & Downloads</u></a></li>
-<li><a href="https://win-unique.techidaily.com/esperienza-di-archiviazione-migliorata-passa-al-nuovo-hard-disk-portatile-per-i-dati-personali/"><u>Esperienza Di Archiviazione Migliorata: Passa Al Nuovo Hard Disk Portatile per I Dati Personali</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resoudre-les-problemes-de-demarrage-dans-windows-11-un-guide-detaille-pour-le-mode-sans-echec/"><u>Résoudre Les Problèmes De Démarrage Dans Windows 11 : Un Guide Détaillé Pour Le Mode Sans Échec</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-vivo-v27-pro-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Vivo V27 Pro</u></a></li>
-<li><a href="https://win-unique.techidaily.com/strategie-efficienti-per-la-gestione-delle-operazioni-di-backup/"><u>Strategie Efficienti per La Gestione Delle Operazioni Di Backup</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/upgrading-your-alienware-aurora-r11s-storage-to-ssd-made-easy-a-comprehensive-tutorial/"><u>Upgrading Your Alienware Aurora R11's Storage to SSD Made Easy - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728501962048-windows-10-os/"><u>Windows 10 OSのリフレッシュ手順：パソコン修理ガイド</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728482051917-windows-7-pc/"><u>Windows 7 PCから外付けドライブへの効率的なデータコピーガイド</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-backup-issues-resolved-fixing-exclusive-lock-errors/"><u>Windows Backup Issues Resolved: Fixing Exclusive Lock Errors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-income-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue/"><u>[New] 2024 Approved Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-vlogging-techniques-for-stellar-gopro-content-for-2024/"><u>[New] Top Vlogging Techniques for Stellar GoPro Content for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-visual-power-in-gaming-channels-a-template-guidebook/"><u>[New] Visual Power in Gaming Channels A Template Guidebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-real-time-audio-recording-techniques-for-web-broadcasts/"><u>[Updated] In 2024, Real-Time Audio Recording Techniques for Web Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-untapped-utility-zoom-in-on-minecraft/"><u>2024 Approved Unlocking Untapped Utility Zoom in on Minecraft</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enduring-brightness-fluctuations-on-screen-diagnosing-common-reasons-for-laptop-displays-to-twinkle-tips-from-yl-software/"><u>Enduring Brightness Fluctuations on Screen?: Diagnosing Common Reasons for Laptop Displays to Twinkle – Tips From YL Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ensuring-your-scanner-is-correctly-set-up-and-active-insights-from-yl-computings-expertise/"><u>Ensuring Your Scanner Is Correctly Set Up & Active: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-network-adapter-detection-issues-in-windows-steps-and-tips-from-yl-computing/"><u>Resolving Network Adapter Detection Issues in Windows: Steps & Tips From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/tailor-made-mouse-configuration-for-windows-users-expert-advice-by-yl-computings-window-control-methodology/"><u>Tailor-Made Mouse Configuration for Windows Users - Expert Advice by YL Computing's Window Control Methodology</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-tips-resolving-non-responsive-scanners-insights-by-yl-computing/"><u>Troubleshooting Tips: Resolving Non-Responsive Scanners - Insights by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028246421-windows/"><u>Windows上で特定のウィンドウを選択し、それを記録するためのガイド</u></a></li>
 </ul></div>
 

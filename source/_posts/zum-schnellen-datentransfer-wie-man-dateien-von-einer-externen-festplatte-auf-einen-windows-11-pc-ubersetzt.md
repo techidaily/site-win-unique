@@ -1,7 +1,7 @@
 ---
 title: "Zum Schnellen Datentransfer: Wie Man Dateien Von Einer Externen Festplatte Auf Einen Windows 11-PC Übersetzt"
-date: 2025-01-17T17:28:21.631Z
-updated: 2025-01-20T22:04:25.623Z
+date: 2025-03-02T21:14:47.032Z
+updated: 2025-03-07T17:05:13.514Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212abb381c555dc4e79829ce23.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -51,14 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -96,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -114,21 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -145,10 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -167,10 +135,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -206,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -256,24 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>[New] Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-discovering-clarity-and-performance-in-4k-a-closer-look-at-benq-bl2711u-for-2024/"><u>[Updated] Discovering Clarity and Performance in 4K - A Closer Look at BenQ BL2711U for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-asynchronous-programming-in-javascript-for-2024/"><u>[Updated] Harnessing the Power of Asynchronous Programming in JavaScript for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comment-liberer-de-lespace-disque-en-gerant-ou-supprimant-les-sauvegardes-windows-10/"><u>Comment Libérer De L'Espace Disque en Gérant Ou Supprimant Les Sauvegardes Windows 10?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/como-replicar-de-forma-sencilla-una-unidad-hdd-con-windows-pertinente-a-windows-7/"><u>Cómo Replicar De Forma Sencilla Una Unidad HDD Con Windows Pertinente a Windows 7</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effortless-ultimate-guide-to-upgrading-the-storage-on-your-hp-pavilion-15-laptop-from-hdd-to-ssd-comprehensive-steps-for-peak-performance/"><u>Effortless Ultimate Guide to Upgrading the Storage on Your HP Pavilion 15 Laptop From HDD to SSD: Comprehensive Steps for Peak Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-13-ultra-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi 13 Ultra Device SIM</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone SE (2020) when Phone is Broken?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/perfektes-vorgehen-zur-sicherung-ihres-systems-windows-11-datensicherung-vor-reinstallation/"><u>Perfektes Vorgehen Zur Sicherung Ihres Systems - Windows 11 Datensicherung Vor Reinstallation</u></a></li>
-<li><a href="https://win-unique.techidaily.com/schritt-fur-schritt-anleitung-ssd-steam-deck-and-klonen/"><u>Schritt-Für-Schritt Anleitung, SSD, Steam Deck and Klonen.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-download-the-samsung-c460-printer-drivers-instantly/"><u>Simple Steps: Download the Samsung C460 Printer Drivers Instantly!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sleek-60-second-fades/"><u>Sleek 60-Second Fades</u></a></li>
-<li><a href="https://win-unique.techidaily.com/strategies-de-sauvegarde-automatisees-pour-sql-server-explorez-les-quatre-approches/"><u>Stratégies De Sauvegarde Automatisées Pour SQL Server : Explorez Les Quatre Approches</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-5-bestselling-free-ssd-cloning-programs-effortlessly-transform-your-hdd-into-an-ssd/"><u>Top 5 Bestselling Free SSD Cloning Programs: Effortlessly Transform Your HDD Into an SSD</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word-for-2024/"><u>Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-versatility-a-deep-dive-into-the-lenovo-convertible-pc-tablet-combo-high-hopes-for-future-performance/"><u>Unlocking Versatility: A Deep Dive Into the Lenovo Convertible PC-Tablet Combo - High Hopes for Future Performance</u></a></li>
-<li><a href="https://win-unique.techidaily.com/usb-windows-cmd/"><u>USBデバイスから再構築可能なファイルの復元手順 - Windows CMDで</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-11-10-8-7wd/"><u>Windows 11, 10, 8, 7でWDバックアップに失敗する場合の解決策</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-11/"><u>Windows 11用無成本的屏幕錄制工具: 我推薦你應使用的前七種!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-best-ios-video-editing-cameo-vs-filmorago/"><u>[New] Best iOS Video Editing Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-evaluating-rapid-subscriptions-impact-on-video-engagement-for-2024/"><u>[New] Evaluating Rapid Subscription's Impact on Video Engagement for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-handheld-happiness-advanced-mounting-solutions/"><u>[Updated] 2024 Approved Handheld Happiness Advanced Mounting Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-art-of-warmth-in-winter-top-5-video-backdrop-choices/"><u>[Updated] 2024 Approved The Art of Warmth in Winter Top 5 Video Backdrop Choices</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1732512729643-15yl/"><u>15年烟龄，每天一包半：老细的成功戒烟方法——YL改良版快乐解吸法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-10-free-recording-apps-for-slack-chats/"><u>2024 Approved Best 10 Free Recording Apps for Slack Chats</u></a></li>
+<li><a href="https://win-unique.techidaily.com/adjusting-your-screen-preferences-a-step-by-step-guide-from-yl-computing/"><u>Adjusting Your Screen Preferences: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-13-pro-max-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 13 Pro Max is off? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enhance-pc-efficiency-learn-how-to-track-memory-and-processor-usage-for-speed-boost-insights-by-yl-software-solutions/"><u>Enhance PC Efficiency: Learn How to Track Memory & Processor Usage for Speed Boost - Insights by YL Software Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-bandicam-know-how-a-complete-review-for-2024/"><u>Essential Bandicam Know-How - A Complete Review for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-fix-an-unrecognized-graphics-card-in-your-pc-solutions-from-yl-computing/"><u>How to Fix an Unrecognized Graphics Card in Your PC - Solutions From YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/identifying-frequent-windows-related-hardware-compatibility-and-functionality-concerns-insights-by-yl-computing/"><u>Identifying Frequent Windows-Related Hardware Compatibility and Functionality Concerns - Insights by YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-the-art-of-pc-management-expert-tips-from-yl-computings-guide-to-software-oversight/"><u>Mastering the Art of PC Management: Expert Tips From YL Computing's Guide to Software Oversight</u></a></li>
+<li><a href="https://win-unique.techidaily.com/maximizing-your-scan-results-fine-tuning-options-for-peak-efficiency-with-yl-computing-software/"><u>Maximizing Your Scan Results: Fine-Tuning Options for Peak Efficiency with YL Computing Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/navigating-digital-barriers-exploring-why-some-sites-stay-out-of-reach-with-yl-software-solutions/"><u>Navigating Digital Barriers: Exploring Why Some Sites Stay Out of Reach with YL Software Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-cdx3-skin-pack-unlock-your-decks-full-potential-with-exclusive-preview/"><u>Premium CDX3 Skin Pack: Unlock Your Deck's Full Potential with Exclusive Preview!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/preserve-the-blue-band-promise-with-these-ideas-for-2024/"><u>Preserve the Blue Band Promise with These Ideas for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redesigning-work-through-generative-ai-seven-pivotal-changes-to-expect-in-the-job-market/"><u>Redesigning Work Through Generative AI: Seven Pivotal Changes to Expect in the Job Market</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reinitialiser-et-mettre-a-jour-votre-gestionnaire-de-taches-inactif-due-a-une-action-admins/"><u>Réinitialiser Et Mettre À Jour Votre Gestionnaire De Tâches Inactif Due À Une Action Admins</u></a></li>
 </ul></div>
 

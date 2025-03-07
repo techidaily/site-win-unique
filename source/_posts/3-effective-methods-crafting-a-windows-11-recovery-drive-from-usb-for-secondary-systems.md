@@ -1,7 +1,7 @@
 ---
 title: "3 Effective Methods: Crafting a Windows 11 Recovery Drive From USB for Secondary Systems"
-date: 2025-01-13T23:42:29.646Z
-updated: 2025-01-21T05:42:42.565Z
+date: 2025-02-28T16:45:24.162Z
+updated: 2025-03-07T16:15:54.215Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619237963976a41fdef49342b3.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -52,17 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -90,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -114,21 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -146,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -163,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,24 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-pc-sound-logging-with-x-recorder-software/"><u>[New] In 2024, Effortless PC Sound Logging with X-Recorder Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-seo-101-boost-your-videos-visibility/"><u>[New] YouTube SEO 101 Boost Your Video's Visibility</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-see-what-you-just-watched-on-facebook/"><u>[Updated] In 2024, How to See What You Just Watched on Facebook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlock-window-history-with-spring-screenrecorder/"><u>[Updated] In 2024, Unlock Window History with Spring ScreenRecorder</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjust-graphics-card-preferences-with-simple-steps-learn-how-with-yls-expert-advice/"><u>Adjust Graphics Card Preferences with Simple Steps - Learn How with YL's Expert Advice!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/best-practices-in-embedding-real-time-videos-from-fb/"><u>Best Practices in Embedding Real-Time Videos From FB</u></a></li>
-<li><a href="https://win-unique.techidaily.com/disabling-automatic-updates-through-the-control-panel-a-guide-by-yl-computing/"><u>Disabling Automatic Updates Through the Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-the-latest-pcdj-karaoke-software-v097510-compatible-with-windows-1/"><u>Download the Latest PCDJ Karaoke Software v0.9.7510: Compatible with Windows 1</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-steps-to-update-your-account-nickname-via-control-panel/"><u>Easy Steps to Update Your Account Nickname via Control Panel</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211250008-9781396323256-extra-sensory-perception/"><u>Extra-Sensory Perception | Free Book</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-avoid-system-crashes-from-installing-incompatible-drivers-tips-by-yl-computing/"><u>How to Avoid System Crashes From Installing Incompatible Drivers - Tips by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-properly-update-and-install-gpu-drivers-on-your-windows-pc-a-step-by-step-guide-by-yl-computing/"><u>How to Properly Update and Install GPU Drivers on Your Windows PC - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/images-and-wallpapers-from-yl-computing-experience-the-new-look-of-windows-121-yl-software-solutions/"><u>Images and Wallpapers From YL Computing - Experience the New Look of Windows 12.1 | YL Software Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-unlock-full-hd-tweeting-on-your-screen/"><u>In 2024, Unlock Full HD Tweeting on Your Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/arly-streams-10-best-ed-tutorials-yt-for-2024/"><u>Scholarly Streams 10 Best Ed Tutorials YT for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/simple-steps-changing-filenames-easily-with-yl-computing-solutions/"><u>Simple Steps: Changing Filenames Easily with YL Computing Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solution-energy-dissipating-devices-absorb-part-of-the-seismic-energy-reducing-stress-on-primary-structural-components-and-preventing-or-delaying-failure-mo116/"><u>Solution: Energy-Dissipating Devices Absorb Part of the Seismic Energy, Reducing Stress on Primary Structural Components and Preventing or Delaying Failure Modes Like Flexural Collapse by Controlling Displacements and Forces Within Design Limits.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-freezes-with-sound-cards-a-guide-to-smooth-computing-by-yl-software-experts/"><u>Troubleshooting Freezes with Sound Cards: A Guide to Smooth Computing by YL Software Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-find-your-custom-box-top-10-online-stores-offering-tailored-packaging/"><u>[New] In 2024, Find Your Custom Box Top 10 Online Stores Offering Tailored Packaging</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eading-10-capture-applications-for-online-tutorials/"><u>[New] Leading 10 Capture Applications for Online Tutorials</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1726030394773-aviutl/"><u>「AviUtl」アプリによる画面記録は、技術的なハンドルがどの程度簡単ですか？</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-transfer-iphone-contacts-seamlessly-to-your-computer-without-itunes/"><u>1. Transfer iPhone Contacts Seamlessly To Your Computer Without iTunes</u></a></li>
+<li><a href="https://win-unique.techidaily.com/3-windows-11/"><u>3つの新しい手順で Windows 11 におけるシステムイメージのバックアップと復元</u></a></li>
+<li><a href="https://win-unique.techidaily.com/clonage-vs-installation-personnalisee-ssd-guide-operationnel-detaille-pour-les-utilisateurs-chez-soi/"><u>Clonage vs Installation Personnalisée SSD : Guide Opérationnel Détaillé Pour Les Utilisateurs Chez Soi</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortless-bookmark-backup-on-safari-tips-and-tricks-for-data-protection/"><u>Effortless Bookmark Backup on Safari: Tips and Tricks for Data Protection</u></a></li>
+<li><a href="https://win-unique.techidaily.com/emeditor-text-editor-why-word-count-feature-stays-off-by-default/"><u>EmEditor Text Editor: Why Word Count Feature Stays Off by Default</u></a></li>
+<li><a href="https://win-unique.techidaily.com/essential-hardware-and-software-specs-for-windows-11/"><u>Essential Hardware and Software Specs for Windows 11</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guidelines-per-il-backup-dei-dati-su-server-nas-con-il-software-piu-ottimo/"><u>Guidelines per Il Backup Dei Dati Su Server NAS Con Il Software Più Ottimo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/haptic-feedback-in-e-commerce-trials-for-2024/"><u>Haptic Feedback in E-Commerce Trials for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-address-audio-malfunctions-within-the-newworld-environment/"><u>How to Address Audio Malfunctions Within the NewWorld Environment</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-avoiding-storage-woes-removing-youtube-media/"><u>In 2024, Avoiding Storage Woes Removing YouTube Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-how-to-sendtransfer-large-video-files-from-iphone-to-mac/"><u>In 2024, How to Send/Transfer Large Video Files From iPhone to Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-apples-new-ai-powered-m3-macbook-air-tech-for-everyone-has-finally-arrived-zdnet-insights/"><u>In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-pro-showdown-comparing-features-to-find-your-perfect-apple-tablet-insights-from-zdnet/"><u>IPad Pro Showdown: Comparing Features to Find Your Perfect Apple Tablet - Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-smoothing-out-v-gameplay-lag-on-your-computer/"><u>Troubleshooting Steps for Smoothing Out 'V' Gameplay Lag on Your Computer</u></a></li>
+<li><a href="https://win-unique.techidaily.com/two-effective-ways-to-perform-a-clean-restart-on-your-windows-11-machine-without-losing-data/"><u>Two Effective Ways to Perform a Clean Restart on Your Windows 11 Machine Without Losing Data</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unraveling-the-mystery-how-can-onedrive-consume-more-iphoneipad-storage-than-expected/"><u>Unraveling the Mystery: How Can OneDrive Consume More iPhone/iPad Storage Than Expected?</u></a></li>
 </ul></div>
 

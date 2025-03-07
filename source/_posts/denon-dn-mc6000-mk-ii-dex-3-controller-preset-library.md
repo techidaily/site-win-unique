@@ -1,7 +1,7 @@
 ---
 title: Denon DN-MC6000 Mk II DEX 3 Controller Preset Library
-date: 2025-02-16T21:15:14.402Z
-updated: 2025-02-19T03:18:43.605Z
+date: 2025-03-02T16:13:43.719Z
+updated: 2025-03-07T18:08:30.282Z
 tags:
   - product
 categories:
@@ -33,10 +33,6 @@ This is a brand spanking new mapping file for DEX 3, so we’d appreciate your f
 
 **INSTALLATION INSTRUCTIONS:** Unzip the Map (js file) To: **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING MC6000 MKII SCRIPT WITH THE NEW ONE!_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-04-17 12:51:322023-04-10 17:04:26Denon DN-MC6000 MKII Mapping File For DEX 3}
@@ -56,22 +52,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/dex3mapdenonmc6006mkii-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-minimca-houses-best-abode-guides-for-new-players/"><u>[New] In 2024, MiniMCA Houses Best Abode Guides for New Players</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-10-lecture-recorders-for-teachers/"><u>[Updated] In 2024, Top 10 Lecture Recorders for Teachers</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-wow-crash-code-132-from-windows-11/"><u>Banishing WoW Crash Code 132 From Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-steps-reconnecting-non-joy-con-in-nintendo-switch/"><u>Effective Steps: Reconnecting Non-Joy-Con in Nintendo Switch</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-strategies-to-protect-your-processor-from-defects-insights-by-yl-computing/"><u>Effective Strategies to Protect Your Processor From Defects: Insights by YL Computing</u></a></li>
-<li><a href="https://win-unique.techidaily.com/high-definition-audi-r8-white-car-deckshots-and-desktop-wallpapers-premium-vehicle-visuals/"><u>High-Definition Audi R8 White Car Deckshots & Desktop Wallpapers - Premium Vehicle Visuals</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-s18e-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo S18e Without PUK Codes</u></a></li>
-<li><a href="https://win-unique.techidaily.com/navigating-legal-obstacles-in-digital-assets-expert-analysis-by-yl-software-specialists/"><u>Navigating Legal Obstacles in Digital Assets - Expert Analysis by YL Software Specialists</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-how-to-get-filmora-for-free-without-crack-100-truthful/"><u>New 2024 Approved How to Get Filmora for Free without Crack (100 Truthful)</u></a></li>
-<li><a href="https://win-unique.techidaily.com/optimize-system-performance-by-deleting-extra-programs-and-data-expert-advice-by-yl-software-solutions/"><u>Optimize System Performance by Deleting Extra Programs and Data – Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-yellow-tint-restore-true-color-on-windows/"><u>Overcoming Yellow Tint: Restore True Color on Windows</u></a></li>
-<li><a href="https://win-unique.techidaily.com/reveal-concealed-documents-on-windows-with-ease-expert-tips-from-yl-computings-blog/"><u>Reveal Concealed Documents on Windows With Ease - Expert Tips From YL Computing's Blog</u></a></li>
-<li><a href="https://win-unique.techidaily.com/revive-your-treasured-memories-discover-the-magic-of-old-photo-scratch-removal-by-yl-computing-expertise-in-preserving-past-for-free/"><u>Revive Your Treasured Memories: Discover the Magic of Old Photo Scratch Removal by YL Computing – Expertise in Preserving Past for Free</u></a></li>
-<li><a href="https://win-unique.techidaily.com/understanding-hardware-and-software-prerequisites-for-optimal-control-panel-configuration-insights-by-yl-computing/"><u>Understanding Hardware and Software Prerequisites for Optimal Control Panel Configuration - Insights by YL Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts-for-2024/"><u>Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-lenovo-ideapad-100-driver-downloads-and-installation-tips-for-windows-11/"><u>Update Your Lenovo IdeaPad 100 - Driver Downloads & Installation Tips for Windows 11</u></a></li>
-<li><a href="https://win-unique.techidaily.com/yl-software-solutions-a-guide-to-streamlining-your-digital-space-by-tackling-duplicate-file-dilemmas/"><u>YL Software Solutions: A Guide to Streamlining Your Digital Space by Tackling Duplicate File Dilemmas</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ance-of-words-crafting-bouncing-text-effects/"><u>[New] Dance of Words Crafting Bouncing Text Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-storing-image-frames-from-videos-on-windows-11/"><u>[New] Storing Image Frames From Videos on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-cyberpower-cp6-essential-backup-unit-evaluation/"><u>Comprehensive Review of the CyberPower CP6# - Essential Backup Unit Evaluation</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-mp3-songs-finder-using-mp3goo-downloader-for-easy-music-downloads/"><u>Free MP3 Songs Finder: Using MP3GOO Downloader for Easy Music Downloads</u></a></li>
+<li><a href="https://win-unique.techidaily.com/is-it-possible-to-include-corporate-information-within-a-continuous-scrolling-ebook-using-flipbuilders-features/"><u>Is It Possible to Include Corporate Information Within a Continuous Scrolling eBook Using FlipBuilder's Features?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/maximize-user-engagement-learn-how-to-set-up-seamless-flipbook-download-on-your-website-flipbuilder/"><u>Maximize User Engagement - Learn How to Set Up Seamless Flipbook Download on Your Website [FlipBuilder]</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-gradual-diminishment-of-audio-fidelity-in-adobe-rush/"><u>New 2024 Approved The Gradual Diminishment of Audio Fidelity in Adobe Rush</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/quality-movie-maker-turn-everyday-video-clips-into-high-quality/"><u>Quality Movie Maker Turn Everyday Video Clips Into High Quality</u></a></li>
+<li><a href="https://win-unique.techidaily.com/revamping-your-flipbook-design-change-background-with-flipbuilder/"><u>Revamping Your Flipbook Design - Change Background with FlipBuilder</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-guide-converting-images-to-pdf-on-flipbuilder/"><u>Step-by-Step Guide: Converting Images to PDF on FlipBuilder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Fixing Windows Issues with SFC /Scannow in Windows 11"
-date: 2025-01-19T06:28:52.839Z
-updated: 2025-01-20T19:05:27.462Z
+date: 2025-02-28T16:06:17.494Z
+updated: 2025-03-07T16:44:30.537Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7be220a13f40de369ff80fd9e.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -32,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -77,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -104,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,22 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-finding-classic-facebook-content-for-2024/"><u>[New] The Art of Finding Classic Facebook Content for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-accelerating-livestreams-on-periscope-made-easy-for-2024/"><u>[Updated] Accelerating Livestreams on Periscope Made Easy for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/3-effective-methods-crafting-a-windows-11-recovery-drive-from-usb-for-secondary-systems/"><u>3 Effective Methods: Crafting a Windows 11 Recovery Drive From USB for Secondary Systems</u></a></li>
-<li><a href="https://win-unique.techidaily.com/can-restoring-factory-settings-on-computers-delete-stored-information-discover-the-truth/"><u>Can Restoring Factory Settings on Computers Delete Stored Information? Discover the Truth!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comment-reduire-la-taille-dun-fichier-pdf-encombrant-sans-frais/"><u>Comment Réduire La Taille D'un FICHIER PDF Encombrant Sans Frais?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/dell-migration-vs-pcmover-which-offers-superior-performance-and-efficiency/"><u>Dell Migration Vs. PCMover: Which Offers Superior Performance and Efficiency?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-simple-et-pratique-installer-windows-11-sur-un-nouveau-disque-dur-via-une-cle-usb/"><u>Guide Simple Et Pratique : Installer Windows 11 Sur Un Nouveau Disque Dur via Une Clé USB</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-enable-reset-all-data-functionality-when-it-appears-grayed-out-on-ios-devices/"><u>How to Enable 'Reset All Data' Functionality When It Appears Grayed-Out on iOS Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-14-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 14 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-and-simple-methods-for-video-compression-cost-free-options/"><u>Quick & Simple Methods for Video Compression: Cost-Free Options</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-acer-erecover-mishaps-top-2-strategies-for-efficient-fixes/"><u>Resolving Acer eRecover Mishaps: Top 2 Strategies for Efficient Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/stay-ahead-of-overheating-8-must-have-cpu-cooling-tips/"><u>Stay Ahead of Overheating: 8 Must-Have CPU Cooling Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/swf-mp4-internet-movavi/"><u>SWF 파일을 MP4로 간단한 방식으로 바꾸기: 원향 Internet에서 무가스 제공 - Movavi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-outlook-mail-how-to-fix-cannot-open-errors-on-windows-11/"><u>Troubleshooting Outlook Mail: How to Fix 'Cannot Open' Errors on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-look-logitechs-elite-4k-webcam-review/"><u>[Updated] Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-routine-for-large-files-journey-from-iphones-to-macs/"><u>[Updated] The Ultimate Routine for Large Files' Journey From iPhones to Macs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anno-1800-and-directx-troubleshooting-solutions-unveiled/"><u>Anno 1800 and DirectX Troubleshooting - Solutions Unveiled!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210250964-9781513674155-channeled-human-wisdom-for-modern-times/"><u>Channeled Human Wisdom for Modern Times | Free Book</u></a></li>
+<li><a href="https://win-unique.techidaily.com/computer-fans-running-correctly-guide-and-performance/"><u>Computer Fans, Running Correctly, Guide, and Performance.</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-every-feature-a-step-by-step-guide-to-accessing-your-full-control-panel-yl-computing/"><u>Discover Every Feature: A Step-by-Step Guide to Accessing Your Full Control Panel - YL Computing</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discovering-the-commander-unveiling-the-chief-of-the-taiping-uprising-during-1840s-china-insights-by-yl-computing-and-yl-software/"><u>Discovering the Commander: Unveiling the Chief of the Taiping Uprising During 1840S China - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Huawei has native HEVC support?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-ways-to-resolve-dictation-failures-on-ios-devices/"><u>Effective Ways to Resolve Dictation Failures on iOS Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-distortion-effects-on-photographic-text-for-2024/"><u>Exploring Distortion Effects on Photographic Text for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fix-your-printer-woes-with-yl-software-a-guide-to-overcoming-scanner-unfound/"><u>Fix Your Printer Woes with YL Software: A Guide to Overcoming 'Scanner Unfound'</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-do-memory-issues-lead-to-windows-instability-insights-from-yl-computing-and-software/"><u>How Do Memory Issues Lead To Window's Instability: Insights From YL Computing & Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-ahead-of-the-game-in-sub4sub-essential-beginners-guide-recommended/"><u>In 2024, Ahead of the Game in Sub4sub Essential Beginner's Guide Recommended!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/introducing-jammtext-v12-the-new-frontier-in-digital-turntablism-for-pro-djs-and-beginners-alike/"><u>Introducing JammText v1.2 – The New Frontier in Digital Turntablism for Pro DJs and Beginners Alike</u></a></li>
+<li><a href="https://win-unique.techidaily.com/retrieving-accidentally-removed-files-in-windows-essential-steps-with-expert-advice-from-yl-software/"><u>Retrieving Accidentally Removed Files in Windows: Essential Steps with Expert Advice From YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-roomba-combo-j7plus-the-nearly-perfect-hybrid-robot-vacuum-insights-from-zdnet/"><u>Review of the Roomba Combo J7+: The Nearly Perfect Hybrid Robot Vacuum - Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-digital-wallet-understanding-the-risks-of-using-coin-balance-tools-insights-from-yl-software/"><u>Secure Your Digital Wallet: Understanding the Risks of Using Coin Balance Tools - Insights From YL Software</u></a></li>
 </ul></div>
 

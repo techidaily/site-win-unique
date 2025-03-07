@@ -1,7 +1,7 @@
 ---
 title: "Crucial Alert: Avoid Updating DEX 3 & LYRX on Macs with Catalina - Protect Your Software!"
-date: 2025-02-11T20:18:18.245Z
-updated: 2025-02-19T00:40:33.530Z
+date: 2025-03-03T20:35:45.177Z
+updated: 2025-03-07T20:54:23.111Z
 tags:
   - product
 categories:
@@ -25,10 +25,6 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2019-10-08 15:54:042019-10-08 15:55:38Important Notice for DEX 3 Users | Do Not Update to macOS Catalina}
@@ -48,15 +44,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-capture-and-share-iphone-to-snapchat-backup-guide-for-2024/"><u>[Updated] Seamless Capture & Share IPhone to Snapchat Backup Guide for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>FreeFrame Finders Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
-<li><a href="https://win-unique.techidaily.com/hoe-plaknotten-in-windows-1110-te-bepalen-en-aan-de-juiste-locatie-op-te-slaan-voorlopige-verklaring/"><u>Hoe Plaknotten in Windows 11/10 Te Bepalen en Aan De Juiste Locatie Op Te Slaan - Voorlopige Verklaring</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-magic-5-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor Magic 5 Pro Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-logic-pro-the-process-of-gradually-quietening-audio-levels/"><u>In 2024, Logic Pro The Process of Gradually Quietening Audio Levels</u></a></li>
-<li><a href="https://win-unique.techidaily.com/introduccion-completa-a-la-carpeta-de-respaldo-aomei-una-guia-invaluable-para-usuarios-e-it-professionals/"><u>Introducción Completa a La Carpeta De Respaldo AOMEI: Una Guía Invaluable Para Usuarios E IT Professionals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-slug-line-usage-in-copywriting-for-2024/"><u>Mastering Slug Line Usage in Copywriting for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-complete-guide-to-forcibly-removing-files-and-folders/"><u>The Complete Guide to Forcibly Removing Files and Folders</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unlocking-sound-on-your-device-resolving-evil-genius-2-quiet-conundrum/"><u>Unlocking Sound on Your Device: Resolving 'Evil Genius 2' Quiet Conundrum</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-11-shared-folder-access-issues-resolved-5-proven-fixes/"><u>Windows 11 Shared Folder Access Issues Resolved [5 Proven Fixes]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-techniques-recording-playstation-4-games-for-2024/"><u>[New] Essential Techniques Recording PlayStation 4 Games for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamline-your-online-experience-blocking-youtube-channels-effectively/"><u>[Updated] In 2024, Streamline Your Online Experience Blocking Youtube Channels Effectively</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-versions-of-windows-movie-maker/"><u>[Updated] Versions of Windows Movie Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-arcadearchive-annotator/"><u>2024 Approved ArcadeArchive Annotator</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-the-powerful-world-of-gorilla-grodd-in-dc-comics-with-captivating-imagery-and-wallpaper-artwork-by-yl-software/"><u>Discover the Powerful World of Gorilla Grodd in DC Comics with Captivating Imagery and Wallpaper Artwork by YL Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-ideapad-100-drivers-for-windows-11-download-and-installation-instructions/"><u>Get the Latest Lenovo IdeaPad 100 Drivers for Windows 11 - Download & Installation Instructions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/graphic-card-continuous-failures-explored-insights-and-fixes-by-yl-tech-experts-yl-system-support/"><u>Graphic Card Continuous Failures Explored: Insights and Fixes by YL Tech Experts | YL System Support</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-ensure-your-scanning-equipment-runs-smoothly-with-up-to-date-drivers-from-yl-computings-latest-releases/"><u>How to Ensure Your Scanning Equipment Runs Smoothly with Up-to-Date Drivers From YL Computing's Latest Releases</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-typing-problems-on-pc-fixes-for-windows-1078-users/"><u>Keyboard Typing Problems on PC? Fixes for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/orbital-design-kit-for-2024/"><u>Orbital Design Kit for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/professionelle-behebung-von-adata-ssd-fehlern-ihr-leitfaden-zur-effektiven-restaurierung-und-datensicherung/"><u>Professionelle Behebung Von ADATA-SSD Fehlern: Ihr Leitfaden Zur Effektiven Restaurierung Und Datensicherung</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/seamlessly-saving-your-screen-premium-choices-on-pc-and-mac-for-2024/"><u>Seamlessly Saving Your Screen Premium Choices on PC & Mac for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/solving-your-graphics-card-driver-problems-expert-tips-from-yl-computings-leading-solutions/"><u>Solving Your Graphics Card Driver Problems: Expert Tips From YL Computing's Leading Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-a-faulty-sound-device-insights-from-yl-softwares-professionals/"><u>Troubleshooting a Faulty Sound Device: Insights From YL Software's Professionals</u></a></li>
 </ul></div>
 
